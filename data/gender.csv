@@ -1,13 +1,22 @@
 name,source,gender,wikidata,type
+Stryjeńskich,wikidata,+,Q9146036;Q218326;Q3193544;Q3513721,way
+"Aleja Ireny Sendlerowej",wikidata,F,Q151932,way
 "Emilii Plater",wikidata,F,Q294136,way
 "Marii Skłodowskiej-Curie",wikidata,F,Q7186,way
 "Most Marii Skłodowskiej-Curie",wikidata,F,Q7186,way
 "Trasa Mostu im. Marii Skłodowskiej-Curie (Północnego)",wikidata,F,Q7186,way
+"Adama Idźkowskiego",wikidata,M,Q4197915,way
+"Adama Mickiewicza",wikidata,M,Q79822,way
 "Aleja Jana Chrystiana Szucha",wikidata,M,Q1692977,relation
 "Aleja Jana Pawła II",wikidata,M,Q989,way
+"Aleja Jana Rodowicza ""Anody""",wikidata,M,Q6149816,way
 "Aleja Jerzego Waszyngtona",wikidata,M,Q23,way
 "Aleja Prymasa Tysiąclecia",wikidata,M,Q165522,way
+"Aleksandra Fredry",wikidata,M,Q380506,way
+"Alfreda Nobla",wikidata,M,Q23810,way
+"Antoniego Mackiewicza",wikidata,M,Q2030345,way
 "Artura Grottgera",wikidata,M,Q714401,way
+"Bronisława Czecha",wikidata,M,Q541519,way
 Canaletta,wikidata,M,Q164688,way
 "Edwarda Gibalskiego",wikidata,M,Q11696174,way
 "Franciszka Ksawerego Dmochowskiego",wikidata,M,Q556568,way
@@ -16,6 +25,7 @@ Canaletta,wikidata,M,Q164688,way
 "Generała Romana Abrahama",wikidata,M,Q3267650,way
 "Generała Tadeusza Bora-Komorowskiego",wikidata,M,Q170356,way
 "Generała Władysława Andersa",wikidata,M,Q165544,way
+"Icchoka Lejba Pereca",wikidata,M,Q425644,way
 "Jana Kilińskiego",wikidata,M,Q383201,way
 "Jana Olbrachta",wikidata,M,Q53451,way
 "Jana Pawła Woronicza",wikidata,M,Q4416657,way
@@ -44,13 +54,15 @@ Canaletta,wikidata,M,Q164688,way
 "Rondo Generała Charles'a de Gaulle'a",wikidata,M,Q2042,relation
 "Rondo Ignacego Daszyńskiego",wikidata,M,Q14430,way
 "Rondo Jerzego Waszyngtona",wikidata,M,Q23,way
+"Rondo Romana Dmowskiego",wikidata,M,Q161590,way
 "Rondo Stefana Starzyńskiego",wikidata,M,Q3849484,way
-"Rondo Tybetu",wikidata,M,Q4216744,way
 "Stanisława Noakowskiego",wikidata,M,Q972823,way
 "Stefana Banacha",wikidata,M,Q180217,way
 "Stefana Jaracza",wikidata,M,Q3622841,way
 "Stefana Starzyńskiego",wikidata,M,Q3849484,way
+"Tadeusza Czackiego",wikidata,M,Q2638575,way
 "Tytusa Chałubińskiego",wikidata,M,Q6580661,way
+"Wojciecha Oczki",wikidata,M,Q4340740,way
 "Wybrzeże Kościuszkowskie",wikidata,M,Q191479,way
 "Władysława Umińskiego",wikidata,M,Q8865632,way
 "Łukasza Górnickiego",wikidata,M,Q345583,way

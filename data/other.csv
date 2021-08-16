@@ -1,16 +1,23 @@
 name,source,gender,wikidata,type
+"11 Listopada",wikidata,,Q2987,way
+"29 Listopada",wikidata,,Q3016,way
+"Aleja ""Solidarności""",wikidata,,Q1003,relation+way
+"Aleja Armii Ludowej",wikidata,,Q632757,way
 "Aleja Komisji Edukacji Narodowej",wikidata,,Q1562345,way
 "Aleja Krakowska",wikidata,,Q31487,way
 "Aleja Stanów Zjednoczonych",wikidata,,Q30,way
 "Aleja Wielkopolski",wikidata,,Q211371,relation
 "Aleja Wilanowska",wikidata,,Q1887504,way
+"Aleja Wojska Polskiego",wikidata,,Q9377431,way
 Barokowa,wikidata,,Q37853,way
 Barska,wikidata,,Q737925,way
+Belgijska,wikidata,,Q31,way
 Belwederska,wikidata,,Q645474,way
 Białobrzeska,wikidata,,Q855976,way
 Białostocka,wikidata,,Q761,way
 Bielańska,wikidata,,Q857304,way
 Bonifraterska,wikidata,,Q808386,way
+Bródnowska,wikidata,,Q4981889,way
 Działdowska,wikidata,,Q983720,way
 Esperanto,wikidata,,Q143,way
 Filtrowa,wikidata,,Q642455,way
@@ -39,30 +46,33 @@ Opaczewska,wikidata,,Q11798430,way
 Puławska,wikidata,,Q320007,way
 Płocka,wikidata,,Q104725,way
 Radzymińska,wikidata,,Q609246,way
+"Rondo Czterdziestolatka",wikidata,,Q5202185,way
 "Rondo Organizacji Narodów Zjednoczonych",wikidata,,Q1065,way
 "Rondo Ryszarda Kaczorowskiego",wikidata,,Q18820,way
+"Rondo Tybetu",wikidata,,Q17252,way
 "Rondo Zdzisława Lubomirskiego",wikidata,,Q1020136,way
 "Rondo Zgrupowania AK ""Radosław""",wikidata,,Q7281641,way
 Siedmiogrodzka,wikidata,,Q39473,way
 Szczęśliwicka,wikidata,,Q9351235,way
 Szpitalna,wikidata,,Q63705589,way
+Warecka,wikidata,,Q276857,way
 Wawelska,wikidata,,Q18820,way
 Wierzbowa,wikidata,,Q857304,way
 Wolska,wikidata,,Q1020136,way
 "Wybrzeże Gdańskie",wikidata,,Q1792,way
 "Wybrzeże Gdyńskie",wikidata,,Q1792,way
+"Wybrzeże Helskie",wikidata,,Q848973,way
 Łęczycka,wikidata,,Q325727,way
 "Świętych Cyryla i Metodego",wikidata,,Q239925,way
+Żurawia,wikidata,,Q15563977,way
 "1 Maja",,,,way
 "1 Praskiego Pułku WP",,,,way
 "1 Sierpnia",,,,way
-"11 Listopada",,,,way
 "15 Sierpnia",,,,way
 "1831 Roku",,,,way
 "19 Kwietnia",,,,way
 "21 Pułku Piechoty Dzieci Warszawy",,,,way
 "27 Grudnia",,,,way
-"29 Listopada",,,,way
 "3 Maja",,,,way
 31KD-D,,,,way
 32KD-D,,,,way
@@ -74,9 +84,7 @@ Achillesa,,,,way
 "Adama Asnyka",,,,way
 "Adama Branickiego",,,,way
 "Adama Branickiego (gotowa, czeka na otwarcie)",,,,way
-"Adama Idźkowskiego",,,,way
 "Adama Jarzębskiego",,,,way
-"Adama Mickiewicza",,,,way
 "Adama Naruszewicza",,,,way
 "Adama Próchnika",,,,way
 "Adama Pługa",,,,way
@@ -110,7 +118,6 @@ Albatrosów,,,,way
 "Alberta Einsteina",,,,way
 "Albina Jakiela",,,,way
 "Aleja ""Psotki i Śmieszki""",,,,way
-"Aleja ""Solidarności""",,,,relation+way
 "Aleja 1",,,,way
 "Aleja 10",,,,way
 "Aleja 100",,,,way
@@ -221,7 +228,6 @@ Albatrosów,,,,way
 "Aleja Andrzeja Romockiego ""Morro""",,,,way
 "Aleja Antoniego Nowakowskiego",,,,way
 "Aleja Armii Krajowej",,,,way
-"Aleja Armii Ludowej",,,,way
 "Aleja Beaty Obertyńskiej",,,,way
 "Aleja Biedronek",,,,way
 "Aleja Biura Odbudowy Stolicy",,,,way
@@ -253,15 +259,14 @@ Albatrosów,,,,way
 "Aleja Harcerzy Rzeczypospolitej",,,,way
 "Aleja Henryka Jordana",,,,way
 "Aleja Inspektowa",,,,way
-"Aleja Ireny Sendlerowej",,,,way
 "Aleja Irysowa",,,,way
 "Aleja Jabłoni",,,,way
-"Aleja Jana Rodowicza ""Anody""",,,,way
 "Aleja Jarosława Iwaszkiewicza",,,,way
 "Aleja Jaśminów",,,,way
 "Aleja Józefa Becka",,,,way
 "Aleja Józefa Czapskiego",,,,way
 "Aleja Józefa Nojiego",,,,way
+"Aleja Kasztanowa",,,,way
 "Aleja Kazimierza Kumanieckiego",,,,way
 "Aleja Kazimierza Lisieckiego ""Dziadka""",,,,way
 "Aleja Kobiet",,,,way
@@ -339,7 +344,6 @@ Albatrosów,,,,way
 "Aleja Wesoła",,,,way
 "Aleja Wincentego Witosa",,,,way
 "Aleja Wiśniowa",,,,way
-"Aleja Wojska Polskiego",,,,way
 "Aleja Wyzwolenia",,,,way
 "Aleja Wyścigowa",,,,way
 "Aleja Władysława Giżyckiego",,,,way
@@ -434,7 +438,6 @@ Albatrosów,,,,way
 "Aleksandra Brücknera",,,,way
 "Aleksandra Dyżewskiego",,,,way
 "Aleksandra Fleminga",,,,way
-"Aleksandra Fredry",,,,way
 "Aleksandra Gajkowicza",,,,way
 "Aleksandra Gierymskiego",,,,way
 "Aleksandra Gieysztora",,,,way
@@ -454,7 +457,6 @@ Albatrosów,,,,way
 "Aleksandra Świętochowskiego",,,,way
 Aleksandrowska,,,,way
 "Aleksandry Śląskiej",,,,way
-"Alfreda Nobla",,,,way
 Algierska,,,,way
 "Alka Dawidowskiego",,,,way
 "Alojzego Felińskiego",,,,way
@@ -509,7 +511,6 @@ Antenowa,,,,way
 "Antoniego Józefa Madalińskiego",,,,way
 "Antoniego Kacpury",,,,way
 "Antoniego Kocjana",,,,way
-"Antoniego Mackiewicza",,,,way
 "Antoniego Magiera",,,,way
 "Antoniego Malczewskiego",,,,way
 "Antoniego Pajdaka",,,,way
@@ -650,7 +651,6 @@ Bednarska,,,,way
 "Bedřicha Smetany",,,,way
 Begonii,,,,way
 Bekasów,,,,way
-Belgijska,,,,way
 Belgradzka,,,,way
 "Béli Bartóka",,,,way
 Bellony,,,,way
@@ -786,10 +786,8 @@ Bratnia,,,,way
 Brazylijska,,,,way
 Brochowska,,,,way
 Brodnicka,,,,way
-Bródnowska,,,,way
 Brodzik,,,,way
 "Bronisława ""Lota"" Pietraszewicza",,,,way
-"Bronisława Czecha",,,,way
 "Bronisława Gembarzewskiego",,,,way
 "Bronisława Trentowskiego",,,,way
 "Bronisława Wesołowskiego",,,,way
@@ -1687,7 +1685,6 @@ Hutnicza,,,,way
 "IX Poprzeczna",,,,way
 Iberyjska,,,,way
 Ibisa,,,,way
-"Icchoka Lejba Pereca",,,,way
 Ideowców,,,,way
 Ideowczyń,,,,way
 Igańska,,,,way
@@ -3868,7 +3865,6 @@ Romańska,,,,way
 "Rondo Braci Skurów",,,,way
 "Rondo Bratanków",,,,way
 "Rondo Budowniczych Ursynowa",,,,way
-"Rondo Czterdziestolatka",,,,way
 "Rondo Daszyńskiego 08",,,,relation
 "Rondo Dżochara Dudajewa",,,,way
 "Rondo Edmunda Karola Wolframa",,,,way
@@ -3918,7 +3914,6 @@ Romańska,,,,way
 "Rondo Powstania Węgierskiego ‘56",,,,way
 "Rondo Radia Wolna Europa",,,,way
 "Rondo Roberta Schumana",,,,way
-"Rondo Romana Dmowskiego",,,,way
 "Rondo Romana Wilhelmiego",,,,way
 "Rondo Ronalda Reagana",,,,way
 "Rondo Ruda",,,,way
@@ -4335,7 +4330,6 @@ Staniewicka,,,,way
 Stanisławowska,,,,way
 Stara,,,,way
 Starczewska,,,,way
-"Stare Nalewki",,,,way
 "Starego Doktora",,,,way
 "Starego Dębu",,,,way
 "Starej Baśni",,,,way
@@ -4408,7 +4402,6 @@ Strumykowa,,,,way
 Strunowa,,,,way
 Strużańska,,,,way
 Strycharska,,,,way
-Stryjeńskich,,,,way
 Strzegomska,,,,way
 Strzelca,,,,way
 Strzelców,,,,way
@@ -4578,7 +4571,6 @@ Służewska,,,,way
 Taborowa,,,,way
 "Tadeusza Borowskiego",,,,way
 "Tadeusza Boya-Żeleńskiego",,,,way
-"Tadeusza Czackiego",,,,way
 "Tadeusza Gajcego",,,,way
 "Tadeusza Hennela",,,,way
 "Tadeusza Hołówki",,,,way
@@ -4815,7 +4807,6 @@ Wandy,,,,way
 Waniliowa,,,,way
 Wantule,,,,way
 Wapienna,,,,way
-Warecka,,,,way
 Warmińska,,,,way
 Warneńska,,,,way
 Warowna,,,,way
@@ -4958,7 +4949,6 @@ Wójcicka,,,,way
 "Wojciecha Gersona",,,,way
 "Wojciecha Górskiego",,,,way
 "Wojciecha Korfantego",,,,way
-"Wojciecha Oczki",,,,way
 "Wojciecha Świętosławskiego",,,,way
 Wojdyńska,,,,way
 Wojnicka,,,,way
@@ -5004,7 +4994,6 @@ Wszemirowska,,,,way
 Wybieg,,,,way
 Wyborna,,,,way
 Wybrańska,,,,way
-"Wybrzeże Helskie",,,,way
 "Wybrzeże Puckie",,,,way
 "Wybrzeże Szczecińskie",,,,way
 Wycieczka,,,,way
@@ -5460,7 +5449,6 @@ pochylnia,,,,way
 Żubowiecka,,,,way
 Żubrowa,,,,way
 Żupnicza,,,,way
-Żurawia,,,,way
 Żurawicka,,,,way
 Żurawiny,,,,way
 Żuromińska,,,,way
