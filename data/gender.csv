@@ -1,24 +1,59 @@
 name,source,gender,wikidata,type
 Stryjeńskich,wikidata,+,Q9146036;Q218326;Q3193544;Q3513721,way
+"Aleja Beaty Obertyńskiej",wikidata,F,Q4877016,way
+"Aleja Generał Marii Wittek",wikidata,F,Q6761660,way
 "Aleja Ireny Sendlerowej",wikidata,F,Q151932,way
+"Aleja Marii Dulębianki",wikidata,F,Q11768819,way
 "Aleja Narcyzy Żmichowskiej",wikidata,F,Q445845,way
+"Aleksandry Śląskiej",wikidata,F,Q532700,way
 "Anny German",wikidata,F,Q298022,way
+"Barbary Radziwiłłówny",wikidata,F,Q233823,way
+"Cecylii Śniegockiej",wikidata,F,Q8865473,way
 "Danuty Siedzikówny ""Inki""",wikidata,F,Q45379,way
 "Elizy Orzeszkowej",wikidata,F,Q240174,way
 "Elżbiety Drużbackiej",wikidata,F,Q3622333,way
+"Elżbiety Rakuszanki",wikidata,F,Q93408,way
 "Emilii Plater",wikidata,F,Q294136,way
+"Filipiny Płaskowickiej",wikidata,F,Q11698061,way
+"Filipiny Płaskowickiej (gotowa, czeka na otwarcie)",wikidata,F,Q11698061,way
 "Hanki Sawickiej",wikidata,F,Q7944075,way
 "Heleny Modrzejewskiej",wikidata,F,Q454653,way
+"Heleny Rzeszotarskiej",wikidata,F,Q88396820,way
+"Heleny Wolff",wikidata,F,Q106093704,way
 "Indiry Gandhi",wikidata,F,Q1149,way
+"Ireny Kosmowskiej",wikidata,F,Q7942525,way
+"Jadwigi Smosarskiej",wikidata,F,Q129617,way
+"Justyny Budzińskiej-Tylickiej",wikidata,F,Q11729689,way
 "Kaliny Jędrusik",wikidata,F,Q274295,way
 "Klementyny Hoffmanowej",wikidata,F,Q433781,way
+"Królowej Bony",wikidata,F,Q229434,way
+"Królowej Marysieńki",wikidata,F,Q240113,way
 "Krystyny Matysiakówny",wikidata,F,Q11748739,way
 "Ludwiki Wawrzyńskiej",wikidata,F,Q6699471,way
 "Marii Konopnickiej",wikidata,F,Q257852,way
 "Marii Skłodowskiej-Curie",wikidata,F,Q7186,way
+"Most Anny Jagiellonki",wikidata,F,Q233989,way
 "Most Marii Skłodowskiej-Curie",wikidata,F,Q7186,way
+"Olgi Boznańskiej",wikidata,F,Q466639,way
+"Pasaż Anny Świrszczyńskiej",wikidata,F,Q2659850,way
+"Pasaż Haliny Poświatowskiej",wikidata,F,Q445719,way
+"Pasaż Kazimiery Iłłakowiczówny",wikidata,F,Q457949,way
+"Pasaż Marii Morskiej",wikidata,F,Q8863611,way
+"Pasaż Wisławy Szymborskiej",wikidata,F,Q42552,way
+"Pasaż Zuzanny Ginczanki",wikidata,F,Q8075489,way
+"Plac Zofii Wóycickiej",wikidata,F,Q95201600,way
 "Poli Gojawiczyńskiej",wikidata,F,Q7208838,way
+"Rondo Elżbiety Zahorskiej",wikidata,F,Q97178986,way
+"Rondo Emilii Malessy ""Marcysi""",wikidata,F,Q5371645,way
+"Rondo Haliny Szwarc",wikidata,F,Q5642381,way
+"Rondo Kamili Skolimowskiej",wikidata,F,Q236109,way
+"Rondo Krystyny Krahelskiej",wikidata,F,Q2001173,way
+"Rondo Marii Tarnowskiej",wikidata,F,Q11769193,way
+"Stefanii Sempołowskiej",wikidata,F,Q7606372,way
 "Trasa Mostu im. Marii Skłodowskiej-Curie (Północnego)",wikidata,F,Q7186,way
+"Wandy Modlibowskiej",wikidata,F,Q9370811,way
+"Wandy Rutkiewicz",wikidata,F,Q237493,way
+"Świętej Urszuli Ledóchowskiej",wikidata,F,Q78649,way
 "Adama Asnyka",wikidata,M,Q348690,way
 "Adama Branickiego",wikidata,M,Q11684270,way
 "Adama Branickiego (gotowa, czeka na otwarcie)",wikidata,M,Q11684270,way
@@ -33,11 +68,44 @@ Stryjeńskich,wikidata,+,Q9146036;Q218326;Q3193544;Q3513721,way
 "Adolfa Suligowskiego",wikidata,M,Q8865270,way
 "Alberta Einsteina",wikidata,M,Q937,way
 "Albina Jakiela",wikidata,M,Q9144479,way
+"Aleja Andrzeja Bobkowskiego",wikidata,M,Q2846987,way
+"Aleja Andrzeja Romockiego ""Morro""",wikidata,M,Q4759697,way
+"Aleja Czesława Miłosza",wikidata,M,Q45970,way
+"Aleja Freddiego Mercury'ego",wikidata,M,Q15869,way
+"Aleja Generała Bolesława Wieniawy-Długoszowskiego",wikidata,M,Q879093,way
+"Aleja George'a Harrisona",wikidata,M,Q2643,way
+"Aleja Gustawa Herlinga-Grudzińskiego",wikidata,M,Q2474166,way
 "Aleja Jana Chrystiana Szucha",wikidata,M,Q1692977,relation
 "Aleja Jana Pawła II",wikidata,M,Q989,way
 "Aleja Jana Rodowicza ""Anody""",wikidata,M,Q6149816,way
+"Aleja Jarosława Iwaszkiewicza",wikidata,M,Q558960,way
 "Aleja Jerzego Waszyngtona",wikidata,M,Q23,way
+"Aleja Józefa Czapskiego",wikidata,M,Q932390,way
+"Aleja Józefa Nojiego",wikidata,M,Q6320599,way
+"Aleja Kazimierza Lisieckiego ""Dziadka""",wikidata,M,Q7942842,way
+"Aleja Krzysztofa Skubiszewskiego",wikidata,M,Q663033,way
+"Aleja Księcia Józefa Poniatowskiego",wikidata,M,Q154382,way
+"Aleja Księdza Janusza Stanisława Pasierba",wikidata,M,Q6156071,way
+"Aleja Księdza Józefa Stanka",wikidata,M,Q1340524,way
+"Aleja Księdza Józefa Tischnera",wikidata,M,Q716845,way
+"Aleja Mariana Brandysa",wikidata,M,Q4095817,way
+"Aleja Marszałka Józefa Piłsudskiego",wikidata,M,Q885,way
+"Aleja Mieczysława Grydzewskiego",wikidata,M,Q6843597,way
+"Aleja Pawła Adamowicza",wikidata,M,Q2065090,way
+"Aleja Piotra Drzewieckiego",wikidata,M,Q7196938,way
 "Aleja Prymasa Tysiąclecia",wikidata,M,Q165522,way
+"Aleja Pułkownika Ryszarda Kuklińskiego",wikidata,M,Q430607,way
+"Aleja Stanisława Balińskiego",wikidata,M,Q7599111,way
+"Aleja Stanisława Lorentza",wikidata,M,Q2331380,way
+"Aleja Stanisława Mrożka",wikidata,M,Q65167858,way
+"Aleja Sławomira Mrożka",wikidata,M,Q18832,way
+"Aleja Tadeusza Kaczyńskiego",wikidata,M,Q9354375,way
+"Aleja Tadeusza Konwickiego",wikidata,M,Q704516,way
+"Aleja Tadeusza Różewicza",wikidata,M,Q327275,way
+"Aleja Tomasza Hopfera",wikidata,M,Q7942083,way
+"Aleja Wincentego Witosa",wikidata,M,Q540177,way
+"Aleja Władysława Reymonta",wikidata,M,Q121180,way
+"Aleja generała Władysława Sikorskiego",wikidata,M,Q153132,way
 "Aleksandra Bardiniego",wikidata,M,Q324218,way
 "Aleksandra Brücknera",wikidata,M,Q112029,way
 "Aleksandra Dyżewskiego",wikidata,M,Q8861153,way
@@ -60,109 +128,199 @@ Stryjeńskich,wikidata,+,Q9146036;Q218326;Q3193544;Q3513721,way
 "Aleksandra Zelwerowicza",wikidata,M,Q609407,way
 "Aleksandra Świętochowskiego",wikidata,M,Q723324,way
 "Alfreda Nobla",wikidata,M,Q23810,way
+"Alka Dawidowskiego",wikidata,M,Q3274543,way
 "Alojzego Felińskiego",wikidata,M,Q1359523,way
 "Andrzeja Krzyckiego",wikidata,M,Q515151,way
 "Andrzeja Munka",wikidata,M,Q515331,way
+"Andrzeja Szomańskiego",wikidata,M,Q7944115,way
 "Antka Rozpylacza",wikidata,M,Q4776205,way
 "Antoniego Dobiszewskiego",wikidata,M,Q9156617,way
 "Antoniego Mackiewicza",wikidata,M,Q2030345,way
 "Antoniego Solariego",wikidata,M,Q9157942,way
+"Arcybiskupa Józefa Teodorowicza",wikidata,M,Q1969584,way
+"Armanda Călinescu",wikidata,M,Q439903,way
 "Artura Grottgera",wikidata,M,Q714401,way
 "Augusta Cieszkowskiego",wikidata,M,Q176163,way
+"Benedykta Hertza",wikidata,M,Q7942056,way
+"Bernarda Wapowskiego",wikidata,M,Q822770,way
+"Biernata z Lublina",wikidata,M,Q605192,way
+"Bolesława Chrobrego",wikidata,M,Q53436,way
+"Bolesława Krzywoustego",wikidata,M,Q53441,way
 "Bolesława Prusa",wikidata,M,Q144439,way
+"Bolesława Śmiałego",wikidata,M,Q53440,way
 "Brata Alberta",wikidata,M,Q924770,way
 "Bronisława Czecha",wikidata,M,Q541519,way
 "Bronisława Trentowskiego",wikidata,M,Q2255276,way
+"Bronisława Wesołowskiego",wikidata,M,Q927534,way
+"Bronisława Wieczorkiewicza",wikidata,M,Q9179923,way
+"Bulwar Bohdana Grzymały-Siedleckiego",wikidata,M,Q11688490,way
 "Bulwar Zbigniewa Religi",wikidata,M,Q168161,way
+"Bulwar generała George'a Smitha Pattona",wikidata,M,Q186492,way
 "Błogosławionego Ładysława z Gielniowa",wikidata,M,Q1671628,way
 Canaletta,wikidata,M,Q164688,way
 "Cypriana Godebskiego",wikidata,M,Q2628368,way
 "Cypriana Kamila Norwida",wikidata,M,Q340122,way
 "Czesława Ludwika Rybińskiego",wikidata,M,Q8864795,way
+"Edmunda Jankowskiego",wikidata,M,Q3353089,way
+"Edwarda Fondamińskiego",wikidata,M,Q11696173,way
 "Edwarda Gibalskiego",wikidata,M,Q11696174,way
+"Edwarda Habicha",wikidata,M,Q8861608,way
 "Edwarda Jelinka",wikidata,M,Q1960487,way
 "Edwarda Szymańskiego",wikidata,M,Q11696265,way
 "Emanuela Ringelbluma",wikidata,M,Q707554,way
 "Emila Zegadłowicza",wikidata,M,Q4190109,way
+"Emila Zoli",wikidata,M,Q504,way
+"Emiliana Konopczyńskiego",wikidata,M,Q17648352,way
 "Erazma Ciołka",wikidata,M,Q2813867,way
 "Erika Dahlbergha",wikidata,M,Q434533,way
+"Eugeniusza Bodo",wikidata,M,Q117444,way
 "Eustachego Tyszkiewicza",wikidata,M,Q2624092,way
+"Faustyna Czerwijowskiego",wikidata,M,Q14917963,way
+"Floriana Marciniaka",wikidata,M,Q820761,way
+"Francesca Nulla",wikidata,M,Q670522,way
+"Franciszka Adolfa Achera",wikidata,M,Q9262206,way
 "Franciszka Bohomolca",wikidata,M,Q609575,way
+"Franciszka Hynka",wikidata,M,Q1442363,way
 "Franciszka Karpińskiego",wikidata,M,Q3547,way
 "Franciszka Ksawerego Dmochowskiego",wikidata,M,Q556568,way
 "Franciszka Raszei",wikidata,M,Q883063,way
 "Franciszka Rymkiewicza",wikidata,M,Q9262896,way
+"Franciszka Salezego Jezierskiego",wikidata,M,Q5484322,way
 "Franciszka Żwirki",wikidata,M,Q3849277,way
 "Fryderyka Chopina",wikidata,M,Q1268,way
 "Gabriela Narutowicza",wikidata,M,Q55836,way
 "Gabriela Piotra Boduena",wikidata,M,Q9265131,way
 "Gabrieli Zapolskiej",wikidata,M,Q9375808,way
 "Generała Emila Augusta Fieldorfa „Nila”",wikidata,M,Q689612,way
-"Generała Józefa Bema",wikidata,M,Q266339,way
+"Generała Felicjana Sławoja Składkowskiego",wikidata,M,Q1403120,way
 "Generała Józefa Zajączka",wikidata,M,Q428311,way
+"Generała Kazimierza Sosnkowskiego",wikidata,M,Q2988903,way
+"Generała Michała Tokarzewskiego-Karaszewicza",wikidata,M,Q2983839,way
 "Generała Romana Abrahama",wikidata,M,Q3267650,way
 "Generała Stanisława Maczka",wikidata,M,Q512764,way
 "Generała Tadeusza Bora-Komorowskiego",wikidata,M,Q170356,way
 "Generała Władysława Andersa",wikidata,M,Q165544,way
 "Generała Władysława Sikorskiego",wikidata,M,Q153132,way
+Goworka,wikidata,M,Q29742510,way
 "Henryka Barona",wikidata,M,Q4078451,way
+"Henryka I Brodatego",wikidata,M,Q53445,way
+"Henryka II Pobożnego",wikidata,M,Q53446,way
+"Henryka IV Probusa",wikidata,M,Q53447,way
+"Henryka Melcera-Szczawińskiego",wikidata,M,Q605061,way
 "Henryka Mierzejewskiego",wikidata,M,Q11709046,way
+"Henryka Opieńskiego",wikidata,M,Q326871,way
+"Henryka Rodakowskiego",wikidata,M,Q301435,way
 "Henryka Siemiradzkiego",wikidata,M,Q192544,way
 "Henryka Sienkiewicza",wikidata,M,Q41502,way
 "Henryka Wieniawskiego",wikidata,M,Q272184,way
+"Henryka Łasaka",wikidata,M,Q11709121,way
 "Hipolita Wawelberga",wikidata,M,Q7975614,way
 "Icchoka Lejba Pereca",wikidata,M,Q425644,way
 "Ignacego Krasickiego",wikidata,M,Q380545,way
+"Ignacego Potockiego",wikidata,M,Q36742,way
 "Ignacego Prądzyńskiego",wikidata,M,Q473143,way
+"Jakuba Kubickiego",wikidata,M,Q1679677,way
+"Jamesa Gordona Bennetta",wikidata,M,Q725172,way
 "Jana Andrzeja Morsztyna",wikidata,M,Q1028616,way
+"Jana Brożka",wikidata,M,Q677202,way
+"Jana Brzechwy",wikidata,M,Q508990,way
 "Jana Dantyszka",wikidata,M,Q1358292,way
 "Jana Długosza",wikidata,M,Q326493,way
 "Jana Gawińskiego",wikidata,M,Q1240998,way
 "Jana Jeziorańskiego",wikidata,M,Q11717829,way
 "Jana Karola Chodkiewicza",wikidata,M,Q540840,way
 "Jana Kasprowicza",wikidata,M,Q962432,way
+"Jana Kazimierza",wikidata,M,Q53452,way
 "Jana Kilińskiego",wikidata,M,Q383201,way
 "Jana Kochanowskiego",wikidata,M,Q59737,way
 "Jana Kozietulskiego",wikidata,M,Q3161711,way
+"Jana Krysta",wikidata,M,Q11718147,way
+"Jana Marcina Szancera",wikidata,M,Q6149434,way
 "Jana Matejki",wikidata,M,Q189117,way
+"Jana Młota",wikidata,M,Q4161590,way
 "Jana Olbrachta",wikidata,M,Q53451,way
 "Jana Ostroroga",wikidata,M,Q328250,way
+"Jana Pankiewicza",wikidata,M,Q56255901,way
 "Jana Pawła Woronicza",wikidata,M,Q4416657,way
 "Jana Rosoła",wikidata,M,Q11718852,way
+"Jana Skrzyneckiego",wikidata,M,Q705763,way
+"Jana Szymczaka",wikidata,M,Q11719224,way
+"Jana Zamoyskiego",wikidata,M,Q382439,way
 "Jana i Jędrzeja Śniadeckich",wikidata,M,Q536339;Q2336700,way
+"Janusza Groszkowskiego",wikidata,M,Q8861537,way
 "Janusza Korczaka",wikidata,M,Q152441,way
+"Janusza Kusocińskiego",wikidata,M,Q170260,way
 "Janusza Meissnera",wikidata,M,Q1305940,way
+"Jerzego Beniamina Flatta",wikidata,M,Q11724371,way
+"Jerzego Ficowskiego",wikidata,M,Q540908,way
 "Jerzego Szaniawskiego",wikidata,M,Q7944073,way
+"Józefa Bema",wikidata,M,Q266339;Q473143,way
+"Józefa Chełmońskiego",wikidata,M,Q983949,way
 "Józefa Dwernickiego",wikidata,M,Q572132,way
 "Józefa Hauke-Bosaka",wikidata,M,Q2384929,way
 "Józefa Hoene-Wrońskiego",wikidata,M,Q331856,way
 "Józefa Ignacego Kraszewskiego",wikidata,M,Q254524,way
 "Józefa Lewartowskiego",wikidata,M,Q11730819,way
 "Józefa Mianowskiego",wikidata,M,Q2366158,way
+"Józefa Mireckiego ""Montwiłła""",wikidata,M,Q11730979,way
+"Józefa Nusbauma-Hilarowicza",wikidata,M,Q4328178,way
+"Józefa Sowińskiego",wikidata,M,Q478713,way
+"Józefa Strusia",wikidata,M,Q1715111,way
 "Józefa Sułkowskiego",wikidata,M,Q946928,way
+"Józefa Szanajcy",wikidata,M,Q1715113,way
 "Józefa Szujskiego",wikidata,M,Q649552,way
 "Juliana Adolfa Święcickiego",wikidata,M,Q8865498,way
 "Juliana Bartoszewicza",wikidata,M,Q3207595,way
 "Juliana Ejsmonda",wikidata,M,Q4530093,way
+"Juliana Przybosia",wikidata,M,Q725977,way
 "Juliana Tuwima",wikidata,M,Q376278,way
 "Juliana Ursyna Niemcewicza",wikidata,M,Q458241,way
 "Juliusza Kossaka",wikidata,M,Q956091,way
+"Juliusza Osterwy",wikidata,M,Q588195,way
 "Juliusza Słowackiego",wikidata,M,Q243267,way
 "Jurija Gagarina",wikidata,M,Q7327,way
 "Jędrzeja Moraczewskiego",wikidata,M,Q470928,way
+"Kajetana Garbińskiego",wikidata,M,Q1721842,way
 "Kajetana Koźmiana",wikidata,M,Q4227111,way
+"Kajetana Sołtyka",wikidata,M,Q4121159,way
+"Karola Adamieckiego",wikidata,M,Q3193535,way
+"Karola Darwina",wikidata,M,Q1035,way
 "Karola Dickensa",wikidata,M,Q5686,way
+"Karola Linneusza",wikidata,M,Q1043,way
+"Karola Marcinkowskiego",wikidata,M,Q325234,way
 "Karola Szajnochy",wikidata,M,Q967918,way
+"Karola Szczecińskiego",wikidata,M,Q20030800,way
+"Karola Szymanowskiego",wikidata,M,Q295400,way
 "Kazimierza Brandysa",wikidata,M,Q558972,way
 "Kazimierza Brodzińskiego",wikidata,M,Q2941038,way
+"Kazimierza Brokla",wikidata,M,Q11737733,way
+"Kazimierza Gierdziejewskiego",wikidata,M,Q11737870,way
+"Kazimierza Jagiellończyka",wikidata,M,Q53459,way
+"Kazimierza Karasia",wikidata,M,Q11737991,way
+"Kazimierza Króla",wikidata,M,Q11738055,way
+"Kazimierza Odnowiciela",wikidata,M,Q53455,way
 "Kazimierza Promyka",wikidata,M,Q930040,way
+"Kazimierza Pużaka",wikidata,M,Q317587,way
+"Kazimierza Sprawiedliwego",wikidata,M,Q53456,way
+"Kazimierza Szpotańskiego",wikidata,M,Q8865381,way
+"Konstantego Ildefonsa Gałczyńskiego",wikidata,M,Q680950,way
+"Krzysztofa Kamila Baczyńskiego",wikidata,M,Q558722,way
+"Krzysztofa Kieślowskiego",wikidata,M,Q55165,way
 "Krzysztofa Opalińskiego",wikidata,M,Q680651,way
+"Księdza Ignacego Jana Skorupki",wikidata,M,Q674790,way
 "Księdza Ignacego Kłopotowskiego",wikidata,M,Q126058,way
 "Księdza Piotra Skargi",wikidata,M,Q712463,way
 "Księdza Romana Indrzejczyka",wikidata,M,Q5289316,way
 "Księdza Teofila Boguckiego",wikidata,M,Q9356910,way
 "Księdza Zygmunta Trószyńskiego",wikidata,M,Q9393148,way
+"Lecha Kaczyńskiego",wikidata,M,Q2757,way
+"Leona Kruczkowskiego",wikidata,M,Q1542851,way
+"Leona Schillera",wikidata,M,Q263043,way
+"Leona Wyczółkowskiego",wikidata,M,Q943537,way
+"Leonarda Buczkowskiego",wikidata,M,Q443083,way
 "Leopolda Lisa-Kuli",wikidata,M,Q11026230,way
+"Leszka Białego",wikidata,M,Q53991,way
+"Leszka Czarnego",wikidata,M,Q53994,way
 "Ludwika Idzikowskiego",wikidata,M,Q6699453,way
 "Ludwika Krzywickiego",wikidata,M,Q693328,way
 "Ludwika Mierosławskiego",wikidata,M,Q531240,way
@@ -171,93 +329,223 @@ Canaletta,wikidata,M,Q164688,way
 "Ludwika Solskiego",wikidata,M,Q2338603,way
 "Ludwika Waryńskiego",wikidata,M,Q1875503,way
 "Ludwika Zamenhofa",wikidata,M,Q11758,way
+"Macieja Kamieńskiego",wikidata,M,Q326261,way
 "Macieja Sarbiewskiego",wikidata,M,Q471723,way
 "Maksymiliana Tytusa Hubera",wikidata,M,Q747874,way
+"Marcina Bielskiego",wikidata,M,Q516773,way
 "Marcina Kasprzaka",wikidata,M,Q4216744,way
 "Marcina Kromera",wikidata,M,Q66649,way
 "Marcina Poczobutta-Odlanickiego",wikidata,M,Q1354652,way
+"Mariana Falskiego",wikidata,M,Q219570,way
+"Mariana Keniga",wikidata,M,Q7942401,way
 "Mariana Langiewicza",wikidata,M,Q983771,way
 "Mariana Nowickiego",wikidata,M,Q7943250,way
 "Marka Hłaski",wikidata,M,Q704005,way
+"Marszałka Ferdynanda Focha",wikidata,M,Q192615,way
+Marszałkowska,wikidata,M,Q561074,way
 "Maurycego Mochnackiego",wikidata,M,Q1340629,way
+"Michała Drzymały",wikidata,M,Q937489,way
+"Michała Kajki",wikidata,M,Q4208632,way
+"Michała Rosnowskiego",wikidata,M,Q19690410,way
+"Michała Spisaka",wikidata,M,Q328900,way
+"Mieczysława Frenkla",wikidata,M,Q8861289,way
+"Mieczysława Orłowicza",wikidata,M,Q8863997,way
+"Mieczysława Pożaryskiego",wikidata,M,Q11779947,way
+"Mieczysława Wajnberga",wikidata,M,Q919127,way
+"Mieszka Starego",wikidata,M,Q54013,way
 "Mikołaja Gomółki",wikidata,M,Q725163,way
 "Mikołaja Kopernika",wikidata,M,Q619,way
 "Mikołaja Reja",wikidata,M,Q458235,way
+"Mikołaja Wierzynka",wikidata,M,Q11780940,way
+"Międzymurze Jana Zachwatowicza",wikidata,M,Q454765,way
+"Międzymurze Piotra Biegańskiego",wikidata,M,Q2096221,way
+Moliera,wikidata,M,Q687,way
 "Mordechaja Anielewicza",wikidata,M,Q327892,way
 "Most Grota-Roweckiego",wikidata,M,Q683515,relation
+"Most Jana III Sobieskiego",wikidata,M,Q53454,way
 "Most Księcia Józefa Poniatowskiego",wikidata,M,Q154382,way
+"Napoleona Bonaparte",wikidata,M,Q517,way
+"Pasaż ""Canaletto""",wikidata,M,Q182664,way
+"Pasaż ""Kopernik""",wikidata,M,Q619,way
+"Pasaż Adama Englerta",wikidata,M,Q9139543,way
+"Pasaż Arnolda Szyfmana",wikidata,M,Q282093,way
 "Pasaż Janusza Morgensterna",wikidata,M,Q1356055,way
+"Pasaż Leopolda Tyrmanda",wikidata,M,Q718495,way
 "Pasaż Stefana Wiecheckiego ""Wiecha""",wikidata,M,Q7606330,way
+"Pasaż Wacława Niżyńskiego",wikidata,M,Q194363,way
+"Pasaż Witolda Rowickiego",wikidata,M,Q1358456,way
 "Pasaż Zbigniewa Zapasiewicza",wikidata,M,Q168199,way
 "Pawła Jana Sapiehy",wikidata,M,Q2991218,way
 "Pawła Suzina",wikidata,M,Q11814440,way
+"Piotra Antoniego Steinkellera",wikidata,M,Q11818113,way
 "Plac Artura Zawiszy",wikidata,M,Q9160809,way
 "Plac Czesława Niemena",wikidata,M,Q458213,way
 "Plac Dionizego Henkla",wikidata,M,Q24641787,way
 "Plac Dąbrowskiego",wikidata,M,Q158027,way
 "Plac Gabriela Narutowicza",wikidata,M,Q391461;Q55836,way
 "Plac Hallera",wikidata,M,Q698651,way
+"Plac Jana Henryka Dąbrowskiego",wikidata,M,Q158027,way
 "Plac Joachima Lelewela",wikidata,M,Q734458,way
 "Plac Narutowicza",wikidata,M,Q55836,way
 "Plac Piłsudskiego",wikidata,M,Q885,relation
 "Plac Sokratesa Starynkiewicza",wikidata,M,Q2069437,way
+"Plac Stanisława Małachowskiego",wikidata,M,Q961464,way
 "Plac Starynkiewicza",wikidata,M,Q2069437,way
+"Plac Władysława Szczepaniaka",wikidata,M,Q1359330,way
 "Plac Zawiszy",wikidata,M,Q9160809,way
+"Plac generała Józefa Hallera",wikidata,M,Q698651,way
 "Plac marszałka Józefa Piłsudskiego",wikidata,M,Q885,way
+"Profesora Włodzimierza Skalmowskiego",wikidata,M,Q86724860,way
+"Prymasa Augusta Hlonda",wikidata,M,Q508834,way
+"Przemysława II",wikidata,M,Q54017,way
+"Pułkownika Stanisława Dąbka",wikidata,M,Q4516575,way
 "Rafała Krajewskiego",wikidata,M,Q4237429,way
+"Raoula Wallenberga",wikidata,M,Q152850,way
+"Romana Pazińskiego",wikidata,M,Q105093269,way
+"Romana i Jana Podoskich",wikidata,M,Q9312563;Q11718728,way
 "Rondo Artemiego Aroniszydzego",wikidata,M,Q9160436,way
 "Rondo Bohdana Pniewskiego",wikidata,M,Q890756,way
+"Rondo Dżochara Dudajewa",wikidata,M,Q179846,way
 "Rondo Emanuela Bułhaka",wikidata,M,Q9253340,way
+"Rondo Emila Fieldorfa",wikidata,M,Q689612,way
+"Rondo Feliksa Stamma",wikidata,M,Q5441838,way
 "Rondo Generała Charles'a de Gaulle'a",wikidata,M,Q2042,relation
 "Rondo Ignacego Daszyńskiego",wikidata,M,Q14430,way
+"Rondo Jana Himilsbacha",wikidata,M,Q1681846,way
+"Rondo Jana Szala",wikidata,M,Q4519613,way
+"Rondo Jawaharlala Nehru",wikidata,M,Q1047,way
+"Rondo Jerzego Kondrackiego",wikidata,M,Q11724848,way
 "Rondo Jerzego Turowicza",wikidata,M,Q1688013,way
 "Rondo Jerzego Waszyngtona",wikidata,M,Q23,way
+"Rondo Jerzego Wojnara",wikidata,M,Q508334,way
+"Rondo Jonasza Kofty",wikidata,M,Q278002,way
+"Rondo Józefa Mackiewicza",wikidata,M,Q2427659,way
+"Rondo Józefa Szczepańskiego ""Ziutka""",wikidata,M,Q826817,way
+"Rondo Jędrzeja Moraczewskiego",wikidata,M,Q470928,way
+"Rondo Kazimierza Granzowa",wikidata,M,Q11737881,way
+"Rondo Michała Scipio del Campo",wikidata,M,Q4447753,way
+"Rondo Pawła Jasienicy",wikidata,M,Q2500770,way
+"Rondo Roberta Schumana",wikidata,M,Q15981,way
 "Rondo Romana Dmowskiego",wikidata,M,Q161590,way
+"Rondo Romana Wilhelmiego",wikidata,M,Q723139,way
+"Rondo Ronalda Reagana",wikidata,M,Q9960,way
 "Rondo Ryszarda Kaczorowskiego",wikidata,M,Q18820;Q55835,way
+"Rondo Stanisława Rembeka",wikidata,M,Q9342924,way
+"Rondo Stanisława Sedlaczka",wikidata,M,Q651342,way
 "Rondo Stefana Starzyńskiego",wikidata,M,Q3849484,way
+"Rondo Tadeusza Kifera ""Kruszynki""",wikidata,M,Q9354410,way
+"Rondo Zdzisława Lubomirskiego",wikidata,M,Q1020136;Q169258,way
+"Rondo Zdzisława Maklakiewicza",wikidata,M,Q169262,way
+"Rondo kardynała Adama Sapiehy",wikidata,M,Q350963,way
+"Rondo księdza Wacława Karłowicza",wikidata,M,Q638337,way
+"Rondo księdza Zdzisława Peszkowskiego",wikidata,M,Q2595420,way
+"Rondo ojca Bogusława Palecznego",wikidata,M,Q9175873,way
+"Rondo pułkownika Bernarda Adameckiego",wikidata,M,Q7940902,way
+"Rondo pułkownika Łukasza Cieplińskiego",wikidata,M,Q3849299,way
 "Rotmistrza Witolda Pileckiego",wikidata,M,Q315691,way
 "Samuela Twardowskiego",wikidata,M,Q4703712,way
+"Skwer Adama Mickiewicza",wikidata,M,Q79822,way
+"Skwer Herberta Clarka Hoovera",wikidata,M,Q35236,way
+"Skwer Jerzego Giedroycia",wikidata,M,Q723328,way
+"Stanisława Barcewicza",wikidata,M,Q2276808,way
+"Stanisława Bodycha",wikidata,M,Q18068743,way
+"Stanisława Dubois",wikidata,M,Q7599127,way
 "Stanisława Dygata",wikidata,M,Q723360,way
 "Stanisława Hozjusza",wikidata,M,Q61962,way
+"Stanisława Jachowicza",wikidata,M,Q3804499,way
+"Stanisława Jana Jabłonowskiego",wikidata,M,Q2636020,way
+"Stanisława Kostki Potockiego",wikidata,M,Q1361286,way
+"Stanisława Krupki",wikidata,M,Q9342364,way
+"Stanisława Lentza",wikidata,M,Q2331375,way
+"Stanisława Leszczyńskiego",wikidata,M,Q54022,way
+"Stanisława Mikkego",wikidata,M,Q9342588,way
 "Stanisława Moniuszki",wikidata,M,Q217613,way
 "Stanisława Noakowskiego",wikidata,M,Q972823,way
 "Stanisława Staszica",wikidata,M,Q708435,way
 "Stanisława Szczepanowskiego",wikidata,M,Q351635,way
 "Stanisława Tołwińskiego",wikidata,M,Q7944241,way
 "Stanisława Wigury",wikidata,M,Q3496781,way
+"Stanisława Witkiewicza",wikidata,M,Q684591,way
+"Stanisława Wojciechowskiego",wikidata,M,Q55844,way
+"Stanisława Worcella",wikidata,M,Q443050,way
 "Stanisława Wrońskiego",wikidata,M,Q7944474,way
 "Stanisława Wyspiańskiego",wikidata,M,Q312627,way
 "Stanisława Żółkiewskiego",wikidata,M,Q453523,way
 "Stefana Banacha",wikidata,M,Q180217,way
+"Stefana Bastyra",wikidata,M,Q7606026,way
+"Stefana Batorego",wikidata,M,Q54030,way
+"Stefana Cendrowskiego",wikidata,M,Q9344918,way
 "Stefana Czarnieckiego",wikidata,M,Q561031,way
 "Stefana Jaracza",wikidata,M,Q3622841,way
+"Stefana Korbońskiego",wikidata,M,Q3848163,way
 "Stefana Okrzei",wikidata,M,Q9344846,way
 "Stefana Pogonowskiego",wikidata,M,Q7606240,way
 "Stefana Starzyńskiego",wikidata,M,Q3849484,way
 "Stefana Żeromskiego",wikidata,M,Q366040,way
+"Strona Franciszka Barssa",wikidata,M,Q11698579,way
+"Strona Hugona Kołłątaja",wikidata,M,Q127345,way
+"Strona Ignacego Wyssogoty Zakrzewskiego",wikidata,M,Q955947,way
+"Strona Jana Dekerta",wikidata,M,Q6148781,way
 "Szymona Zimorowica",wikidata,M,Q2377797,way
+"Tadeusza Borowskiego",wikidata,M,Q100005,way
 "Tadeusza Czackiego",wikidata,M,Q2638575,way
+"Tadeusza Hennela",wikidata,M,Q9354322,way
+"Tadeusza Korsaka",wikidata,M,Q9354444,way
 "Tadeusza Kościuszki",wikidata,M,Q191479,way
+"Tadeusza Krępowieckiego",wikidata,M,Q9354494,way
+"Tadeusza Regera",wikidata,M,Q9354775,way
 "Tadeusza Rejtana",wikidata,M,Q2120989,way
+"Tadeusza Łomnickiego",wikidata,M,Q710158,way
+"Teodora Axentowicza",wikidata,M,Q795050,way
 "Teofila Jaśkiewicza",wikidata,M,Q9356924,way
+"Thomasa Edisona",wikidata,M,Q8743,way
+"Tomasza Nocznickiego",wikidata,M,Q9359565,way
+"Trakt Napoleoński",wikidata,M,Q517,way
 "Tytusa Chałubińskiego",wikidata,M,Q6580661,way
+"Wacława Sieroszewskiego",wikidata,M,Q2038910,way
+"Walerego Sławka",wikidata,M,Q2000880,way
+"Waleriana Łukasińskiego",wikidata,M,Q1853205,way
+"Wenantego Burdzińskiego",wikidata,M,Q8860699,way
 "Wespazjana Kochowskiego",wikidata,M,Q772711,way
+"Wiktora Gomulickiego",wikidata,M,Q2484381,way
+"Wiktora Narkiewicza",wikidata,M,Q9374107,way
 "Williama Heerleina Lindleya",wikidata,M,Q460624,way
+"Wincentego Kadłubka",wikidata,M,Q369562,way
+"Wincentego Pola",wikidata,M,Q133465,way
 "Wincentego Rapackiego",wikidata,M,Q8864524,way
 "Wincentego Rzymowskiego",wikidata,M,Q2583366,way
 "Witolda Lutosławskiego",wikidata,M,Q156472,way
+"Wojciecha Gersona",wikidata,M,Q1364258,way
 "Wojciecha Oczki",wikidata,M,Q4340740,way
 "Wybrzeże Kościuszkowskie",wikidata,M,Q191479,way
+"Władysława Bełzy",wikidata,M,Q4081881,way
 "Władysława Broniewskiego",wikidata,M,Q1399475,way
+"Władysława IV",wikidata,M,Q54054,way
+"Władysława Jagiełły",wikidata,M,Q54049,way
+"Władysława Jana Grabskiego",wikidata,M,Q8861483,way
+"Władysława Laskonogiego",wikidata,M,Q54052,way
 "Władysława Niegolewskiego",wikidata,M,Q89622,way
 "Władysława Okińskiego",wikidata,M,Q9382154,way
+"Władysława Przanowskiego",wikidata,M,Q8864445,way
 "Władysława Reymonta",wikidata,M,Q121180,way
+"Władysława Skoczylasa",wikidata,M,Q1763321,way
 "Władysława Syrokomli",wikidata,M,Q472576,way
+"Władysława Szernera",wikidata,M,Q9382333,way
 "Władysława Umińskiego",wikidata,M,Q8865632,way
+"Władysława Warneńczyka",wikidata,M,Q54053,way
+"Włodzimierza Dolańskiego",wikidata,M,Q15691615,way
+"Włodzimierza Majakowskiego",wikidata,M,Q132964,way
+Zachariasza,wikidata,M,Q139464,way
+"Zygmunta Augusta",wikidata,M,Q54058,way
 "Zygmunta Hübnera",wikidata,M,Q161852,way
 "Zygmunta Krasińskiego",wikidata,M,Q245355,way
+"Zygmunta Vogla",wikidata,M,Q245396,way
 Łucka,wikidata,M,Q152441,way
+"Łukasza Drewny",wikidata,M,Q9394593,way
 "Łukasza Górnickiego",wikidata,M,Q345583,way
 "Łukasza Gołębiowskiego",wikidata,M,Q9394607,way
+"Świętego Franciszka Salezego",wikidata,M,Q231256,way
+"Świętego Jacka Odrowąża",wikidata,M,Q8689031,way
 "Świętego Wincentego",wikidata,M,Q244413,way
+"Świętego Wojciecha",wikidata,M,Q243427,way
 "Żwirki i Wigury",wikidata,M,Q3849277;Q3496781,way
