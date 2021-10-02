@@ -166,6 +166,7 @@ Maszynowa,wikidata,,Q11019;Q188570,way
 Melonowa,wikidata,,Q5881191,way
 Metryczna,wikidata,,Q12457,way
 Mieczykowa,wikidata,,Q156207,way
+Mińska,wikidata,,Q2280,way
 Mlądzka,wikidata,,Q11784230,way
 Moczydło,wikidata,,Q11784382,way
 Modlińska,wikidata,,Q995207,way
@@ -216,6 +217,7 @@ Piaskowa,wikidata,,Q34679,way
 "Piechoty Łanowej",wikidata,,Q11816467,way
 Pigwy,wikidata,,Q2751465,way
 "Plac Europejski",wikidata,,Q46,relation
+"Plac Konstytucji",wikidata,,Q7755,way
 "Plac Mirowski",wikidata,,Q11782027,way
 "Plac Politechniki",wikidata,,Q1718656,way
 "Plac Powstańców Warszawy",wikidata,,Q63705589,way
@@ -2604,7 +2606,6 @@ Miętowa,,,,way
 Miła,,,,way
 Miłobędzka,,,,way
 Miłosierna,,,,way
-Mińska,,,,way
 Mleczna,,,,way
 Mniszka,,,,way
 Mochtyńska,,,,way
@@ -3118,7 +3119,6 @@ Pińska,,,,way
 "Plac Kasztelański",,,,way
 "Plac Konesera",,,,way
 "Plac Konfederacji",,,,way
-"Plac Konstytucji",,,,way
 "Plac Krasińskich",,,,way
 "Plac Kuronia",,,,way
 "Plac Małachowskiego",,,,way
@@ -3763,6 +3763,7 @@ Skrzypcowa,,,,way
 Skrzypów,,,,way
 Skuterowa,,,,way
 "Skwer Adolfa Marii Bocheńskiego",,,,way
+"Skwer Alfonsa Grotowskiego",,,,way
 "Skwer Andrzeja Woyciechowskiego",,,,way
 "Skwer Antoniego Słonimskiego",,,,way
 "Skwer Batalionu AK ""Miłosz""",,,,way
@@ -3771,7 +3772,6 @@ Skuterowa,,,,way
 "Skwer Brukalskich",,,,way
 "Skwer François Mitterranda",,,,way
 "Skwer Georges’a Clemenceau",,,,way
-"Skwer Grotowskiego",,,,way
 "Skwer Igora Newerlego",,,,way
 "Skwer Integracji",,,,way
 "Skwer Jacka Kaczmarskiego",,,,way
@@ -3790,6 +3790,7 @@ Skuterowa,,,,way
 "Skwer Pokolenia Kolumbów",,,,way
 "Skwer Radiowej Rodziny Matysiaków",,,,way
 "Skwer Reduty Kaliskiej",,,,way
+"Skwer Rodziny Wolskich",,,,way
 "Skwer Samuela Orgelbranda",,,,way
 "Skwer Stefana Kuryłowicza",,,,way
 "Skwer Stefana Wyszyńskiego",,,,way
@@ -3797,10 +3798,12 @@ Skuterowa,,,,way
 "Skwer Słoweński",,,,way
 "Skwer Tekli Bądarzewskiej",,,,way
 "Skwer Václava Havla",,,,way
+"Skwer Wacława Lipińskiego",,,,way
 "Skwer Więźniów Politycznych Stalinizmu",,,,way
 "Skwer Wołyński",,,,way
 "Skwer Władysława Bartoszewskiego",,,,way
 "Skwer Zgrupowania AK ""Róg""",,,,way
+"Skwer Ziemi Aniołów",,,,way
 "Skwer Zofii Kuratowskiej",,,,way
 "Skwer księdza Jana Salamuchy",,,,way
 "Skwer majora Bolesława Kontryma ""Żmudzina""",,,,way
