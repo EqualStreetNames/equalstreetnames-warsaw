@@ -309,6 +309,7 @@ Szańcowa,wikidata,,Q91203,way
 Szczęśliwicka,wikidata,,Q9351235,way
 Szpitalna,wikidata,,Q63705589,way
 Szwedzka,wikidata,,Q34,way
+Szwoleżerów,wikidata,,Q1936719,way
 Sąchocka,wikidata,,Q3078177,way
 Sągi,wikidata,,Q9352929,way
 Sędziowska,wikidata,,Q16533,way
@@ -699,7 +700,6 @@ Amarantowa,,,,way
 Ambaras,,,,way
 Amelińska,,,,way
 Ametystowa,,,,way
-Amfiteatr,,,,way
 Analityczna,,,,way
 Ananasowa,,,,way
 Andromedy,,,,way
@@ -891,6 +891,7 @@ Bluszczowa,,,,way
 Bobrowa,,,,way
 Bobrowiecka,,,,way
 Bocheńska,,,,way
+"Bociani Zakątek",,,,way
 Bociania,,,,way
 Boczańska,,,,way
 Boczna,,,,way
@@ -1822,6 +1823,7 @@ Jedwabnicza,,,,way
 Jelenia,,,,way
 Jeleniogórska,,,,way
 Jelonka,,,,way
+Jemiołuszki,,,,way
 Jerzego,,,,way
 "Jerzego Bukowskiego",,,,way
 "Jerzego Iwanowa-Szajnowicza",,,,way
@@ -2096,6 +2098,7 @@ Kosmatki,,,,way
 Kosmosu,,,,way
 Kosobudzka,,,,way
 Kosodrzewiny,,,,way
+Kostrzyńska,,,,way
 Kosynierów,,,,way
 Koszalińska,,,,way
 Koszycka,,,,way
@@ -3734,10 +3737,10 @@ Skuterowa,,,,way
 "Skwer Alfonsa Grotowskiego",,,,way
 "Skwer Andrzeja Woyciechowskiego",,,,way
 "Skwer Antoniego Słonimskiego",,,,way
+"Skwer Barbary i Stanisława Brukalskich",,,,way
 "Skwer Batalionu AK ""Miłosz""",,,,way
 "Skwer Bohdana Lacherta",,,,way
 "Skwer Bronisława Geremka",,,,way
-"Skwer Brukalskich",,,,way
 "Skwer François Mitterranda",,,,way
 "Skwer Georges’a Clemenceau",,,,way
 "Skwer Igora Newerlego",,,,way
@@ -3746,6 +3749,7 @@ Skuterowa,,,,way
 "Skwer Jerzego Kastrioty Skanderbega",,,,way
 "Skwer Józefa Rotblata",,,,way
 "Skwer Kompanii AK ""Żniwiarz""",,,,way
+"Skwer Księdza Jana Ignacego Golędzinowskiego",,,,way
 "Skwer Księdza Jerzego",,,,way
 "Skwer Księdza Stefana Niedzielaka",,,,way
 "Skwer Leopolda Kronenberga",,,,way
@@ -3763,6 +3767,7 @@ Skuterowa,,,,way
 "Skwer Stefana Kuryłowicza",,,,way
 "Skwer Stefana Wyszyńskiego",,,,way
 "Skwer Szpitala Ewangelickiego",,,,way
+"Skwer Tadeusza Zawadzkiego „Zośki”",,,,way
 "Skwer Tekli Bądarzewskiej",,,,way
 "Skwer Václava Havla",,,,way
 "Skwer Wacława Lipińskiego",,,,way
@@ -3840,6 +3845,7 @@ Spychowska,,,,way
 "Spytka z Melsztyna",,,,way
 Srebrnogórska,,,,way
 "Srebrnych Świerków",,,,way
+Stadionowa,,,,way
 Stajenna,,,,way
 Stalowa,,,,way
 Staniewicka,,,,way
@@ -4036,7 +4042,6 @@ Szumiąca,,,,way
 "Szumiących Traw",,,,way
 Szumna,,,,way
 Szuwary,,,,way
-Szwoleżerów,,,,way
 Szybka,,,,way
 Szybowcowa,,,,way
 Szydłowiecka,,,,way
@@ -4652,7 +4657,6 @@ Złotopolska,,,,way
 "droga pożarowa 49",,,,way
 "droga pożarowa 51",,,,way
 kładka,,,,way
-"plac Bociani Zakątek",,,,way
 "plac Ostrej Bramy",,,,relation
 "plac Ratuszowy",,,,relation
 "plac Trynopolski",,,,relation
@@ -4717,6 +4721,7 @@ pochylnia,,,,way
 Ślimaka,,,,way
 Śliska,,,,way
 Śliwkowa,,,,way
+Śliwowa,,,,way
 Śląska,,,,way
 Śmiała,,,,way
 Śmieszna,,,,way
