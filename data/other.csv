@@ -4,7 +4,7 @@ name,source,gender,wikidata,type
 "29 Listopada",wikidata,,Q3016,way
 "3 Maja",wikidata,,Q2547,way
 Akacjowa,wikidata,,Q81666,way
-"Aleja ""Solidarności""",wikidata,,Q1003,relation+way
+"Aleja ""Solidarności""",wikidata,,Q1003,way
 "Aleja 3 Maja",wikidata,,Q1129096,way
 "Aleja Armii Krajowej",wikidata,,Q152529,way
 "Aleja Armii Ludowej",wikidata,,Q632757,way
@@ -158,6 +158,7 @@ Kwarty,wikidata,,Q1058120,way
 Kwiatowa,wikidata,,Q506,way
 Kłodzka,wikidata,,Q284604,way
 Latoszki,wikidata,,Q98174211,way
+Lawendy,wikidata,,Q171892,way
 Lazurowa,wikidata,,Q373160,way
 Letnia,wikidata,,Q1313,way
 Leżakowa,wikidata,,Q1824203,way
@@ -178,6 +179,7 @@ Moczydło,wikidata,,Q11784382,way
 Modlińska,wikidata,,Q995207,way
 Modrzewiowa,wikidata,,Q25618,way
 "Monte Cassino",wikidata,,Q154372,way
+"Most Łazienkowski",wikidata,,Q345279,way
 Mołdawska,wikidata,,Q18366588,way
 Muranowska,wikidata,,Q3648191,way
 Murawy,wikidata,,Q11786674,way
@@ -218,7 +220,6 @@ Pałacowa,wikidata,,Q16560,way
 Petyhorska,wikidata,,Q2621708,way
 Piaskowa,wikidata,,Q34679,way
 "Piastów Śląskich",wikidata,,Q1929625,way
-"Piastów Śląskich (w budowie do 23.12.2021)",wikidata,,Q1929625,way
 "Piechoty Wybranieckiej",wikidata,,Q276763,way
 "Piechoty Łanowej",wikidata,,Q11816467,way
 Pigwy,wikidata,,Q2751465,way
@@ -552,20 +553,25 @@ Albatrosów,,,,way
 "Aleja Harcerska",,,,way
 "Aleja Harcerzy Rzeczypospolitej",,,,way
 "Aleja Henryka Jordana",,,,way
+"Aleja Hortensji",,,,way
 "Aleja Inspektowa",,,,way
 "Aleja Irysowa",,,,way
 "Aleja Jabłoni",,,,way
 "Aleja Jaśminów",,,,way
+"Aleja Jerzego Regulskiego",,,,way
 "Aleja Józefa Becka",,,,way
+"Aleja Kalinowa",,,,way
 "Aleja Kasztanowa",,,,way
 "Aleja Kazimierza Kumanieckiego",,,,way
 "Aleja Kobiet",,,,way
 "Aleja Komandosów",,,,way
+"Aleja Krokusa",,,,way
 "Aleja Kubusia Puchatka",,,,way
 "Aleja Kwiatowa",,,,way
 "Aleja Legionów Piłsudskiego",,,,way
 "Aleja Lipowa",,,,way
 "Aleja Lotników",,,,way
+"Aleja Magnolii",,,,way
 "Aleja Malinowa",,,,way
 "Aleja Malwowa",,,,way
 "Aleja Migdałowa",,,,way
@@ -576,6 +582,7 @@ Albatrosów,,,,way
 "Aleja Niepodległości",,,,way
 "Aleja Obrońców Warszawy",,,,way
 "Aleja Orzechowa",,,,way
+"Aleja Paproci",,,,way
 "Aleja Peonii",,,,way
 "Aleja Polski Walczącej",,,,way
 "Aleja Promienistych",,,,way
@@ -866,6 +873,8 @@ Białowieska,,,,way
 Białozora,,,,way
 Białołęcka,,,,way
 "Biały Kamień",,,,way
+"Biblioteka Narodowa 03",,,,relation
+"Biblioteka Narodowa 04",,,,relation
 Biechowska,,,,way
 Biedronki,,,,way
 Biegunowa,,,,way
@@ -1271,6 +1280,8 @@ Dusznicka,,,,way
 "Dwóch Mieczy",,,,way
 Dworkowa,,,,way
 "Dworzec Centralny 01",,,,relation
+"Dworzec Centralny 07",,,,relation
+"Dworzec Centralny 08",,,,relation
 "Dwudziestej Dywizji Piechoty WP",,,,way
 Dwusieczna,,,,way
 Dychowska,,,,way
@@ -1420,6 +1431,7 @@ Foliałowa,,,,way
 Folwarczna,,,,way
 "Forbidden railroad foot crossing",,,,way
 Forsycji,,,,way
+"Fort Piłsudskiego",,,,way
 "Fort Służew",,,,way
 "Fort Wola",,,,way
 Forteczna,,,,way
@@ -1455,6 +1467,8 @@ Fukierów,,,,way
 Fuksji,,,,way
 Fundamentowa,,,,way
 Furmańska,,,,way
+"GUS 03",,,,relation
+"GUS 04",,,,relation
 Gabriela,,,,way
 Gaik,,,,way
 Gajdy,,,,way
@@ -1663,6 +1677,7 @@ Henrykowska,,,,way
 "Herakliusza Billewicza",,,,way
 Herbaciana,,,,way
 Herbowa,,,,way
+Herbsta,,,,way
 "Herbu Oksza",,,,way
 Hermanowska,,,,way
 Heroldów,,,,way
@@ -1778,6 +1793,7 @@ Jamki,,,,way
 "Jana Pohoskiego",,,,way
 "Jana Styki",,,,way
 "Jana Szałka",,,,way
+"Jana Szczepanika",,,,way
 "Jana Wasilkowskiego",,,,way
 "Jana Zaorskiego",,,,way
 "Jana Żabińskiego",,,,way
@@ -2264,6 +2280,8 @@ Kątowa,,,,way
 Kędzierzyńska,,,,way
 "Kępa Tarchomińska",,,,way
 Kępna,,,,way
+Kładka,,,,way
+"Kładka (w budowie)",,,,way
 "Kładka Żerańska",,,,way
 Kłobucka,,,,way
 Kłodawska,,,,way
@@ -2539,6 +2557,7 @@ Michalińska,,,,way
 "Michała Reichera",,,,way
 "Michała Sobczaka",,,,way
 Michałówek,,,,way
+Michałowska,,,,way
 Miechowska,,,,way
 "Mieczysława Fersta",,,,way
 "Mieczysława Karłowicza",,,,way
@@ -2615,7 +2634,6 @@ Mosiężna,,,,way
 "Most Siekierkowski",,,,way
 "Most na Zaporze",,,,way
 "Most pieszo-rowerowy (proponowany)",,,,way
-"Most Łazienkowski",,,,way
 "Most Śląsko-Dąbrowski",,,,way
 "Most Świętokrzyski",,,,way
 "Mostek Bohuszewiczówny",,,,way
@@ -3264,8 +3282,6 @@ Północna,,,,way
 Połoniny,,,,way
 Południowa,,,,way
 "Południowa Obwodnica Warszawy",,,,way
-"Południowa Obwodnica Warszawy (gotowa, czeka na otwarcie)",,,,way
-"Południowa Obwodnica Warszawy (tunel czeka na odbiory)",,,,way
 Połączona,,,,way
 Pośrednia,,,,way
 Poświaty,,,,way
@@ -3390,7 +3406,6 @@ Pyszniańska,,,,way
 Pęcherska,,,,way
 Pęcicka,,,,way
 Płaska,,,,way
-"Płaskowickiej 01",,,,way
 "Płatków Róż",,,,way
 Płatnerska,,,,way
 Płatnicza,,,,way
@@ -3531,6 +3546,7 @@ Romańska,,,,way
 "Rondo Ochrony Przyrody",,,,way
 "Rondo Pohulanka",,,,way
 "Rondo Polskich Kryptologów Enigmy",,,,way
+"Rondo Rozalii",,,,way
 "Rondo Ruda",,,,way
 "Rondo Starej Cegielni",,,,way
 "Rondo Wallów",,,,way
@@ -3736,6 +3752,7 @@ Skuterowa,,,,way
 "Skwer Adolfa Marii Bocheńskiego",,,,way
 "Skwer Alfonsa Grotowskiego",,,,way
 "Skwer Andrzeja Woyciechowskiego",,,,way
+"Skwer Anny Jantar",,,,way
 "Skwer Antoniego Słonimskiego",,,,way
 "Skwer Barbary i Stanisława Brukalskich",,,,way
 "Skwer Batalionu AK ""Miłosz""",,,,way
@@ -4542,6 +4559,7 @@ Zapomniana,,,,way
 Zapustna,,,,way
 Zapłotek,,,,way
 Zaranie,,,,way
+Zarośla,,,,way
 Zarzecze,,,,way
 Zarębska,,,,way
 Zasadowa,,,,way
@@ -4656,7 +4674,6 @@ Złotopolska,,,,way
 "Złotych Piasków",,,,way
 "droga pożarowa 49",,,,way
 "droga pożarowa 51",,,,way
-kładka,,,,way
 "plac Ostrej Bramy",,,,relation
 "plac Ratuszowy",,,,relation
 "plac Trynopolski",,,,relation
