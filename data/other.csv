@@ -20,7 +20,7 @@ Akacjowa,wikidata,,Q81666,way
 "Aleja Słowiańska",wikidata,,Q40477,way
 "Aleja Tysiąclecia",wikidata,,Q9363732,way
 "Aleja Wielkopolski",wikidata,,Q211371,relation
-"Aleja Wilanowska",wikidata,,Q1887504,way
+"Aleja Wilanowska",wikidata,,Q1887504;Q1634585,way
 "Aleja Wojska Polskiego",wikidata,,Q9377431,way
 "Aleja Zgrupowania AK ""Kryska""",wikidata,,Q9390802,way
 "Aleja Zjednoczenia",wikidata,,Q9391399,way
@@ -112,6 +112,7 @@ Grzybowska,wikidata,,Q9282316,way
 Gwarna,wikidata,,Q1520446,way
 Gwiazda,wikidata,,Q523,way
 Gąsek,wikidata,,Q82562,way
+Harfowa,wikidata,,Q47369,way
 "Herbu Janina",wikidata,,Q4538061,way
 "Herbu Korczak",wikidata,,Q2470343,way
 "Herbu Leliwa",wikidata,,Q2993924,way
@@ -790,6 +791,7 @@ Baborowska,,,,way
 Baboszewska,,,,way
 Bachmacka,,,,way
 Bachusa,,,,way
+Badowska,,,,way
 Badylarska,,,,way
 Bagatela,,,,way
 Bagno,,,,way
@@ -890,6 +892,7 @@ Bieżuńska,,,,way
 Biruty,,,,way
 Birżańska,,,,way
 Biskupia,,,,way
+"Bitwy Grochowskiej",,,,way
 Biłgorajska,,,,way
 Blacharska,,,,way
 Blaszana,,,,way
@@ -1160,6 +1163,7 @@ Czerwińska,,,,way
 "Czerwonych Wierchów",,,,way
 Czeska,,,,way
 "Czesława Kłosia",,,,way
+"Czesława Przybylskiego",,,,way
 "Czesława Tańskiego",,,,way
 "Czesława Witoszyńskiego",,,,way
 Cześnika,,,,way
@@ -1615,7 +1619,6 @@ Grzywaczy,,,,way
 Grębałowska,,,,way
 Gubinowska,,,,way
 Guliwera,,,,way
-Gumińska,,,,way
 Gustawa,,,,way
 Gułowska,,,,way
 Guńki,,,,way
@@ -1652,7 +1655,6 @@ Halna,,,,way
 Handlowa,,,,way
 "Hanki Czaki",,,,way
 Harendy,,,,way
-Harfowa,,,,way
 Harmonistów,,,,way
 Harnasie,,,,way
 Haubicy,,,,way
@@ -2492,7 +2494,6 @@ Markowska,,,,way
 Marmurowa,,,,way
 Marokańska,,,,way
 Marsa,,,,way
-"Marszałka Józefa Piłsudskiego",,,,way
 Marty,,,,way
 Maryli,,,,way
 Marymoncka,,,,way
@@ -3339,6 +3340,7 @@ Przelotowa,,,,way
 Przemian,,,,way
 Przemysłowa,,,,way
 Przepiórki,,,,way
+Przerwana,,,,way
 Przeskok,,,,way
 Przesmyk,,,,way
 Przestronna,,,,way
@@ -3663,6 +3665,7 @@ Sagalli,,,,way
 Salamandry,,,,way
 Salomejska,,,,way
 Samarytanka,,,,way
+Samborska,,,,way
 Samby,,,,way
 Samochodowa,,,,way
 Samogłoska,,,,way
@@ -3789,6 +3792,7 @@ Skuterowa,,,,way
 "Skwer Václava Havla",,,,way
 "Skwer Wacława Lipińskiego",,,,way
 "Skwer Więźniów Politycznych Stalinizmu",,,,way
+"Skwer Wolnego Słowa",,,,way
 "Skwer Wolnej Elekcji",,,,way
 "Skwer Wołyński",,,,way
 "Skwer Władysława Bartoszewskiego",,,,way
@@ -4514,6 +4518,7 @@ Zadroże,,,,way
 Zadrzewiona,,,,way
 Zadumana,,,,way
 Zagadki,,,,way
+Zagaje,,,,way
 Zagajnikowa,,,,way
 Zagięta,,,,way
 Zagójska,,,,way
@@ -4573,7 +4578,7 @@ Zatorze,,,,way
 Zatrzebie,,,,way
 Zatylna,,,,way
 Zaułek,,,,way
-"Zaułek Braci Pakulskich",,,,relation
+"Zaułek Braci Pakulskich",,,,way
 "Zaułek Marii i Aleksandra Żabczyńskich",,,,way
 Zawierciańska,,,,way
 Zawilców,,,,way
