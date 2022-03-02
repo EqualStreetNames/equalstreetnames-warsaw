@@ -74,6 +74,7 @@ Deotymy,wikidata,F,Q274324,way
 "Świętej Urszuli Ledóchowskiej",wikidata,F,Q78649,way
 "Adama Asnyka",wikidata,M,Q348690,way
 "Adama Branickiego",wikidata,M,Q11684270,way
+"Adama Ciołkosza",wikidata,M,Q3180296,way
 "Adama Idźkowskiego",wikidata,M,Q4197915,way
 "Adama Jarzębskiego",wikidata,M,Q349847,way
 "Adama Mickiewicza",wikidata,M,Q79822,way
@@ -364,7 +365,6 @@ Goworka,wikidata,M,Q29742510,way
 "Józefa Sułkowskiego",wikidata,M,Q946928,way
 "Józefa Szanajcy",wikidata,M,Q1715113,way
 "Józefa Szujskiego",wikidata,M,Q649552,way
-"Juliana Adolfa Święcickiego",wikidata,M,Q8865498,way
 "Juliana Bartoszewicza",wikidata,M,Q3207595,way
 "Juliana Ejsmonda",wikidata,M,Q4530093,way
 "Juliana Fałata",wikidata,M,Q1349858,way
@@ -373,6 +373,7 @@ Goworka,wikidata,M,Q29742510,way
 "Juliana Smulikowskiego",wikidata,M,Q8865110,way
 "Juliana Tuwima",wikidata,M,Q376278,way
 "Juliana Ursyna Niemcewicza",wikidata,M,Q458241,way
+"Juliana Święcickiego",wikidata,M,Q8865498,way
 "Juliusza Kaden-Bandrowskiego",wikidata,M,Q724811,way
 "Juliusza Kossaka",wikidata,M,Q956091,way
 "Juliusza Osterwy",wikidata,M,Q588195,way
@@ -502,6 +503,7 @@ Moliera,wikidata,M,Q687,way
 "Mordechaja Anielewicza",wikidata,M,Q327892,way
 "Most Grota-Roweckiego",wikidata,M,Q683515,relation
 "Most Jana III Sobieskiego",wikidata,M,Q53454,way
+"Most Krasińskiego",wikidata,M,Q245355,way
 "Most Księcia Józefa Poniatowskiego",wikidata,M,Q154382,way
 "Napoleona Bonaparte",wikidata,M,Q517,way
 Ondraszka,wikidata,M,Q918952,way
@@ -538,6 +540,8 @@ Pitagorasa,wikidata,M,Q10261,way
 "Plac Sokratesa Starynkiewicza",wikidata,M,Q2069437,way
 "Plac Stanisława Małachowskiego",wikidata,M,Q961464,way
 "Plac Starynkiewicza",wikidata,M,Q2069437,way
+"Plac Thomasa Woodrowa Wilsona",wikidata,M,Q34296,way
+"Plac Wilsona",wikidata,M,Q34296,way
 "Plac Władysława Szczepaniaka",wikidata,M,Q1359330,way
 "Plac Zawiszy",wikidata,M,Q9160809,way
 "Plac generała Józefa Hallera",wikidata,M,Q698651,way
