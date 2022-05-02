@@ -90,7 +90,6 @@ Dyniowa,wikidata,,Q165308,way
 Działdowska,wikidata,,Q983720,way
 Dźwigowa,wikidata,,Q9249606,way
 Elbląska,wikidata,,Q104712,way
-Elektryczna,wikidata,,Q12725,way
 Esperanto,wikidata,,Q143,way
 Estońska,wikidata,,Q191,way
 Estragonowa,wikidata,,Q155814,way
@@ -100,7 +99,7 @@ Fińska,wikidata,,Q33,way
 Franciszkańska,wikidata,,Q165005,way
 Francuska,wikidata,,Q142,way
 Gdańska,wikidata,,Q1792,way
-Geodetów,wikidata,,Q11699606,way
+Geodetów,wikidata,,Q294126,way
 Glebowa,wikidata,,Q36133,way
 Globusowa,wikidata,,Q133792,way
 Gocławska,wikidata,,Q11701010,way
@@ -146,7 +145,7 @@ Kawalerii,wikidata,,Q47315,way
 Kijowska,wikidata,,Q1899,way
 Klonowa,wikidata,,Q42292,way
 Kolejowa,wikidata,,Q22667,way
-"Komitetu Obrony Robotników",wikidata,,Q1779995,way
+"Komitetu Obrony Robotników",wikidata,,Q123637;Q1779995,way
 Konotopska,wikidata,,Q576625,way
 Koralowa,wikidata,,Q171446,way
 Kowelska,wikidata,,Q156704,way
@@ -222,6 +221,8 @@ Pałacowa,wikidata,,Q16560,way
 Petyhorska,wikidata,,Q2621708,way
 Piaskowa,wikidata,,Q34679,way
 "Piastów Śląskich",wikidata,,Q1929625,way
+"Piastów Śląskich (budowa zatrzymana)",wikidata,,Q1929625,way
+"Piastów Śląskich (w budowie do 23.12.2021)",wikidata,,Q1929625,way
 "Piechoty Wybranieckiej",wikidata,,Q276763,way
 "Piechoty Łanowej",wikidata,,Q11816467,way
 Pigwy,wikidata,,Q2751465,way
@@ -277,6 +278,7 @@ Rogalińska,wikidata,,Q2161540,way
 "Rondo Zgrupowania AK ""Radosław""",wikidata,,Q7281641,way
 "Rondo im. prezesa Ochódzkiego",wikidata,,Q9324875,way
 Rotmistrzowska,wikidata,,Q640375,way
+"Rozbudowa Światowida Światowida (ukończenie 11.2023)",wikidata,,Q147914,way
 Różana,wikidata,,Q34687,way
 Ruczaj,wikidata,,Q15842515,way
 Rukoli,wikidata,,Q156884,way
@@ -1010,6 +1012,7 @@ Bursztynowa,,,,way
 Burzliwa,,,,way
 Buska,,,,way
 Busolowa,,,,way
+Buspas,,,,way
 Buszycka,,,,way
 Buławy,,,,way
 Buńczuk,,,,way
@@ -1208,7 +1211,6 @@ Dawna,,,,way
 Dedala,,,,way
 Dekarska,,,,way
 Delfina,,,,way
-Dembowskiego,,,,way
 Denarowa,,,,way
 "Deotymy 01",,,,relation
 "Deotymy 04",,,,relation
@@ -1280,6 +1282,7 @@ Dubieńska,,,,way
 Duchnicka,,,,way
 Dudka,,,,way
 Dudziarska,,,,way
+Dukatowa,,,,way
 Dukielska,,,,way
 Dulczyńska,,,,way
 Dumki,,,,way
@@ -1313,6 +1316,7 @@ Działyńczyków,,,,way
 Dziecięca,,,,way
 "Dziedziniec Laboratorium",,,,way
 Dziekania,,,,way
+Dziekanowska,,,,way
 Dzielna,,,,way
 Dzielnicowa,,,,way
 Dziennikarska,,,,way
@@ -1370,6 +1374,7 @@ Elekcyjna,,,,way
 Elektoralna,,,,way
 Elektronowa,,,,way
 Elektry,,,,way
+Elektryczna,,,,way
 Elsterska,,,,way
 "Elżbiety Barszczewskiej",,,,way
 Emaliowa,,,,way
@@ -1684,7 +1689,6 @@ Henrykowska,,,,way
 "Herakliusza Billewicza",,,,way
 Herbaciana,,,,way
 Herbowa,,,,way
-Herbsta,,,,way
 "Herbu Oksza",,,,way
 Hermanowska,,,,way
 Heroldów,,,,way
@@ -1898,7 +1902,6 @@ Kabacka,,,,way
 "Kabacki Zakątek",,,,way
 Kabaretowa,,,,way
 Kabrioletu,,,,way
-"Kacpra Karlińskiego",,,,way
 Kacza,,,,way
 Kaczorowa,,,,way
 Kaczorowska,,,,way
@@ -2637,7 +2640,7 @@ Mosiężna,,,,way
 "Most Rzymski",,,,way
 "Most Siekierkowski",,,,way
 "Most na Zaporze",,,,way
-"Most pieszo-rowerowy (proponowany)",,,,way
+"Most pieszo-rowerowy (w budowie)",,,,way
 "Most Śląsko-Dąbrowski",,,,way
 "Most Świętokrzyski",,,,way
 "Mostek Bohuszewiczówny",,,,way
@@ -2840,7 +2843,6 @@ Odrębna,,,,way
 Odysa,,,,way
 Odysei,,,,way
 Odłogi,,,,way
-Ogińskiego,,,,way
 Ogniskowa,,,,way
 Ogólna,,,,way
 Ogórkowa,,,,way
@@ -3022,7 +3024,6 @@ Pasterska,,,,way
 Pastuszków,,,,way
 Pasymska,,,,way
 Pasłęcka,,,,way
-Patio,,,,way
 Patriotów,,,,way
 Patrolowa,,,,way
 Pawia,,,,way
@@ -3365,6 +3366,7 @@ Przodowników,,,,way
 "Przy Wodzie",,,,way
 "Przy Żółtej Karczmie",,,,way
 Przyce,,,,way
+"Przyczółek Grochowski 04",,,,way
 Przyczółkowa,,,,way
 Przydrożna,,,,way
 Przygodna,,,,way
@@ -3429,7 +3431,6 @@ Płyćwiańska,,,,way
 Rabatowa,,,,way
 Rabczańska,,,,way
 "Rabindranatha Tagore",,,,way
-Rabsztyńska,,,,way
 Raciborska,,,,way
 Racjonalizacji,,,,way
 Racławicka,,,,way
@@ -3732,6 +3733,7 @@ Skalista,,,,way
 Skalnicowa,,,,way
 Skandynawska,,,,way
 "Skarbka z Gór",,,,way
+"Skarpa Kabacka",,,,way
 Skaryszewska,,,,way
 Skazańców,,,,way
 Skałacka,,,,way
@@ -3770,6 +3772,7 @@ Skuterowa,,,,way
 "Skwer Jacka Kaczmarskiego",,,,way
 "Skwer Jerzego Kastrioty Skanderbega",,,,way
 "Skwer Józefa Rotblata",,,,way
+"Skwer Karaimski",,,,way
 "Skwer Kompanii AK ""Żniwiarz""",,,,way
 "Skwer Księdza Jana Ignacego Golędzinowskiego",,,,way
 "Skwer Księdza Jerzego",,,,way
@@ -3788,6 +3791,7 @@ Skuterowa,,,,way
 "Skwer Samuela Orgelbranda",,,,way
 "Skwer Stefana Kuryłowicza",,,,way
 "Skwer Stefana Wyszyńskiego",,,,way
+"Skwer Szmula Zygielbojma",,,,way
 "Skwer Szpitala Ewangelickiego",,,,way
 "Skwer Tadeusza Zawadzkiego „Zośki”",,,,way
 "Skwer Tekli Bądarzewskiej",,,,way
@@ -4026,7 +4030,6 @@ Szczytowa,,,,way
 Szczęsna,,,,way
 Szczęśliwa,,,,way
 Szegedyńska,,,,way
-Szekspira,,,,way
 Szeligowska,,,,way
 Szepietowska,,,,way
 Szermiercza,,,,way
@@ -4447,6 +4450,7 @@ Wygoda,,,,way
 Wygodna,,,,way
 Wygon,,,,way
 Wyjazd,,,,way
+Wyjściowa,,,,way
 Wykrot,,,,way
 Wykusz,,,,way
 Wylot,,,,way
@@ -4468,6 +4472,7 @@ Wąchocka,,,,way
 Wągrowiecka,,,,way
 Wąska,,,,way
 "Wąski Dunaj",,,,way
+"Wąski Jar",,,,way
 Wąwolnicka,,,,way
 Wąwozowa,,,,way
 Wędkarska,,,,way
@@ -4686,7 +4691,6 @@ Złotopolska,,,,way
 "planowane rondo",,,,way
 pochylnia,,,,way
 "pętla autobusowa MIĘDZYLESIE",,,,way
-"skwer Szmula Zygielbojma",,,,way
 "stanowisko postojowe ""zapasowe""",,,,way
 Ćmielowska,,,,way
 Łabiszyńska,,,,way
