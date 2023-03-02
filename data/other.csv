@@ -8,6 +8,7 @@ name,source,gender,wikidata,type
 Afrykańska,wikidata,,Q15,way
 Agawy,wikidata,,Q155874,way
 Akacjowa,wikidata,,Q81666,way
+Aksamitki,wikidata,,Q147552,way
 Alabastrowa,wikidata,,Q143447,way
 "Aleja ""Solidarności""",wikidata,,Q1003,way
 "Aleja 3 Maja",wikidata,,Q1129096,way
@@ -225,7 +226,7 @@ Husarska,wikidata,,Q1155518,way
 Igańska,wikidata,,Q945834,way
 Ikara,wikidata,,Q34041,way
 Improwizacji,wikidata,,Q214961,way
-Inflancka,wikidata,,Q183464,way
+Inflancka,wikidata,,Q183464;Q683520,way
 Inowłodzka,wikidata,,Q1898628,way
 Internetowa,wikidata,,Q75,way
 Irgi,wikidata,,Q5538,way
@@ -448,6 +449,7 @@ Podbipięty,wikidata,,Q221317,way
 Podgrzybków,wikidata,,Q578471,way
 Podróżnicza,wikidata,,Q53436;Q22813352,way
 Poezji,wikidata,,Q482,way
+Pokorna,wikidata,,Q1186677,way
 Poleczki,wikidata,,Q153071,way
 Polinezyjska,wikidata,,Q35942,way
 Poloneza,wikidata,,Q203478,way
@@ -938,10 +940,12 @@ Albatrosów,,,,way
 "Aleja Nadziei",,,,way
 "Aleja Obrońców Warszawy",,,,way
 "Aleja Ofiar Rosyjskiej Agresji",,,,way
+"Aleja Okrężna",,,,way
 "Aleja Orzechowa",,,,way
 "Aleja Paproci",,,,way
 "Aleja Peonii",,,,way
 "Aleja Polski Walczącej",,,,way
+"Aleja Poziomkowa",,,,way
 "Aleja Promienistych",,,,way
 "Aleja Przyjaciół",,,,way
 "Aleja Pszczółek",,,,way
@@ -972,6 +976,7 @@ Albatrosów,,,,way
 "Aleja Urocza",,,,way
 "Aleja Uśmiechów",,,,way
 "Aleja Wesoła",,,,way
+"Aleja Winogronowa",,,,way
 "Aleja Wiśniowa",,,,way
 "Aleja Wyzwolenia",,,,way
 "Aleja Wyścigowa",,,,way
@@ -1315,7 +1320,6 @@ Cementowa,,,,way
 Centralna,,,,way
 "Centrum 07",,,,relation
 "Centrum 08",,,,relation
-"Centrum 10",,,,relation
 Centurii,,,,way
 "Cesarskiej Korony",,,,way
 Chabrowa,,,,way
@@ -1458,8 +1462,6 @@ Dedala,,,,way
 Dekarska,,,,way
 Delfina,,,,way
 Denarowa,,,,way
-"Deotymy 01",,,,relation
-"Deotymy 04",,,,relation
 Deptak,,,,way
 Derby,,,,way
 Dereniowa,,,,way
@@ -1527,7 +1529,6 @@ Dusznicka,,,,way
 Dworkowa,,,,way
 Dworska,,,,way
 "Dworzec Centralny 01",,,,relation
-"Dworzec Centralny 08",,,,relation
 Dwusieczna,,,,way
 Dychowska,,,,way
 Dylewska,,,,way
@@ -2334,7 +2335,6 @@ Krowia,,,,way
 Krośniewicka,,,,way
 Króżańska,,,,way
 Krucza,,,,way
-"Krucza 06",,,,relation
 Krupnicza,,,,way
 Kruszwicka,,,,way
 Kruszyny,,,,way
@@ -2768,7 +2768,6 @@ Murmańska,,,,way
 Muszkieterów,,,,way
 Muszyńska,,,,way
 Muzealna,,,,way
-"Muzeum Narodowe 06",,,,relation
 Muzyczna,,,,way
 Muślinowa,,,,way
 Mydlarska,,,,way
@@ -2861,7 +2860,6 @@ Nowiniarska,,,,way
 Nowiny,,,,way
 Nowińska,,,,way
 Nowo-Białołęcka,,,,way
-Nowo-Człuchowska,,,,way
 Nowo-Jagiellońska,,,,way
 Nowo-Stalowa,,,,way
 Nowo-Ziemowita,,,,way
@@ -3252,7 +3250,6 @@ Poetów,,,,way
 Pogodna,,,,way
 Pograniczna,,,,way
 Pohulanka,,,,way
-Pokorna,,,,way
 Pokrzywnicka,,,,way
 Pokrzywowa,,,,way
 Pokucka,,,,way
@@ -3375,7 +3372,6 @@ Przedświt,,,,way
 Przejazd,,,,way
 Przejazdowa,,,,way
 Przejezdna,,,,way
-"Przejście podziemne pod rondem",,,,relation
 Przekorna,,,,way
 Przelot,,,,way
 Przelotowa,,,,way
@@ -3801,6 +3797,7 @@ Skuterowa,,,,way
 "Skwer Nelsona Mandeli",,,,way
 "Skwer Oleandrów",,,,way
 "Skwer Pokolenia Kolumbów",,,,way
+"Skwer Przyjaciół Węgierskich",,,,way
 "Skwer Radiowej Rodziny Matysiaków",,,,way
 "Skwer Reduty Kaliskiej",,,,way
 "Skwer Rodziny Wolskich",,,,way
@@ -3996,6 +3993,7 @@ Szamocin,,,,way
 Szamocka,,,,way
 Szamoty,,,,way
 Szara,,,,way
+Szarady,,,,way
 Szarotki,,,,way
 Szaserów,,,,way
 Szatkowników,,,,way
