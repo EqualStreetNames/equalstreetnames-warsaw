@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 Stryjeńskich,wikidata,+,Q9146036;Q218326;Q3193544;Q3513721,way
 Sąsiedzka,wikidata,+,Q6699453;Q1986893,way
+"Kaliny Jędrusik",wikidata,?,Q274295;Q458213,way
 "Aleja Beaty Obertyńskiej",wikidata,F,Q4877016,way
 "Aleja Generał Marii Wittek",wikidata,F,Q6761660,way
 "Aleja Ireny Sendlerowej",wikidata,F,Q151932,way
@@ -33,7 +34,6 @@ Deotymy,wikidata,F,Q274324,way
 "Ireny Kosmowskiej",wikidata,F,Q7942525,way
 "Jadwigi Smosarskiej",wikidata,F,Q129617,way
 "Justyny Budzińskiej-Tylickiej",wikidata,F,Q11729689,way
-"Kaliny Jędrusik",wikidata,F,Q274295,way
 "Klementyny Hoffmanowej",wikidata,F,Q433781,way
 "Królowej Aldony",wikidata,F,Q252763,way
 "Królowej Bony",wikidata,F,Q229434,way
@@ -708,7 +708,7 @@ Spartakusa,wikidata,M,Q83406,way
 "Stanisława Bodycha",wikidata,M,Q18068743,way
 "Stanisława Chudoby",wikidata,M,Q9341729,way
 "Stanisława Dubois",wikidata,M,Q7599127,way
-"Stanisława Dygata",wikidata,M,Q723360,way
+"Stanisława Dygata",wikidata,M,Q458213;Q723360,way
 "Stanisława Grochowiaka",wikidata,M,Q2022605,way
 "Stanisława Herbsta",wikidata,M,Q8861685,way
 "Stanisława Hozjusza",wikidata,M,Q61962,way
