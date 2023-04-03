@@ -501,6 +501,7 @@ Resorowa,wikidata,,Q773544,way
 "Rodziny Połanieckich",wikidata,,Q9311644,way
 Rogalińska,wikidata,,Q2161540,way
 Rokokowa,wikidata,,Q122960,way
+"Romea i Julii",wikidata,,Q673361;Q1092632,way
 "Rondo Akademii Wychowania Fizycznego",wikidata,,Q413829,way
 "Rondo Biskupów Płockich",wikidata,,Q1837334,way
 "Rondo Czterdziestolatka",wikidata,,Q5202185,way
@@ -753,13 +754,40 @@ Złota,wikidata,,Q897,way
 Żyrardowska,wikidata,,Q393251,way
 Żywiczna,wikidata,,Q145205,way
 "1 Maja",,,,way
+"11KDL Leszczyny",,,,way
+11KDW,,,,way
+12KDW,,,,way
+12KP,,,,way
+13KDW,,,,way
 "15 Sierpnia",,,,way
+15KPJ,,,,way
 "1831 Roku",,,,way
+18KPJ,,,,way
 "19 Kwietnia",,,,way
+19KDD,,,,way
 "20 Dywizji Piechoty WP",,,,way
+20KDW,,,,way
+20KP,,,,way
 "21 Pułku Piechoty Dzieci Warszawy",,,,way
+21KDW,,,,way
+22KDD,,,,way
+22KDW,,,,way
+25KDD,,,,way
+27KDD,,,,way
+"28 KDD Srebrnych Świerków",,,,way
+28KDD,,,,way
+28KDW,,,,way
+29KDW,,,,way
 31KD-D,,,,way
+40KDD,,,,way
+41KDD,,,,way
+5KDL,,,,way
 "6 Sierpnia",,,,way
+6KDL,,,,way
+7KDL,,,,way
+8KDW,,,,way
+9KDW,,,,way
+9KJP,,,,way
 AWF,,,,way
 Abecadło,,,,way
 Achillesa,,,,way
@@ -886,11 +914,8 @@ Albatrosów,,,,way
 "Aleja 97",,,,way
 "Aleja 98",,,,way
 "Aleja 99",,,,way
-"Aleja Aliny Szapocznikow",,,,way
-"Aleja Aliny Ślesińskiej",,,,way
 "Aleja Andrzeja Panufnika",,,,way
 "Aleja Antoniego Nowakowskiego",,,,way
-"Aleja Barbary Zbrożyny",,,,way
 "Aleja Biedronek",,,,way
 "Aleja Bluszczu",,,,way
 "Aleja Bohaterów Września",,,,way
@@ -927,6 +952,7 @@ Albatrosów,,,,way
 "Aleja Kwiatowa",,,,way
 "Aleja Legionów Piłsudskiego",,,,way
 "Aleja Lipowa",,,,way
+"Aleja Longina Majdeckiego",,,,way
 "Aleja Lotników",,,,way
 "Aleja Ludwiki Nitschowej",,,,way
 "Aleja Magnolii",,,,way
@@ -1318,8 +1344,6 @@ Celownicza,,,,way
 Celulozy,,,,way
 Cementowa,,,,way
 Centralna,,,,way
-"Centrum 07",,,,relation
-"Centrum 08",,,,relation
 Centurii,,,,way
 "Cesarskiej Korony",,,,way
 Chabrowa,,,,way
@@ -1877,6 +1901,7 @@ Heleny,,,,way
 "Heleny Kozłowskiej",,,,way
 Heliotropów,,,,way
 Heloizy,,,,way
+"Henryka Albera",,,,way
 "Henryka Arctowskiego",,,,way
 "Henryka Dembińskiego",,,,way
 "Henryka Małkowskiego",,,,way
@@ -2277,7 +2302,6 @@ Koszycka,,,,way
 Koszykarska,,,,way
 Koszykowa,,,,way
 Koszęcińska,,,,way
-Kotlarska,,,,way
 Kotylion,,,,way
 Kowalika,,,,way
 Kowieńska,,,,way
@@ -2445,7 +2469,6 @@ Lawinowa,,,,way
 Lebiodowa,,,,way
 Lecha,,,,way
 Lechicka,,,,way
-Lechitów,,,,way
 Legendy,,,,way
 Legionowa,,,,way
 Legnicka,,,,way
@@ -2465,8 +2488,6 @@ Leszczyny,,,,way
 Leszczyńska,,,,way
 Leszno,,,,way
 Lesznowolska,,,,way
-Leszowa,,,,way
-Letniskowa,,,,way
 Lewandów,,,,way
 Lewicka,,,,way
 Lewicpolska,,,,way
@@ -3192,7 +3213,6 @@ Pińska,,,,way
 "Plac Wileński",,,,way
 "Plac Zamkowy",,,,relation+way
 "Plac apelowy",,,,way
-"Plac przy Fontannie",,,,way
 "Plac Żelaznej Bramy",,,,way
 Plakatowa,,,,way
 Planetowa,,,,way
@@ -3359,6 +3379,7 @@ Pryzmaty,,,,way
 Przasnyska,,,,way
 Przaśna,,,,way
 Przebieg,,,,way
+"Przebudowa na rondo",,,,way
 Przechodnia,,,,way
 Przecławska,,,,way
 Przedatki,,,,way
@@ -3417,7 +3438,6 @@ Przytulna,,,,way
 Przytyk,,,,way
 Przyłęcka,,,,way
 Prząśniczek,,,,way
-"Prądzyńskiego BIS",,,,way
 Pstra,,,,way
 Pszczelarska,,,,way
 Pszczyńska,,,,way
@@ -3538,7 +3558,6 @@ Rolnicza,,,,way
 "Romana Sanguszki",,,,way
 Romantyczna,,,,way
 Romańska,,,,way
-"Romea i Julii",,,,way
 "Romualda Gutta",,,,way
 "Romualda Mielczarskiego",,,,way
 "Romualda Millera",,,,way
@@ -3965,7 +3984,6 @@ Suwalska,,,,way
 Sułkowicka,,,,way
 Swarożyca,,,,way
 Swarzewska,,,,way
-Swiatowida,,,,way
 Swojska,,,,way
 Sworzniowa,,,,way
 Swoszowicka,,,,way
@@ -4123,6 +4141,7 @@ Towarowa,,,,way
 Traczy,,,,way
 Trakcyjna,,,,way
 "Trakt Leśny",,,,way
+"Trakt Nadwiślańsi",,,,way
 "Trakt Nadwiślański",,,,way
 Traktorzystki,,,,way
 Traktorzystów,,,,way
@@ -4496,7 +4515,6 @@ Zatrzebie,,,,way
 Zatylna,,,,way
 Zaułek,,,,way
 "Zaułek Braci Pakulskich",,,,way
-"Zaułek Marii i Aleksandra Żabczyńskich",,,,way
 Zawierciańska,,,,way
 Zawilców,,,,way
 Zawiszaków,,,,way
@@ -4566,7 +4584,6 @@ Zwardońska,,,,way
 Zwierzyniecka,,,,way
 Związkowa,,,,way
 Zwoleńska,,,,way
-Zwrotnicza,,,,way
 Zwycięzców,,,,way
 "Zygmunta III",,,,way
 "Zygmunta Markerta",,,,way
@@ -4648,6 +4665,7 @@ Złotopolska,,,,way
 Śmiała,,,,way
 Śmieszna,,,,way
 Śmigielska,,,,way
+Śniardwy,,,,way
 Śnieguliczki,,,,way
 Śpiewaków,,,,way
 Śpiewna,,,,way
