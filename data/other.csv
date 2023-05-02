@@ -5,9 +5,11 @@ name,source,gender,wikidata,type
 "27 Grudnia",wikidata,,Q2800,way
 "29 Listopada",wikidata,,Q3016,way
 "3 Maja",wikidata,,Q2547,way
+Abecadło,wikidata,,Q9779,way
 Afrykańska,wikidata,,Q15,way
 Agawy,wikidata,,Q155874,way
 Akacjowa,wikidata,,Q81666,way
+Akademicka,wikidata,,Q162633,way
 Aksamitki,wikidata,,Q147552,way
 Alabastrowa,wikidata,,Q143447,way
 "Aleja ""Solidarności""",wikidata,,Q1003,way
@@ -17,6 +19,7 @@ Alabastrowa,wikidata,,Q143447,way
 "Aleja Armii Ludowej",wikidata,,Q632757,way
 "Aleja Biura Odbudowy Stolicy",wikidata,,Q879144,way
 "Aleja Chińska",wikidata,,Q148,way
+"Aleja Kasztanowa",wikidata,,Q129324,way
 "Aleja Komisji Edukacji Narodowej",wikidata,,Q1562345,way
 "Aleja Krakowska",wikidata,,Q31487,way
 "Aleja Niepodległości",wikidata,,Q37055,way
@@ -47,6 +50,7 @@ Andrychowska,wikidata,,Q984857,way
 Apartamentowa,wikidata,,Q85782723,way
 Aplikancka,wikidata,,Q4800911,way
 Apteczna,wikidata,,Q13107184,way
+Arbuzowa,wikidata,,Q38645,way
 Architektów,wikidata,,Q42973,way
 Archiwalna,wikidata,,Q9159187,way
 "Armii Krajowej",wikidata,,Q152529,way
@@ -56,6 +60,9 @@ Ateńska,wikidata,,Q1524,way
 Atlasowa,wikidata,,Q162827,way
 Bajońska,wikidata,,Q134674,way
 Bakalarska,wikidata,,Q1765120,way
+Bakaliowa,wikidata,,Q234901,way
+Baletowa,wikidata,,Q41425,way
+Balonowa,wikidata,,Q643435,way
 Baltazara,wikidata,,Q1073772,way
 Bambusowa,wikidata,,Q311331,way
 Barcelońska,wikidata,,Q1492,way
@@ -68,6 +75,7 @@ Bartoszycka,wikidata,,Q809585,way
 "Batalionu AK ""Pięść""",wikidata,,Q9167153,way
 "Batalionu AK ""Zośka""",wikidata,,Q646249,way
 "Batalionu Platerówek",wikidata,,Q4028003,way
+Batuty,wikidata,,Q860256,way
 Bazaltowa,wikidata,,Q43338,way
 Bazyliowa,wikidata,,Q148818,way
 Bałtycka,wikidata,,Q545,way
@@ -79,6 +87,7 @@ Belwederska,wikidata,,Q645474,way
 Berestecka,wikidata,,Q819126,way
 Berneńska,wikidata,,Q70,way
 Bełdan,wikidata,,Q4081746,way
+Biała,wikidata,,Q23444,way
 Białobrzeska,wikidata,,Q855976,way
 Białostocka,wikidata,,Q761,way
 Białowiejska,wikidata,,Q160309,way
@@ -88,17 +97,21 @@ Bieniewicka,wikidata,,Q4904556,way
 "Bitwy pod Lenino",wikidata,,Q2341305,way
 "Bitwy pod Rokitną",wikidata,,Q9350894,way
 Biwakowa,wikidata,,Q879208,way
+Blaszana,wikidata,,Q211367,way
 Bocheńska,wikidata,,Q815903,way
 Bogata,wikidata,,Q200535,way
 Bogatki,wikidata,,Q25485,way
 Bonifraterska,wikidata,,Q808386,way
 Borsucza,wikidata,,Q27066;Q698651,way
 Boryny,wikidata,,Q28602913;Q121180,way
+Botaniczna,wikidata,,Q441,way
 Bródnowska,wikidata,,Q4981889,way
+Browarna,wikidata,,Q131734,way
 Brukselska,wikidata,,Q239,way
 Brwinowska,wikidata,,Q985661,way
 Brylantowa,wikidata,,Q429571,way
 Brylowska,wikidata,,Q63531601,way
+Brzozowa,wikidata,,Q25243,way
 "Budki Szczęśliwickie",wikidata,,Q9351235,way
 Bukowa,wikidata,,Q25403,way
 Bukowińska,wikidata,,Q105206,way
@@ -120,33 +133,46 @@ Chroszczewska,wikidata,,Q8345753,way
 Chrzanowska,wikidata,,Q11690361,way
 Chylońska,wikidata,,Q9191900,way
 Chęcińska,wikidata,,Q991924,way
+Chłodna,wikidata,,Q3929317,way
+Cicha,wikidata,,Q502261,way
 Ciechanowska,wikidata,,Q745051,way
 Ciepła,wikidata,,Q44432,way
 Cieszyńska,wikidata,,Q321197,way
 Cietrzewia,wikidata,,Q155878,way
 Cukrownicza,wikidata,,Q227870,way
 Cybernetyki,wikidata,,Q123637,way
+Cynamonowa,wikidata,,Q28165,way
 Cyprysowa,wikidata,,Q146911,way
 Cyraneczki,wikidata,,Q25700,way
 Cyrkonii,wikidata,,Q225666,way
 Cyrulików,wikidata,,Q781850,way
+Cytrusowa,wikidata,,Q81513,way
 Czarna,wikidata,,Q23445,way
+Czarodzieja,wikidata,,Q2488257,way
+Czekoladowa,wikidata,,Q195,way
+Czeladnicza,wikidata,,Q582096,way
+Czereśniowa,wikidata,,Q165137,way
+Czerniakowska,wikidata,,Q5201987,way
 Czerska,wikidata,,Q997018,way
 Czorsztyńska,wikidata,,Q1149715,way
 Czółenkowa,wikidata,,Q519840,way
+Czynszowa,wikidata,,Q2624082,way
 Częstochowska,wikidata,,Q103217,way
 Daglezji,wikidata,,Q158771,way
 Dalibora,wikidata,,Q855839,way
 Diamentowa,wikidata,,Q5283,way
 Dionizosa,wikidata,,Q41680,way
 "Do Fortu",wikidata,,Q1438604,way
+Dobra,wikidata,,Q15290,way
 Dobrodzieja,wikidata,,Q1077064,way
 Dobrogniewa,wikidata,,Q9208375,way
+Dolna,wikidata,,Q15332388,way
 Dolnośląska,wikidata,,Q2353353,way
 Dolomitowa,wikidata,,Q167741,way
 Dominikańska,wikidata,,Q131479,way
 Dorożkarska,wikidata,,Q535863,way
 Dostatnia,wikidata,,Q107302068,way
+Dowcip,wikidata,,Q131138,way
 Dożynkowa,wikidata,,Q608835;Q51647,way
 Dragonów,wikidata,,Q194199,way
 "Droga Belwederska",wikidata,,Q645474,way
@@ -159,15 +185,18 @@ Dyniowa,wikidata,,Q165308,way
 "Dywizjonu 303",wikidata,,Q1269413,way
 Działdowska,wikidata,,Q983720,way
 Dziupli,wikidata,,Q2392414,way
+Długa,wikidata,,Q36253,way
 Dźwigowa,wikidata,,Q9249606,way
 Egipska,wikidata,,Q79,way
 Elbląska,wikidata,,Q104712,way
+Elektryczna,wikidata,,Q12725,way
 Encyklopedyczna,wikidata,,Q5292,way
 Esperanto,wikidata,,Q143,way
 Estońska,wikidata,,Q191,way
 Estragonowa,wikidata,,Q155814,way
 "Etiudy Rewolucyjnej",wikidata,,Q147265,way
 Europejska,wikidata,,Q46,way
+Fabryczna,wikidata,,Q83405,way
 Filipinki,wikidata,,Q5448581;Q40244,way
 Filomatów,wikidata,,Q2088144,way
 Filtrowa,wikidata,,Q642455,way
@@ -209,6 +238,7 @@ Gwiazda,wikidata,,Q523,way
 Gąsek,wikidata,,Q82562,way
 Harfowa,wikidata,,Q47369,way
 "Henryka Jędrzejowskiego",wikidata,,Q9288276;Q25356;Q9387849,way
+"Herakliusza Billewicza",wikidata,,Q117821360,way
 "Herbu Janina",wikidata,,Q4538061,way
 "Herbu Korczak",wikidata,,Q2470343,way
 "Herbu Leliwa",wikidata,,Q2993924,way
@@ -268,7 +298,7 @@ Klembowska,wikidata,,Q3078004,way
 Kleszczowa,wikidata,,Q11833730;Q13049940,way
 Klinkierowa,wikidata,,Q970812,way
 Klonowa,wikidata,,Q42292,way
-Kolarska,wikidata,,Q53121,way
+Kolarska,wikidata,,Q2215841,way
 Kolejowa,wikidata,,Q22667,way
 Kolendrowa,wikidata,,Q1752862,way
 Kolneńska,wikidata,,Q1614791,way
@@ -404,6 +434,7 @@ Ostrołęcka,wikidata,,Q461287,way
 Otwocka,wikidata,,Q745059,way
 Owalna,wikidata,,Q193410,way
 Ożarowska,wikidata,,Q1902266,way
+"Pana Tadeusza",wikidata,,Q9354848,way
 Pandy,wikidata,,Q535979,way
 "Panny Wodnej",wikidata,,Q11802691,way
 Papieska,wikidata,,Q19546,way
@@ -436,6 +467,7 @@ Piaskowa,wikidata,,Q11816309;Q34679,way
 "Pieskowa Skała",wikidata,,Q1780430,way
 Pigwy,wikidata,,Q2751465,way
 Piotrkowska,wikidata,,Q158004,way
+"Piotrusia Pana",wikidata,,Q107190,way
 Pisankowa,wikidata,,Q163886,way
 Piwna,wikidata,,Q44,way
 Pięciolinii,wikidata,,Q192193,way
@@ -789,7 +821,6 @@ Złota,wikidata,,Q897,way
 9KDW,,,,way
 9KJP,,,,way
 AWF,,,,way
-Abecadło,,,,way
 Achillesa,,,,way
 Adampolska,,,,way
 Admiralska,,,,way
@@ -799,7 +830,6 @@ Agnieszki,,,,way
 Agrarna,,,,way
 Agrestowa,,,,way
 Agrykola,,,,way
-Akademicka,,,,way
 Akantu,,,,way
 Akcent,,,,way
 Akermańska,,,,way
@@ -942,7 +972,6 @@ Albatrosów,,,,way
 "Aleja Jabłoni",,,,way
 "Aleja Jaśminów",,,,way
 "Aleja Kalinowa",,,,way
-"Aleja Kasztanowa",,,,way
 "Aleja Katarzyny Kobro",,,,way
 "Aleja Kazimierza Kumanieckiego",,,,way
 "Aleja Kobiet",,,,way
@@ -1058,14 +1087,10 @@ Animuszu,,,,way
 Annopol,,,,way
 Antenowa,,,,way
 "Antonia Corazziego",,,,way
-"Antonia Vivaldiego",,,,way
 "Antoniego Brodowskiego",,,,way
 "Antoniego Chodorowskiego",,,,way
-"Antoniego Czechowa",,,,way
-"Antoniego Fontany",,,,way
 "Antoniego Kacpury",,,,way
 "Antoniego Pallutha",,,,way
-"Antoniego Pankracego Łaguny",,,,way
 "Antoniego Ponikowskiego",,,,way
 "Antoniego Uniechowskiego",,,,way
 Antoniewska,,,,way
@@ -1075,8 +1100,6 @@ Anyżkowa,,,,way
 Apenińska,,,,way
 Arabska,,,,way
 Arachidowa,,,,way
-Arbuzowa,,,,way
-"Arcangela Corellego",,,,way
 Argentyńska,,,,way
 Arkadii,,,,way
 Arkadowa,,,,way
@@ -1121,14 +1144,11 @@ Bagno,,,,way
 Bajaderki,,,,way
 Bajeczna,,,,way
 Bajkowa,,,,way
-Bakaliowa,,,,way
 Balaton,,,,way
 Balbinki,,,,way
-Baletowa,,,,way
 Balicka,,,,way
 Balkonowa,,,,way
 Balladyny,,,,way
-Balonowa,,,,way
 Bananowa,,,,way
 Banderii,,,,way
 Bandoski,,,,way
@@ -1154,7 +1174,6 @@ Basetli,,,,way
 "Batalionu AK ""Ryś""",,,,way
 "Batalionu AK ""Włochy""",,,,way
 Batumi,,,,way
-Batuty,,,,way
 Batystowa,,,,way
 Bawełniana,,,,way
 Bazyliańska,,,,way
@@ -1173,7 +1192,6 @@ Betonowa,,,,way
 Bełchatowska,,,,way
 Bełska,,,,way
 Bełżecka,,,,way
-Biała,,,,way
 "Białego Dębu",,,,way
 "Białej Floty",,,,way
 "Białej Koniczyny",,,,way
@@ -1185,8 +1203,6 @@ Białowieska,,,,way
 Białozora,,,,way
 Białołęcka,,,,way
 "Biały Kamień",,,,way
-"Biblioteka Narodowa 03",,,,relation
-"Biblioteka Narodowa 04",,,,relation
 Biechowska,,,,way
 Biedronki,,,,way
 Biegunowa,,,,way
@@ -1206,7 +1222,6 @@ Bitna,,,,way
 "Bitwy Grochowskiej",,,,way
 Biłgorajska,,,,way
 Blacharska,,,,way
-Blaszana,,,,way
 Bliska,,,,way
 Blokowa,,,,way
 Bluszczańska,,,,way
@@ -1253,7 +1268,6 @@ Borysławska,,,,way
 Borzymowska,,,,way
 Borzęcińska,,,,way
 Bosmańska,,,,way
-Botaniczna,,,,way
 "Braci Buch",,,,way
 "Braci Pillatich",,,,way
 "Braci Wagów",,,,way
@@ -1275,7 +1289,6 @@ Brodzik,,,,way
 "Bronisława Gembarzewskiego",,,,way
 Broniwoja,,,,way
 Bronowska,,,,way
-Browarna,,,,way
 "Brunona Kicińskiego",,,,way
 Bruszewska,,,,way
 Bruzdowa,,,,way
@@ -1288,7 +1301,6 @@ Brzeziny,,,,way
 Brzezińska,,,,way
 Brzoskwiniowa,,,,way
 Brzostowska,,,,way
-Brzozowa,,,,way
 "Brzozowy Lasek",,,,way
 "Brzozowy Zagajnik",,,,way
 Brązownicza,,,,way
@@ -1365,15 +1377,12 @@ Choinkowa,,,,way
 Chojnowska,,,,way
 Chóralna,,,,way
 Chorzelska,,,,way
-"Christa Botewa",,,,way
 Chrobotka,,,,way
 Chryzantemy,,,,way
 Chylicka,,,,way
 Chyrowska,,,,way
-Chłodna,,,,way
 Chłodnicza,,,,way
 Ciasna,,,,way
-Cicha,,,,way
 "Cicha Dolina",,,,way
 "Cichej Wody",,,,way
 Cichociemnych,,,,way
@@ -1395,7 +1404,6 @@ Ciszewska,,,,way
 "Ciszewskiego Bis",,,,way
 Ciupagi,,,,way
 Ciżemki,,,,way
-"Claudia Monteverdiego",,,,way
 Cmentarna,,,,way
 Codzienna,,,,way
 Cokołowa,,,,way
@@ -1409,13 +1417,11 @@ Cyklamenów,,,,way
 Cyklamenowa,,,,way
 Cylichowska,,,,way
 Cymbalistów,,,,way
-Cynamonowa,,,,way
 Cynowa,,,,way
 Cypryjska,,,,way
 Cyrhli,,,,way
 Cyrklowa,,,,way
 Cytadeli,,,,way
-Cytrusowa,,,,way
 Cytrynowa,,,,way
 Czajki,,,,way
 Czapelska,,,,way
@@ -1427,17 +1433,12 @@ Czarnoleska,,,,way
 Czarnomorska,,,,way
 Czarnołęcka,,,,way
 Czarnuszki,,,,way
-Czarodzieja,,,,way
 Czarująca,,,,way
 Czatów,,,,way
 Czechowicka,,,,way
 Czekanowska,,,,way
-Czekoladowa,,,,way
-Czeladnicza,,,,way
 Czempińska,,,,way
 Czeremchowa,,,,way
-Czereśniowa,,,,way
-Czerniakowska,,,,way
 Czerniowiecka,,,,way
 Czerwińska,,,,way
 "Czerwona Droga",,,,way
@@ -1458,7 +1459,6 @@ Czołowa,,,,way
 "Czterolistnej Koniczynki",,,,way
 Czubatki,,,,way
 Czwartaków,,,,way
-Czynszowa,,,,way
 Czysta,,,,way
 "Czystej Wody",,,,way
 Czytelnicza,,,,way
@@ -1497,15 +1497,12 @@ Dewajtis,,,,way
 Dmuchawcowa,,,,way
 "Dobka z Oleśnicy",,,,way
 Dobosza,,,,way
-Dobra,,,,way
 Dobrowoja,,,,way
 Dobrzyniecka,,,,way
 Dojazdowa,,,,way
 Dokerów,,,,way
 "Dolina Służewiecka",,,,way
-Dolna,,,,way
 Domaniewska,,,,way
-"Domenica Scarlattiego",,,,way
 "Dominika Merliniego",,,,way
 Dominiki,,,,way
 Domowa,,,,way
@@ -1517,7 +1514,6 @@ Dorotowska,,,,way
 Dorycka,,,,way
 Dostawcza,,,,way
 Dostępna,,,,way
-Dowcip,,,,way
 Dowódców,,,,way
 Dołowa,,,,way
 Draceny,,,,way
@@ -1569,7 +1565,6 @@ Dziatwy,,,,way
 Działkowa,,,,way
 Działowa,,,,way
 Działyńczyków,,,,way
-"Dzidka Warszawiaka",,,,way
 "Dzieci Warszawy",,,,way
 Dziecięca,,,,way
 "Dziedziniec Laboratorium",,,,way
@@ -1608,7 +1603,6 @@ Dębinki,,,,way
 Dęblińska,,,,way
 Dębowa,,,,way
 Dęby,,,,way
-Długa,,,,way
 "Długi Kąt",,,,way
 Długomiła,,,,way
 Długopolska,,,,way
@@ -1629,7 +1623,6 @@ Elekcyjna,,,,way
 Elektoralna,,,,way
 Elektronowa,,,,way
 Elektry,,,,way
-Elektryczna,,,,way
 Elsterska,,,,way
 Emaliowa,,,,way
 Energetyczna,,,,way
@@ -1645,7 +1638,6 @@ Estrady,,,,way
 Eukaliptusowa,,,,way
 Ewy,,,,way
 Fabiańska,,,,way
-Fabryczna,,,,way
 Fajansowa,,,,way
 Fajna,,,,way
 Falenicka,,,,way
@@ -1720,8 +1712,6 @@ Fukierów,,,,way
 Fuksji,,,,way
 Fundamentowa,,,,way
 Furmańska,,,,way
-"GUS 03",,,,relation
-"GUS 04",,,,relation
 Gabriela,,,,way
 Gaik,,,,way
 Gajdy,,,,way
@@ -1877,6 +1867,7 @@ Głębocka,,,,way
 Głęboka,,,,way
 Gżegżółki,,,,way
 "Haberbuscha i Schielego",,,,way
+Habicha,,,,way
 Haczowska,,,,way
 Hafciarska,,,,way
 Hajduczka,,,,way
@@ -1907,9 +1898,7 @@ Heloizy,,,,way
 "Henryka Małkowskiego",,,,way
 "Henryka Raabego",,,,way
 "Henryka Sternhela",,,,way
-"Henryka Wierzchowskiego",,,,way
 Henrykowska,,,,way
-"Herakliusza Billewicza",,,,way
 Herbaciana,,,,way
 Herbowa,,,,way
 "Herbu Oksza",,,,way
@@ -2000,10 +1989,8 @@ Jamki,,,,way
 "Jana Feliksa Piwarskiego",,,,way
 "Jana Józefa Lipskiego",,,,way
 "Jana Kiepury",,,,way
-"Jana Kossakowskiego",,,,way
 "Jana Lechonia",,,,way
 "Jana Maklakiewicza",,,,way
-"Jana Miklaszewskiego",,,,way
 "Jana Nagórskiego",,,,way
 "Jana Piekałkiewicza",,,,way
 "Jana Szałka",,,,way
@@ -2372,7 +2359,6 @@ Krzemienna,,,,way
 Krzesanego,,,,way
 Krzesiwa,,,,way
 Krzewna,,,,way
-"Krzysztofa Kiersnowskiego",,,,way
 "Krzysztofa Kolumba",,,,way
 Krzywa,,,,way
 "Krzywe Koło",,,,way
@@ -2389,7 +2375,6 @@ Książęca,,,,way
 "Księcia Witolda",,,,way
 "Księcia Ziemowita",,,,way
 "Księdza Jana Sztuki",,,,way
-"Księdza Józefa Iwaniuka",,,,way
 "Księdza Kazimierza Czarkowskiego",,,,way
 "Księdza Stanisława Skrzeszewskiego",,,,way
 "Księdza Sylwestra Szulczyka",,,,way
@@ -2562,7 +2547,6 @@ Ludna,,,,way
 "Ludomira Różyckiego",,,,way
 Ludowa,,,,way
 Ludwicka,,,,way
-"Ludwika Narbutta",,,,way
 "Ludwika Norblina",,,,way
 "Ludwika Paszkiewicza",,,,way
 Ludwiki,,,,way
@@ -2594,7 +2578,6 @@ Majorki,,,,way
 Makolągwy,,,,way
 Makowa,,,,way
 Makowska,,,,way
-"Maksymiliana Roli",,,,way
 Malczycka,,,,way
 Malowana,,,,way
 Malownicza,,,,way
@@ -2607,7 +2590,6 @@ Mangalia,,,,way
 Marabuta,,,,way
 Maratońska,,,,way
 "Marca Polo",,,,way
-"Marcelego Jeżowskiego",,,,way
 Marcelińska,,,,way
 Marchołta,,,,way
 Marconich,,,,way
@@ -2675,8 +2657,6 @@ Menueta,,,,way
 Mesyńska,,,,way
 Metafory,,,,way
 Metalowców,,,,way
-"Metro Pole Mokotowskie 03",,,,relation
-"Metro Pole Mokotowskie 04",,,,relation
 Mewy,,,,way
 Mglista,,,,way
 Michalinki,,,,way
@@ -2953,7 +2933,6 @@ Ogrodniczek,,,,way
 Ogrodowa,,,,way
 Ogrody,,,,way
 "Ogrody Przyjaciół",,,,way
-"Ojca Aniceta",,,,way
 Ojcowska,,,,way
 Ojrzanowska,,,,way
 Okienko,,,,way
@@ -3073,7 +3052,6 @@ Palmowa,,,,way
 Paluch,,,,way
 "Pamiętajcie o Ogrodach",,,,way
 Pamiętna,,,,way
-"Pana Tadeusza",,,,way
 Pancerna,,,,way
 "Pani na Wiśniewie",,,,way
 Panieńska,,,,way
@@ -3156,7 +3134,6 @@ Piniowa,,,,way
 Pionierów,,,,way
 Pionierska,,,,way
 "Piotra Gruszczyńskiego",,,,way
-"Piotrusia Pana",,,,way
 Piołunowa,,,,way
 Pirenejska,,,,way
 Piruet,,,,way
@@ -3224,6 +3201,7 @@ Platanowa,,,,way
 Plażowa,,,,way
 Pleciona,,,,way
 Pliszki,,,,way
+Plochocińska,,,,way
 Plutonowych,,,,way
 "Plutonu AK ""Torpedy""",,,,way
 Pląsy,,,,way
@@ -3458,6 +3436,7 @@ Pułtuska,,,,way
 Pyszniańska,,,,way
 Pęcherska,,,,way
 Pęcicka,,,,way
+"Pętla Osiedle Górczewska",,,,way
 Płaska,,,,way
 "Płatków Róż",,,,way
 Płatnerska,,,,way
@@ -3555,7 +3534,6 @@ Rolkostrada,,,,way
 Rolna,,,,way
 Rolnicza,,,,way
 "Romana Popiołka",,,,way
-"Romana Sanguszki",,,,way
 Romantyczna,,,,way
 Romańska,,,,way
 "Romualda Gutta",,,,way
@@ -3701,6 +3679,7 @@ Safony,,,,way
 Sagalli,,,,way
 Salamandry,,,,way
 Salomejska,,,,way
+Salsy,,,,way
 Samarytanka,,,,way
 Samborska,,,,way
 Samby,,,,way
@@ -3782,6 +3761,7 @@ Skrzypcowa,,,,way
 Skrzypów,,,,way
 Skuterowa,,,,way
 "Skwer Adolfa Marii Bocheńskiego",,,,way
+"Skwer Aleksandry Piłsudskiej",,,,way
 "Skwer Alfonsa Grotowskiego",,,,way
 "Skwer Aliny Scholtz",,,,way
 "Skwer Andrzeja Wajdy",,,,way
@@ -3817,19 +3797,21 @@ Skuterowa,,,,way
 "Skwer Przyjaciół Węgierskich",,,,way
 "Skwer Radiowej Rodziny Matysiaków",,,,way
 "Skwer Reduty Kaliskiej",,,,way
+"Skwer Rodziny Kuczerów",,,,way
 "Skwer Rodziny Wolskich",,,,way
 "Skwer Samuela Orgelbranda",,,,way
 "Skwer Stefana Kuryłowicza",,,,way
 "Skwer Szmula Zygielbojma",,,,way
 "Skwer Szpitala Ewangelickiego",,,,way
 "Skwer Tadeusza Zawadzkiego „Zośki”",,,,way
+"Skwer Tadeusza, Marii, Barbary, Włodzimierza Fijewskich",,,,way
 "Skwer Tekli Bądarzewskiej",,,,way
 "Skwer Václava Havla",,,,way
 "Skwer Wacława Lipińskiego",,,,way
 "Skwer Więźniów Politycznych Stalinizmu",,,,way
 "Skwer Wolnego Słowa",,,,way
-"Skwer Wolnej Elekcji",,,,way
 "Skwer Wołyński",,,,way
+"Skwer Zbigniewa Wójcika",,,,way
 "Skwer Zgrupowania AK ""Róg""",,,,way
 "Skwer Ziemi Aniołów",,,,way
 "Skwer Zofii Kuratowskiej",,,,way
@@ -3902,7 +3884,6 @@ Staniewicka,,,,way
 "Stanisława Norblina",,,,way
 "Stanisława Pyjasa",,,,way
 "Stanisława Rogalskiego",,,,way
-"Stanisława Żaryna",,,,way
 Stanisławowska,,,,way
 Stara,,,,way
 Starczewska,,,,way
@@ -3925,7 +3906,6 @@ Statyczna,,,,way
 Stawiszyńska,,,,way
 Stawki,,,,way
 Stawowa,,,,way
-"Stefana Berenta",,,,way
 "Stefana Bryły",,,,way
 "Stefana Dembego",,,,way
 "Stefana Kopcińskiego",,,,way
@@ -4067,7 +4047,6 @@ Szydłowiecka,,,,way
 Szymanowska,,,,way
 Szymbarska,,,,way
 "Szymona Askenazego",,,,way
-"Szymona Konarskiego",,,,way
 Szyprów,,,,way
 Szyszaków,,,,way
 Sąsiadek,,,,way
@@ -4236,7 +4215,6 @@ Villardczyków,,,,way
 "W Brzózkach",,,,way
 "Wacława Terleckiego",,,,way
 "Wacława Tokarza",,,,way
-"Wacława Wojtyszki",,,,way
 "Wacława Żenczykowskiego",,,,way
 Wagonowa,,,,way
 Wahadło,,,,way
@@ -4421,7 +4399,6 @@ Węgrowska,,,,way
 "Węzeł Lotnisko",,,,way
 "Władysława Bandurskiego",,,,way
 "Władysława Bieńczaka",,,,way
-"Władysława Hassa",,,,way
 "Władysława Hermana",,,,way
 "Władysława Lercha",,,,way
 "Władysława Orkana",,,,way
@@ -4576,7 +4553,6 @@ Znana,,,,way
 Znicz,,,,way
 Znicza,,,,way
 Zodiakalna,,,,way
-"Zofii Roesler",,,,way
 Zorzy,,,,way
 Zosi,,,,way
 Zręby,,,,way
@@ -4690,7 +4666,6 @@ Złotopolska,,,,way
 "Świętego Hieronima",,,,way
 "Świętego Maksymiliana Kolbego",,,,way
 "Świętego Patryka",,,,way
-"Świętego Stanisława",,,,way
 "Świętej Cecylii",,,,way
 "Świętej Marii Magdaleny",,,,way
 Świętojańska,,,,way
