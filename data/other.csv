@@ -817,6 +817,7 @@ Złota,wikidata,,Q897,way
 20KDW,,,,way
 20KP,,,,way
 "21 Pułku Piechoty Dzieci Warszawy",,,,way
+21KDD,,,,way
 21KDW,,,,way
 22KDD,,,,way
 22KDW,,,,way
@@ -1003,6 +1004,7 @@ Albatrosów,,,,way
 "Aleja Malinowa",,,,way
 "Aleja Malwowa",,,,way
 "Aleja Marii Jaremy",,,,way
+"Aleja Michała Kuleszy",,,,way
 "Aleja Migdałowa",,,,way
 "Aleja Morelowa",,,,way
 "Aleja Młodzieży",,,,way
@@ -1015,6 +1017,7 @@ Albatrosów,,,,way
 "Aleja Paproci",,,,way
 "Aleja Peonii",,,,way
 "Aleja Polski Walczącej",,,,way
+"Aleja Porzeczkowa",,,,way
 "Aleja Poziomkowa",,,,way
 "Aleja Promienistych",,,,way
 "Aleja Przyjaciół",,,,way
@@ -1234,7 +1237,6 @@ Bieżuńska,,,,way
 Biruty,,,,way
 Birżańska,,,,way
 Biskupia,,,,way
-Bitna,,,,way
 "Bitwy Grochowskiej",,,,way
 Biłgorajska,,,,way
 Blacharska,,,,way
@@ -1337,6 +1339,7 @@ Bulwarowa,,,,way
 Burakowska,,,,way
 Burgaska,,,,way
 Burleska,,,,way
+Burmistrzowska,,,,way
 Bursztynowa,,,,way
 Burzliwa,,,,way
 Buska,,,,way
@@ -1426,7 +1429,6 @@ Codzienna,,,,way
 Cokołowa,,,,way
 Cudna,,,,way
 "Cudne Manowce",,,,way
-Cudnowska,,,,way
 Cyganeczki,,,,way
 Cygańska,,,,way
 Cykady,,,,way
@@ -1758,7 +1760,6 @@ Gedymina,,,,way
 "Generała Milana Štefánika",,,,way
 "Generała Stanisława Skalskiego",,,,way
 "Generała Stanisława Sosabowskiego",,,,way
-"Generała Zajączka 03",,,,relation
 Genewska,,,,way
 Geodezyjna,,,,way
 Geometryczna,,,,way
@@ -1860,7 +1861,6 @@ Gustawa,,,,way
 Gułowska,,,,way
 Guńki,,,,way
 Guźca,,,,way
-Gwardii,,,,way
 Gwarków,,,,way
 Gwiaździsta,,,,way
 Gwintowa,,,,way
@@ -3442,6 +3442,7 @@ Pułkowa,,,,way
 "Pułkownika Zoltána Baló",,,,way
 "Pułku AK ""Waligóra""",,,,way
 Pułtuska,,,,way
+Pyrska,,,,way
 Pyszniańska,,,,way
 Pęcherska,,,,way
 Pęcicka,,,,way
@@ -3483,6 +3484,7 @@ Radłowska,,,,way
 Rafaela,,,,way
 Rafałowska,,,,way
 Rafii,,,,way
+Rajców,,,,way
 Rajgrasowa,,,,way
 Rajgrodzka,,,,way
 Rajmunda,,,,way
@@ -3558,6 +3560,7 @@ Romańska,,,,way
 "Rondo Hutników Warszawskich",,,,way
 "Rondo Jana Cierlińskiego",,,,way
 "Rondo Jana Webera",,,,way
+"Rondo Janusza A. Zajdla",,,,way
 "Rondo Jazdy Polskiej",,,,way
 "Rondo Jerzego Jelińskiego",,,,way
 "Rondo Józefa Maroszka",,,,way
@@ -3775,6 +3778,7 @@ Skuterowa,,,,way
 "Skwer Andrzeja Woyciechowskiego",,,,way
 "Skwer Anny Jantar",,,,way
 "Skwer Barbary i Stanisława Brukalskich",,,,way
+"Skwer Batalionu AK ""Gozdawa""",,,,way
 "Skwer Batalionu AK ""Miłosz""",,,,way
 "Skwer Bohdana Lacherta",,,,way
 "Skwer Bronisława Geremka",,,,way
@@ -3812,6 +3816,7 @@ Skuterowa,,,,way
 "Skwer Szpitala Ewangelickiego",,,,way
 "Skwer Tadeusza Zawadzkiego „Zośki”",,,,way
 "Skwer Tekli Bądarzewskiej",,,,way
+"Skwer Trzech Pokoleń",,,,way
 "Skwer Václava Havla",,,,way
 "Skwer Wacława Lipińskiego",,,,way
 "Skwer Więźniów Politycznych Stalinizmu",,,,way
@@ -4164,7 +4169,6 @@ Turbinowa,,,,way
 Turecka,,,,way
 Turkawki,,,,way
 Turmoncka,,,,way
-Turoszowska,,,,way
 Turystyczna,,,,way
 Tułowicka,,,,way
 Tużycka,,,,way
@@ -4533,6 +4537,7 @@ Zeusa,,,,way
 Zgierska,,,,way
 Zgoda,,,,way
 Zgodna,,,,way
+Zgorzalska,,,,way
 Zgorzelecka,,,,way
 Zielna,,,,way
 Zielona,,,,way
@@ -4648,6 +4653,7 @@ Złotopolska,,,,way
 Śpiewna,,,,way
 "Śpiewu Ptaków",,,,way
 Średnia,,,,way
+Średzka,,,,way
 Śreniawitów,,,,way
 Śródborowska,,,,way
 Środkowa,,,,way
