@@ -2,7 +2,6 @@ name,source,gender,wikidata,type
 "Jana Szałka",wikidata,+,Q29246328;Q119512206,way
 Stryjeńskich,wikidata,+,Q9146036;Q218326;Q3193544;Q3513721,way
 Sąsiedzka,wikidata,+,Q6699453;Q1986893,way
-"Zaułek Marii i Aleksandra Żabczyńskich",wikidata,+,Q7944611;Q4715009,way
 "Aleja Aliny Szapocznikow",wikidata,F,Q466550,way
 "Aleja Aliny Ślesińskiej",wikidata,F,Q9148385,way
 "Aleja Barbary Zbrożyny",wikidata,F,Q4859426,way
@@ -255,6 +254,7 @@ Canaletta,wikidata,M,Q164688,way
 "Dymitra Mendelejewa",wikidata,M,Q9106,way
 Dynasy,wikidata,M,Q64055,way
 "Dzidka Warszawiaka",wikidata,M,Q117821418,way
+"Dzieci Warszawy",wikidata,M,Q53454,way
 "Edmunda Jana Osmańczyka",wikidata,M,Q3848159,way
 "Edmunda Jankowskiego",wikidata,M,Q3353089,way
 "Edwarda Dembowskiego",wikidata,M,Q1292039,way
@@ -486,7 +486,6 @@ Horacego,wikidata,M,Q6197,way
 "Karola Szczecińskiego",wikidata,M,Q20030800,way
 "Karola Szymanowskiego",wikidata,M,Q295400,way
 Kartezjusza,wikidata,M,Q9191,way
-"Kazimierza Brandysa",wikidata,M,Q558972,way
 "Kazimierza Brodzińskiego",wikidata,M,Q2941038,way
 "Kazimierza Brokla",wikidata,M,Q11737733,way
 "Kazimierza Deyny",wikidata,M,Q345702,way
@@ -649,6 +648,7 @@ Ondraszka,wikidata,M,Q918952,way
 "Piotra Michałowskiego",wikidata,M,Q1389396,way
 "Piotra Wysockiego",wikidata,M,Q2545325,way
 Pitagorasa,wikidata,M,Q10261,way
+Piękna,wikidata,M,Q42323,way
 "Plac Artura Zawiszy",wikidata,M,Q9160809,way
 "Plac Czesława Niemena",wikidata,M,Q458213,way
 "Plac Dionizego Henkla",wikidata,M,Q24641787,relation+way
@@ -682,6 +682,7 @@ Przewodowa,wikidata,M,Q855,way
 "Pułkownika Stanisława Dąbka",wikidata,M,Q4516575,way
 "Pułkownika Witolda Łokuciewskiego",wikidata,M,Q7942890,way
 "Rafała Krajewskiego",wikidata,M,Q4237429,way
+Rakietników,wikidata,M,Q478713,way
 "Raoula Wallenberga",wikidata,M,Q152850,way
 Rejonowa,wikidata,M,Q266339,way
 "Romana Maciejewskiego",wikidata,M,Q465132,way

@@ -305,6 +305,7 @@ Karuzela,wikidata,,Q208322,way
 Karwińska,wikidata,,Q191793,way
 Katarynki,wikidata,,Q752638,way
 Kawalerii,wikidata,,Q47315,way
+Kibiców,wikidata,,Q16678266,way
 Kielecka,wikidata,,Q102317,way
 Kijowska,wikidata,,Q1899,way
 Kirasjerów,wikidata,,Q44865,way
@@ -348,6 +349,7 @@ Kwiatowa,wikidata,,Q506,way
 Kwietniowa,wikidata,,Q118,way
 Kłodawska,wikidata,,Q988663,way
 Kłodzka,wikidata,,Q284604,way
+Kłosowa,wikidata,,Q147398,way
 Lapońska,wikidata,,Q5700,way
 Laskowa,wikidata,,Q578307,way
 Latoszki,wikidata,,Q98174211,way
@@ -589,11 +591,11 @@ Rolna,wikidata,,Q9312021,way
 "Rondo Tybetu",wikidata,,Q17252,way
 "Rondo Unii Europejskiej",wikidata,,Q458,way
 "Rondo WOŚP",wikidata,,Q1309088,way
+"Rondo Wiatraczna",wikidata,,Q9366175,way
 "Rondo Zesłańców Syberyjskich",wikidata,,Q7659546,way
 "Rondo Zgrupowania AK ""Radosław""",wikidata,,Q7281641,way
 "Rondo im. prezesa Ochódzkiego",wikidata,,Q9324875,way
 Rotmistrzowska,wikidata,,Q640375,way
-"Rozbudowa Światowida (ukończenie 11.2023)",wikidata,,Q147914,way
 Różana,wikidata,,Q34687,way
 Rubinowa,wikidata,,Q43088,way
 Ruczaj,wikidata,,Q15842515,way
@@ -791,6 +793,7 @@ Zakopiańska,wikidata,,Q144786,way
 Zamoście,wikidata,,Q387805,way
 Zaokopowa,wikidata,,Q6695516,way
 Zaolziańska,wikidata,,Q1811448,way
+Zapustna,wikidata,,Q4618,way
 Zapłocie,wikidata,,Q148571,way
 "Zbyszka z Bogdańca",wikidata,,Q9388806,way
 Zbąszyńska,wikidata,,Q168905,way
@@ -895,6 +898,7 @@ Akustyczna,,,,way
 Akwarelowa,,,,way
 Albatrosów,,,,way
 "Albertyny Werner z domu Norblin",,,,way
+"Aleaj Wiśniowa",,,,way
 "Aleja ""Psotki i Śmieszki""",,,,way
 "Aleja 1",,,,way
 "Aleja 10",,,,way
@@ -1001,6 +1005,7 @@ Albatrosów,,,,way
 "Aleja 99",,,,way
 "Aleja Andrzeja Panufnika",,,,way
 "Aleja Antoniego Nowakowskiego",,,,way
+"Aleja Bemówny",,,,way
 "Aleja Biedronek",,,,way
 "Aleja Bluszczu",,,,way
 "Aleja Bohaterów Września",,,,way
@@ -1032,6 +1037,7 @@ Albatrosów,,,,way
 "Aleja Kobiet",,,,way
 "Aleja Komandosów",,,,way
 "Aleja Krokusa",,,,way
+"Aleja Kubusia",,,,way
 "Aleja Kubusia Puchatka",,,,way
 "Aleja Kwiatowa",,,,way
 "Aleja Legionów Piłsudskiego",,,,way
@@ -1045,6 +1051,7 @@ Albatrosów,,,,way
 "Aleja Marii Jaremy",,,,way
 "Aleja Michała Kuleszy",,,,way
 "Aleja Migdałowa",,,,way
+"Aleja Miodowa",,,,way
 "Aleja Morelowa",,,,way
 "Aleja Młodzieży",,,,way
 "Aleja Na Skarpie",,,,way
@@ -1336,8 +1343,8 @@ Brazylijska,,,,way
 Brochowska,,,,way
 Brodnicka,,,,way
 Brodzik,,,,way
-"Bronisława ""Lota"" Pietraszewicza",,,,way
 "Bronisława Gembarzewskiego",,,,way
+"Bronisława Pietraszewicza ""Lota""",,,,way
 Broniwoja,,,,way
 Bronowska,,,,way
 "Brunona Kicińskiego",,,,way
@@ -1613,7 +1620,6 @@ Dziatwy,,,,way
 Działkowa,,,,way
 Działowa,,,,way
 Działyńczyków,,,,way
-"Dzieci Warszawy",,,,way
 Dziecięca,,,,way
 "Dziedziniec Laboratorium",,,,way
 Dziekania,,,,way
@@ -1709,6 +1715,7 @@ Filona,,,,way
 Finałowa,,,,way
 Fioletowa,,,,way
 Fiołków,,,,way
+Fiołkowa,,,,way
 Firletki,,,,way
 Fizyków,,,,way
 Fizylierów,,,,way
@@ -2194,6 +2201,7 @@ Kawki,,,,way
 Kawkowizna,,,,way
 Kawęczyńska,,,,way
 Kazachska,,,,way
+"Kazimierza Brandysa",,,,way
 "Kazimierza Dąbrowskiego",,,,way
 "Kazimierza Sotta ""Sokoła""",,,,way
 "Kazimierza Szałasa",,,,way
@@ -2204,7 +2212,6 @@ Kazuńska,,,,way
 Kałuszyńska,,,,way
 "Kaśki Kariatydy",,,,way
 Ketlinga,,,,way
-Kibiców,,,,way
 Kiermaszowa,,,,way
 Kiełpińska,,,,way
 Kinetyczna,,,,way
@@ -2462,7 +2469,6 @@ Kępna,,,,way
 "Kładka Żerańska",,,,way
 Kłobucka,,,,way
 Kłopot,,,,way
-Kłosowa,,,,way
 Lajkonika,,,,way
 Lakowa,,,,way
 Lalki,,,,way
@@ -2806,7 +2812,6 @@ Mścisławska,,,,way
 "Na Bateryjce",,,,way
 "Na Grobli",,,,way
 "Na Krańcu",,,,way
-"Na Nowinach",,,,way
 "Na Przełaj",,,,way
 "Na Przyzbie",,,,way
 "Na Skraju",,,,way
@@ -3157,7 +3162,6 @@ Pistacjowa,,,,way
 Piwoniowa,,,,way
 Piątkowska,,,,way
 "Pięciu Stawów",,,,way
-Piękna,,,,way
 Piłkarska,,,,way
 Pińczowska,,,,way
 Pińska,,,,way
@@ -3487,7 +3491,6 @@ Rajmunda,,,,way
 Rajska,,,,way
 "Rajskich Ptaków",,,,way
 Rajszewska,,,,way
-Rakietników,,,,way
 Rakowiecka,,,,way
 Ramowa,,,,way
 Raniuszka,,,,way
@@ -3574,7 +3577,6 @@ Romańska,,,,way
 "Rondo Stanisława Lema",,,,way
 "Rondo Starej Cegielni",,,,way
 "Rondo Wallów",,,,way
-"Rondo Wiatraczna",,,,way
 "Rondo Wolnej Białorusi",,,,way
 "Rondo Wąskotorówki",,,,way
 "Rondo Zegarmistrza Gałeckiego",,,,way
@@ -3777,6 +3779,7 @@ Skuterowa,,,,way
 "Skwer Georges’a Clemenceau",,,,way
 "Skwer Igora Newerlego",,,,way
 "Skwer Integracji",,,,way
+"Skwer Jacka Decowskiego",,,,way
 "Skwer Jacka Kaczmarskiego",,,,way
 "Skwer Janusza Grabiańskiego",,,,way
 "Skwer Jerzego Kastrioty Skanderbega",,,,way
@@ -3851,7 +3854,6 @@ Solistów,,,,way
 Solurska,,,,way
 Sonaty,,,,way
 Soplicka,,,,way
-Sopocka,,,,way
 Sortowa,,,,way
 Sosnowiecka,,,,way
 Sosnówki,,,,way
@@ -4317,6 +4319,7 @@ Wodyńska,,,,way
 Wodzirejów,,,,way
 Wodzisławska,,,,way
 Wójcicka,,,,way
+"Wojciecha Żywnego",,,,way
 Wojdyńska,,,,way
 Wojnicka,,,,way
 Wojskowa,,,,way
@@ -4461,7 +4464,6 @@ Zapałczana,,,,way
 Zapiecek,,,,way
 Zapole,,,,way
 Zapomniana,,,,way
-Zapustna,,,,way
 Zapłotek,,,,way
 Zaranie,,,,way
 Zarośla,,,,way
@@ -4479,6 +4481,7 @@ Zatrzebie,,,,way
 Zatylna,,,,way
 Zaułek,,,,way
 "Zaułek Braci Pakulskich",,,,way
+"Zaułek Marii i Aleksandra Żabczyńskich",,,,way
 Zawierciańska,,,,way
 Zawilców,,,,way
 Zawiszaków,,,,way
@@ -4564,6 +4567,7 @@ Złotopolska,,,,way
 "Złotych Piasków",,,,way
 "droga pożarowa 49",,,,way
 "droga pożarowa 51",,,,way
+"generała Leopolda Okulickiego",,,,way
 "plac Ostrej Bramy",,,,relation
 "plac Ratuszowy",,,,relation
 "plac Trynopolski",,,,relation
