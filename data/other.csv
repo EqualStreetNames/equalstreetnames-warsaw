@@ -743,6 +743,7 @@ Wernyhory,wikidata,,Q35007,way
 Wersalska,wikidata,,Q621,way
 Wełniana,wikidata,,Q42329,way
 Wiartel,wikidata,,Q9372444,way
+Widawska,wikidata,,Q1639422,way
 Widoczna,wikidata,,Q2075301,way
 Wiedeńska,wikidata,,Q1741,way
 Wielicka,wikidata,,Q472621,way
@@ -1059,6 +1060,7 @@ Albatrosów,,,,way
 "Aleja Obrońców Warszawy",,,,way
 "Aleja Ofiar Rosyjskiej Agresji",,,,way
 "Aleja Okrężna",,,,way
+"Aleja Olgi Krzyżanowskiej",,,,way
 "Aleja Orzechowa",,,,way
 "Aleja Paproci",,,,way
 "Aleja Peonii",,,,way
@@ -1364,7 +1366,6 @@ Brzostowska,,,,way
 Brązownicza,,,,way
 Buchalteryjna,,,,way
 Budnicza,,,,way
-"Budowa ronda",,,,way
 Budowlana,,,,way
 Budrysów,,,,way
 Budy,,,,way
@@ -1416,7 +1417,6 @@ Celownicza,,,,way
 Celulozy,,,,way
 Cementowa,,,,way
 Centralna,,,,way
-"Centrum Nauki Kopernik",,,,way
 Centurii,,,,way
 "Cesarskiej Korony",,,,way
 Chabrowa,,,,way
@@ -2038,6 +2038,7 @@ Jamki,,,,way
 "Jana Nagórskiego",,,,way
 "Jana Piekałkiewicza",,,,way
 "Jana Szczepanika",,,,way
+"Jana Vermeera",,,,way
 "Jana Wasilkowskiego",,,,way
 "Jana Zaorskiego",,,,way
 Janczarów,,,,way
@@ -2399,7 +2400,6 @@ Krzywa,,,,way
 Krzywińska,,,,way
 Krzywopoboczna,,,,way
 Krzyżówki,,,,way
-"Ks. Sitnika 01",,,,relation
 "Ksawerego Bronikowskiego",,,,way
 Książkowa,,,,way
 "Książąt Mazowieckich",,,,way
@@ -2709,7 +2709,6 @@ Mielnicka,,,,way
 Mieszczańska,,,,way
 "Mieszka I",,,,way
 Migdałowa,,,,way
-"Mikołaja Drygały",,,,way
 "Mikołaja Sępa-Szarzyńskiego",,,,way
 "Mikołaja z Długolasu",,,,way
 Milanowska,,,,way
@@ -3179,6 +3178,7 @@ Pińska,,,,way
 "Plac Ferenca Keresztesa-Fischera",,,,way
 "Plac Grunwaldzki",,,,way
 "Plac Grzybowski",,,,way
+"Plac Gwardii",,,,way
 "Plac Inwalidów",,,,way
 "Plac Ireneusza Gugulskiego",,,,way
 "Plac Jaśminowy Zakątek",,,,way
@@ -3330,7 +3330,6 @@ Powązkowska,,,,way
 Pozytywki,,,,way
 Połaniecka,,,,way
 Połczyńska,,,,way
-"Połczyńska-Parking P+R 02",,,,relation
 Półksiężyca,,,,way
 Północna,,,,way
 Połoniny,,,,way
@@ -3554,6 +3553,7 @@ Romańska,,,,way
 "Rondo Budowniczych Ursynowa",,,,way
 "Rondo Hutników Warszawskich",,,,way
 "Rondo Jana Cierlińskiego",,,,way
+"Rondo Jana Kazimierczaka",,,,way
 "Rondo Jana Webera",,,,way
 "Rondo Janusza A. Zajdla",,,,way
 "Rondo Jazdy Polskiej",,,,way
@@ -3574,6 +3574,7 @@ Romańska,,,,way
 "Rondo Polskich Kryptologów Enigmy",,,,way
 "Rondo Rozalii",,,,way
 "Rondo Ruda",,,,way
+"Rondo Stanisława Królaka",,,,way
 "Rondo Stanisława Lema",,,,way
 "Rondo Starej Cegielni",,,,way
 "Rondo Wallów",,,,way
@@ -3673,7 +3674,6 @@ Rękopis,,,,way
 "S17 - Wschodnia Obwodnica Warszawy (proj.)",,,,way
 "S17 - Wschodnia Obwodnica Warszawy (proj.) wariant 2",,,,way
 "S17 - Wschodnia Obwodnica Warszawy (proj.) wariant 3",,,,way
-"S17 Wschodnia Obwodnica Warszawy",,,,way
 "S7 (planowana)",,,,way
 Sabały,,,,way
 Sadkowska,,,,way
@@ -3796,6 +3796,7 @@ Skuterowa,,,,way
 "Skwer Mirosława Iringha",,,,way
 "Skwer Miry Zimińskiej",,,,way
 "Skwer Nauczycieli Tajnego Nauczania",,,,way
+"Skwer Nelsona Mandeli",,,,way
 "Skwer Oleandrów",,,,way
 "Skwer Pamięci",,,,way
 "Skwer Pokolenia Kolumbów",,,,way
@@ -4192,6 +4193,7 @@ Urocza,,,,way
 Uroczysko,,,,way
 Ursynowska,,,,way
 Urszuli,,,,way
+Urwana,,,,way
 Urwisko,,,,way
 Urzędnicza,,,,way
 Ustronie,,,,way
@@ -4259,7 +4261,6 @@ Weterynaryjna,,,,way
 Wiarusów,,,,way
 Wiatraczna,,,,way
 Wichrowa,,,,way
-Widawska,,,,way
 Widna,,,,way
 Widok,,,,way
 Widokowa,,,,way
@@ -4511,6 +4512,7 @@ Zdrojowa,,,,way
 Zdrowa,,,,way
 Zdrowotna,,,,way
 Zdziarska,,,,way
+"Zdzisława Beksińskiego",,,,way
 "Zdzisława Mączeńskiego",,,,way
 Zecerska,,,,way
 Zegarowa,,,,way
@@ -4568,11 +4570,13 @@ Złotopolska,,,,way
 "droga pożarowa 49",,,,way
 "droga pożarowa 51",,,,way
 "generała Leopolda Okulickiego",,,,way
+korcynska,,,,way
 "plac Ostrej Bramy",,,,relation
 "plac Ratuszowy",,,,relation
 "plac Trynopolski",,,,relation
 "planowane rondo",,,,way
 "stanowisko postojowe ""zapasowe""",,,,way
+"ulica lercha",,,,way
 Ćmielowska,,,,way
 Łabiszyńska,,,,way
 Łabędzia,,,,way
