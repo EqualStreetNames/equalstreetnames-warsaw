@@ -143,6 +143,7 @@ Ciechanowska,wikidata,,Q745051,way
 Ciepła,wikidata,,Q44432,way
 Cieszyńska,wikidata,,Q321197,way
 Cietrzewia,wikidata,,Q155878,way
+Ciupagi,wikidata,,Q1002605,way
 Cukrownicza,wikidata,,Q227870,way
 Cybernetyki,wikidata,,Q123637,way
 Cynamonowa,wikidata,,Q28165,way
@@ -192,6 +193,7 @@ Dyniowa,wikidata,,Q165308,way
 "Dywizjonu 303",wikidata,,Q1269413,way
 Działdowska,wikidata,,Q983720,way
 Dziupli,wikidata,,Q2392414,way
+Dzwoneczka,wikidata,,Q853847,way
 Długa,wikidata,,Q36253,way
 Długomiła,wikidata,,Q11695887,way
 Dźwigowa,wikidata,,Q9249606,way
@@ -293,6 +295,7 @@ Jodłowa,wikidata,,Q25350,way
 "Juranda ze Spychowa",wikidata,,Q11729480,way
 Kaczeńca,wikidata,,Q147192,way
 Kalendarzowa,wikidata,,Q12132,way
+Kalenicka,wikidata,,Q11733729,way
 "Kalinowej Łąki",wikidata,,Q9308638,way
 Kaliska,wikidata,,Q52842,way
 Kamienna,wikidata,,Q22731,way
@@ -497,6 +500,7 @@ Piaskowa,wikidata,,Q11816309;Q34679,way
 "Piechoty Łanowej",wikidata,,Q11816467,way
 "Pieskowa Skała",wikidata,,Q1780430,way
 Pigwy,wikidata,,Q2751465,way
+Piknikowa,wikidata,,Q506294,way
 Piotrkowska,wikidata,,Q158004,way
 "Piotrusia Pana",wikidata,,Q107190,way
 Pisankowa,wikidata,,Q163886,way
@@ -556,6 +560,7 @@ Płocka,wikidata,,Q104725,way
 Płużańska,wikidata,,Q828430;Q2672482,way
 "Quo Vadis",wikidata,,Q335315,way
 Raciborska,wikidata,,Q25302,way
+Racławicka,wikidata,,Q1962211,way
 Radarowa,wikidata,,Q54053;Q47528,way
 Radiowa,wikidata,,Q9361117;Q3537732,way
 Radomska,wikidata,,Q104740,way
@@ -734,6 +739,7 @@ Wadowicka,wikidata,,Q212856,way
 Waflowa,wikidata,,Q1226651,way
 Wagonowa,wikidata,,Q208502,way
 Warecka,wikidata,,Q276857,way
+Warmińska,wikidata,,Q322620,way
 Warsa,wikidata,,Q9371085,way
 Warszawska,wikidata,,Q270,way
 Wawelska,wikidata,,Q18820;Q743704,way
@@ -807,7 +813,7 @@ Zerzeńska,wikidata,,Q9390198,way
 "Zielonej Gęsi",wikidata,,Q9356240,way
 Zimna,wikidata,,Q270952,way
 Zięby,wikidata,,Q25383,way
-"Związku Walki Młodych",wikidata,,Q3661380,way
+"Związku Walki Młodych",wikidata,,Q3661380;Q4759697,way
 Złocienia,wikidata,,Q59882,way
 Złota,wikidata,,Q897,way
 "Złotego Smoka",wikidata,,Q847544,way
@@ -1463,7 +1469,6 @@ Cieślewskich,,,,way
 Cisowa,,,,way
 Ciszewska,,,,way
 "Ciszewskiego Bis",,,,way
-Ciupagi,,,,way
 Ciżemki,,,,way
 Cmentarna,,,,way
 Codzienna,,,,way
@@ -1644,7 +1649,6 @@ Dziwna,,,,way
 Dzięcieliny,,,,way
 Dzięcioła,,,,way
 Dzięgielowa,,,,way
-Dzwoneczka,,,,way
 Dzwonkowa,,,,way
 Dzwonnicza,,,,way
 Dąbrowa,,,,way
@@ -2134,7 +2138,6 @@ Kakaowa,,,,way
 Kaktusowa,,,,way
 Kalambur,,,,way
 Kalatówki,,,,way
-Kalenicka,,,,way
 Kaletnicza,,,,way
 Kaleńska,,,,way
 Kalinowa,,,,way
@@ -2466,6 +2469,7 @@ Kędzierzyńska,,,,way
 "Kępa Tarchomińska",,,,way
 Kępna,,,,way
 "Kładka (w budowie)",,,,way
+"Kładka pieszo-rowerowa",,,,way
 "Kładka Żerańska",,,,way
 Kłobucka,,,,way
 Kłopot,,,,way
@@ -2634,6 +2638,7 @@ Margerytki,,,,way
 Mariańska,,,,way
 Mariensztat,,,,way
 "Marii Bohuszewiczówny",,,,way
+"Marii Callas",,,,way
 "Marii Cetysówny",,,,way
 "Marii Eleonory",,,,way
 Markietanki,,,,way
@@ -2763,7 +2768,6 @@ Mosiężna,,,,way
 "Most Rzymski",,,,way
 "Most Siekierkowski",,,,way
 "Most na Zaporze",,,,way
-"Most pieszo-rowerowy (w budowie)",,,,way
 "Most Świętokrzyski",,,,way
 "Mostek Bohuszewiczówny",,,,way
 "Mostek Gibraltarska",,,,way
@@ -3142,7 +3146,6 @@ Pielęgniarek,,,,way
 Pierwiosnków,,,,way
 Piesza,,,,way
 "Pieta Mondriana",,,,way
-Piknikowa,,,,way
 Pilarzy,,,,way
 Pilawska,,,,way
 Pilchowicka,,,,way
@@ -3178,7 +3181,7 @@ Pińska,,,,way
 "Plac Ferenca Keresztesa-Fischera",,,,way
 "Plac Grunwaldzki",,,,way
 "Plac Grzybowski",,,,way
-"Plac Gwardii",,,,way
+"Plac Gwardii",,,,relation+way
 "Plac Inwalidów",,,,way
 "Plac Ireneusza Gugulskiego",,,,way
 "Plac Jaśminowy Zakątek",,,,way
@@ -3406,7 +3409,6 @@ Przodowników,,,,way
 "Przy Trasie",,,,way
 "Przy Wodzie",,,,way
 "Przy Żółtej Karczmie",,,,way
-"Przyczółek Grochowski 04",,,,way
 Przyczółkowa,,,,way
 Przydrożna,,,,way
 Przygodna,,,,way
@@ -3447,6 +3449,7 @@ Pyszniańska,,,,way
 Pęcherska,,,,way
 Pęcicka,,,,way
 "Pętla Osiedle Górczewska",,,,way
+"Pętla Stegny",,,,way
 Płaska,,,,way
 "Płatków Róż",,,,way
 Płatnerska,,,,way
@@ -3468,7 +3471,6 @@ Rabatowa,,,,way
 Rabczańska,,,,way
 "Rabindranatha Tagore",,,,way
 Racjonalizacji,,,,way
-Racławicka,,,,way
 Radecka,,,,way
 Radna,,,,way
 Radosna,,,,way
@@ -3548,6 +3550,7 @@ Romańska,,,,way
 "Rondo Aleksandra Kulikowskiego",,,,way
 "Rondo Aleksandra Żabczyńskiego",,,,way
 "Rondo Beczka",,,,way
+"Rondo Benny Hilla",,,,way
 "Rondo Braci Skurów",,,,way
 "Rondo Bratanków",,,,way
 "Rondo Budowniczych Ursynowa",,,,way
@@ -3800,6 +3803,7 @@ Skuterowa,,,,way
 "Skwer Oleandrów",,,,way
 "Skwer Pamięci",,,,way
 "Skwer Pokolenia Kolumbów",,,,way
+"Skwer Polskich Olimpijczyków",,,,way
 "Skwer Radiowej Rodziny Matysiaków",,,,way
 "Skwer Reduty Kaliskiej",,,,way
 "Skwer Rodziny Kuczerów",,,,way
@@ -4146,7 +4150,6 @@ Truskawiecka,,,,way
 Truskawkowa,,,,way
 Truskolaska,,,,way
 Trylogii,,,,way
-Trzcinowa,,,,way
 Trzos,,,,way
 Trzykrotki,,,,way
 Trębacka,,,,way
@@ -4227,7 +4230,6 @@ Wandy,,,,way
 Waniliowa,,,,way
 Wantule,,,,way
 Wapienna,,,,way
-Warmińska,,,,way
 Warneńska,,,,way
 Warowna,,,,way
 "Warszawski Świt",,,,way
@@ -4570,11 +4572,11 @@ Złotopolska,,,,way
 "droga pożarowa 49",,,,way
 "droga pożarowa 51",,,,way
 "generała Leopolda Okulickiego",,,,way
-korcynska,,,,way
 "plac Ostrej Bramy",,,,relation
 "plac Ratuszowy",,,,relation
 "plac Trynopolski",,,,relation
 "planowane rondo",,,,way
+"planowany łącznik",,,,way
 "stanowisko postojowe ""zapasowe""",,,,way
 "ulica lercha",,,,way
 Ćmielowska,,,,way
