@@ -26,6 +26,7 @@ Alabastrowa,wikidata,,Q143447,way
 "Aleja Niepodległości",wikidata,,Q37055,way
 "Aleja Obrońców Grodna",wikidata,,Q2630512,way
 "Aleja Polskiej Organizacji Wojskowej",wikidata,,Q1961333,way
+"Aleja Prymasa Tysiąclecia",wikidata,,Q165522;Q42976,way
 "Aleja Radiowej Trójki",wikidata,,Q633009,way
 "Aleja Rzeczypospolitej",wikidata,,Q5153902,way
 "Aleja Stanów Zjednoczonych",wikidata,,Q30,way
@@ -191,6 +192,7 @@ Dostatnia,wikidata,,Q107302068,way
 Dowcip,wikidata,,Q131138,way
 Dożynkowa,wikidata,,Q608835;Q51647,way
 Dragonów,wikidata,,Q194199,way
+Drezdeńska,wikidata,,Q1731,way
 "Droga Belwederska",wikidata,,Q645474,way
 Drogomilska,wikidata,,Q5308201;Q189117,way
 Drohicka,wikidata,,Q769631,way
@@ -278,6 +280,7 @@ Historyczna,wikidata,,Q309,way
 Holenderska,wikidata,,Q55,way
 Hoserów,wikidata,,Q9293982,way
 Hrubieszowska,wikidata,,Q924103,way
+Hubalczyków,wikidata,,Q11796001,way
 Husarii,wikidata,,Q1155518,way
 Husarska,wikidata,,Q1155518,way
 "II Armii Wojska Polskiego",wikidata,,Q4029870,way
@@ -455,6 +458,7 @@ Nefrytowa,wikidata,,Q138979,way
 Newelska,wikidata,,Q165773,way
 Niedzielna,wikidata,,Q132,way
 Niedźwiedzia,wikidata,,Q243359,way
+Niegocińska,wikidata,,Q1988938,way
 Niewinna,wikidata,,Q359385,way
 Nike,wikidata,,Q2545325;Q165023,way
 Nizinna,wikidata,,Q193071,way
@@ -527,7 +531,7 @@ Pisankowa,wikidata,,Q163886,way
 Piwna,wikidata,,Q44,way
 Pięciolinii,wikidata,,Q192193,way
 "Plac Europejski",wikidata,,Q46,way
-"Plac Konstytucji",wikidata,,Q7755,way
+"Plac Konstytucji",wikidata,,Q668817,way
 "Plac Mirowski",wikidata,,Q11782027,way
 "Plac Politechniki",wikidata,,Q1718656,way
 "Plac Unii Lubelskiej",wikidata,,Q963303;Q87053076,way
@@ -588,6 +592,7 @@ Raciborska,wikidata,,Q25302,way
 Racławicka,wikidata,,Q1962211,way
 Radarowa,wikidata,,Q54053;Q47528,way
 Radiowa,wikidata,,Q9361117;Q3537732,way
+Radna,wikidata,,Q708492,way
 Radomska,wikidata,,Q104740,way
 Radomszczańska,wikidata,,Q158796,way
 Radzymińska,wikidata,,Q609246,way
@@ -1364,7 +1369,6 @@ Bociania,,,,way
 Boczańska,,,,way
 Boczna,,,,way
 Boczniaków,,,,way
-Bodzanty,,,,way
 Bogatyńska,,,,way
 Boglarczyków,,,,way
 Bogoriów,,,,way
@@ -1457,6 +1461,7 @@ Buska,,,,way
 Busolowa,,,,way
 Buszycka,,,,way
 Buławy,,,,way
+Bułgarska,,,,way
 Buńczuk,,,,way
 Bychowska,,,,way
 Byczyńska,,,,way
@@ -1924,6 +1929,7 @@ Granowska,,,,way
 Gratyny,,,,way
 Grawerska,,,,way
 Grażyny,,,,way
+Grecka,,,,way
 Grenadierów,,,,way
 Grobelska,,,,way
 Grocholicka,,,,way
@@ -2021,7 +2027,6 @@ Horodelska,,,,way
 Hortensji,,,,way
 Hołubcowa,,,,way
 Hoża,,,,way
-Hubalczyków,,,,way
 Hucisko,,,,way
 Huculska,,,,way
 Huczna,,,,way
@@ -2350,6 +2355,7 @@ Koprowa,,,,way
 Koprzywiańska,,,,way
 Korczyńska,,,,way
 Kordiana,,,,way
+Koreańska,,,,way
 Korkowa,,,,way
 Kormoranów,,,,way
 Kórnicka,,,,way
@@ -2897,7 +2903,6 @@ Niecała,,,,way
 Niecodzienna,,,,way
 Niedotrzymska,,,,way
 Nieduża,,,,way
-Niegocińska,,,,way
 Niekłańska,,,,way
 Niemeńska,,,,way
 Niemirowska,,,,way
@@ -3469,6 +3474,7 @@ Puszkarzy,,,,way
 Puzonistów,,,,way
 Pułkowa,,,,way
 "Pułkownika Zoltána Baló",,,,way
+"Pułku AK ""Broda""",,,,way
 "Pułku AK ""Waligóra""",,,,way
 Pułtuska,,,,way
 Pyrska,,,,way
@@ -3496,7 +3502,6 @@ Rabatowa,,,,way
 Rabczańska,,,,way
 Racjonalizacji,,,,way
 Radecka,,,,way
-Radna,,,,way
 Radosna,,,,way
 Radoszycka,,,,way
 Raduńska,,,,way
@@ -4343,6 +4348,7 @@ Wójcicka,,,,way
 "Wojciecha Żywnego",,,,way
 Wojdyńska,,,,way
 Wojnicka,,,,way
+"Wojska Polskiego",,,,way
 Wojskowa,,,,way
 "Wojskowej Służby Kobiet",,,,way
 Wojsławicka,,,,way
@@ -4414,6 +4420,7 @@ Węgrowska,,,,way
 "Władysława Hermana",,,,way
 "Władysława Lercha",,,,way
 "Władysława Szeflera ""Włada""",,,,way
+"Władysława Szpilmana",,,,way
 "Władysława Tatarkiewicza",,,,way
 "Władysława Witwickiego",,,,way
 "Władysława Żeleńskiego",,,,way
