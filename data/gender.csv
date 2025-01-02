@@ -1,7 +1,7 @@
 name,source,gender,wikidata,type
 "Jana Szałka",wikidata,+,Q29246328;Q119512206,way
 Stryjeńskich,wikidata,+,Q9146036;Q218326;Q3193544;Q3513721,way
-Sąsiedzka,wikidata,+,Q6699453;Q1986893,way
+"Zaułek Marii i Aleksandra Żabczyńskich",wikidata,+,Q7944611;Q4715009,way
 "Aleja Aliny Szapocznikow",wikidata,F,Q466550,way
 "Aleja Aliny Ślesińskiej",wikidata,F,Q9148385,way
 "Aleja Barbary Zbrożyny",wikidata,F,Q4859426,way
@@ -51,6 +51,7 @@ Deotymy,wikidata,F,Q274324,way
 "Księżnej Anny",wikidata,F,Q4066550,way
 "Lucyny Messal",wikidata,F,Q8863410,way
 "Ludwiki Wawrzyńskiej",wikidata,F,Q6699471,way
+"Marii Callas",wikidata,F,Q128297,way
 "Marii Dąbrowskiej",wikidata,F,Q242423,way
 "Marii Grzegorzewskiej",wikidata,F,Q1165134,way
 "Marii Kazimiery",wikidata,F,Q240113,way
@@ -62,7 +63,7 @@ Deotymy,wikidata,F,Q274324,way
 "Matki Teresy z Kalkuty",wikidata,F,Q30547,way
 "Mieczysławy Ćwiklińskiej",wikidata,F,Q2115737,way
 "Most Anny Jagiellonki",wikidata,F,Q233989,way
-"Most Północny im. Marii Skłodowskiej-Curie",wikidata,F,Q7186,way
+"Most Północny Marii Skłodowskiej-Curie",wikidata,F,Q7186,way
 "Natalii Gąsiorowskiej",wikidata,F,Q7941820,way
 "Olgi Boznańskiej",wikidata,F,Q466639,way
 "Pasaż Anny Świrszczyńskiej",wikidata,F,Q2659850,way
@@ -109,6 +110,7 @@ Deotymy,wikidata,F,Q274324,way
 "Adolfa Dymszy",wikidata,M,Q2337623,way
 "Adolfa Pawińskiego",wikidata,M,Q8864158,way
 "Adolfa Suligowskiego",wikidata,M,Q8865270,way
+Agrykola,wikidata,M,Q11736167,way
 "Alberta Einsteina",wikidata,M,Q937,way
 "Albina Jakiela",wikidata,M,Q9144479,way
 "Aleja Andrzeja Bobkowskiego",wikidata,M,Q2846987,way
@@ -279,6 +281,7 @@ Dynasy,wikidata,M,Q64055,way
 "Emila Zoli",wikidata,M,Q504,way
 "Emiliana Konopczyńskiego",wikidata,M,Q17648352,way
 "Erazma Ciołka",wikidata,M,Q2813867,way
+"Erazma z Zakroczymia",wikidata,M,Q9254457,way
 "Erika Dahlbergha",wikidata,M,Q434533,way
 "Ernesta Malinowskiego",wikidata,M,Q3846859,way
 "Eugeniusza Bodo",wikidata,M,Q117444,way
@@ -288,6 +291,7 @@ Dynasy,wikidata,M,Q64055,way
 "Eustachego Tyszkiewicza",wikidata,M,Q2624092,way
 Ezopa,wikidata,M,Q43423,way
 "Faustyna Czerwijowskiego",wikidata,M,Q14917963,way
+"Feliksa Pancera",wikidata,M,Q9258712,way
 "Floriana Marciniaka",wikidata,M,Q820761,way
 "Francesca Nulla",wikidata,M,Q670522,way
 "Franciszka Adolfa Achera",wikidata,M,Q9262206,way
@@ -320,6 +324,7 @@ Galileusza,wikidata,M,Q307,way
 "Generała Ludomiła Rayskiego",wikidata,M,Q2024365,way
 "Generała Meriana Caldwella Coopera",wikidata,M,Q446427,way
 "Generała Michała Tokarzewskiego-Karaszewicza",wikidata,M,Q2983839,way
+"Generała Milana Štefánika",wikidata,M,Q319962,way
 "Generała Romana Abrahama",wikidata,M,Q3267650,way
 "Generała Stanisława Maczka",wikidata,M,Q512764,way
 "Generała Stanisława Rostworowskiego",wikidata,M,Q9342954,way
@@ -671,7 +676,6 @@ Piękna,wikidata,M,Q42323,way
 "Plac Piłsudskiego",wikidata,M,Q885,relation
 "Plac Sokratesa Starynkiewicza",wikidata,M,Q2069437,way
 "Plac Stanisława Małachowskiego",wikidata,M,Q961464,way
-"Plac Starynkiewicza",wikidata,M,Q2069437,way
 "Plac Thomasa Woodrowa Wilsona",wikidata,M,Q34296,way
 "Plac Wilsona",wikidata,M,Q34296,way
 "Plac Władysława Szczepaniaka",wikidata,M,Q1359330,way
@@ -706,10 +710,9 @@ Rejonowa,wikidata,M,Q266339,way
 "Rondo Bohdana Pniewskiego",wikidata,M,Q890756,way
 "Rondo Dżochara Dudajewa",wikidata,M,Q179846,way
 "Rondo Emanuela Bułhaka",wikidata,M,Q9253340,way
-"Rondo Emila Fieldorfa",wikidata,M,Q689612,way
 "Rondo Feliksa Stamma",wikidata,M,Q5441838,way
+"Rondo Generała Augusta Emila Fieldorfa „Nila”",wikidata,M,Q689612,way
 "Rondo Generała Charles'a de Gaulle'a",wikidata,M,Q2042,way
-"Rondo Grafen",wikidata,M,Q9359565;Q962432,way
 "Rondo Ignacego Daszyńskiego",wikidata,M,Q14430,way
 "Rondo Ignacego Mościckiego",wikidata,M,Q310594,way
 "Rondo Jana Himilsbacha",wikidata,M,Q1681846,way
@@ -728,7 +731,9 @@ Rejonowa,wikidata,M,Q266339,way
 "Rondo Księdza Wacława Karłowicza",wikidata,M,Q638337,way
 "Rondo Księdza Zdzisława Peszkowskiego",wikidata,M,Q2595420,way
 "Rondo Michała Scipio del Campo",wikidata,M,Q4447753,way
+"Rondo Ojca Bogusława Palecznego",wikidata,M,Q9175873,way
 "Rondo Pawła Jasienicy",wikidata,M,Q2500770,way
+"Rondo Pułkownika Bernarda Adameckiego",wikidata,M,Q7940902,way
 "Rondo Pułkownika Łukasza Cieplińskiego",wikidata,M,Q3849299,way
 "Rondo Roberta Schumana",wikidata,M,Q15981,way
 "Rondo Romana Dmowskiego",wikidata,M,Q161590,way
@@ -745,7 +750,6 @@ Rejonowa,wikidata,M,Q266339,way
 "Rondo Zdzisława Maklakiewicza",wikidata,M,Q169262,way
 "Rondo Zegarmistrza Gałeckiego",wikidata,M,Q106291251,way
 "Rondo kardynała Adama Sapiehy",wikidata,M,Q350963,way
-"Rondo ojca Bogusława Palecznego",wikidata,M,Q9175873,way
 "Rondo pułkownika Bernarda Adameckiego",wikidata,M,Q7940902,way
 "Rotmistrza Witolda Pileckiego",wikidata,M,Q315691;Q320116,way
 "Samuela Bogumiła Lindego",wikidata,M,Q1349910,way
