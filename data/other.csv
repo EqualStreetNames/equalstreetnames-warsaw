@@ -13,7 +13,6 @@ Akacjowa,wikidata,,Q81666,way
 Akademicka,wikidata,,Q162633,way
 Aksamitki,wikidata,,Q147552,way
 Alabastrowa,wikidata,,Q143447,way
-"Aleja ""Solidarności""",wikidata,,Q1003,way
 "Aleja 3 Maja",wikidata,,Q1129096,way
 "Aleja 4 Czerwca 1989 r.",wikidata,,Q2355470,way
 "Aleja Armii Krajowej",wikidata,,Q152529,way
@@ -29,6 +28,7 @@ Alabastrowa,wikidata,,Q143447,way
 "Aleja Prymasa Tysiąclecia",wikidata,,Q165522;Q42976,way
 "Aleja Radiowej Trójki",wikidata,,Q633009,way
 "Aleja Rzeczypospolitej",wikidata,,Q5153902,way
+"Aleja „Solidarności”",wikidata,,Q1003,way
 "Aleja Stanów Zjednoczonych",wikidata,,Q30,way
 "Aleja Szpitala Ujazdowskiego",wikidata,,Q30904078,way
 "Aleja Słowiańska",wikidata,,Q40477,way
@@ -36,15 +36,15 @@ Alabastrowa,wikidata,,Q143447,way
 "Aleja Wielkopolski",wikidata,,Q211371,relation
 "Aleja Wilanowska",wikidata,,Q1634585;Q1887504,way
 "Aleja Wojska Polskiego",wikidata,,Q9377431,way
-"Aleja Zgrupowania AK ""Kryska""",wikidata,,Q9390802,way
+"Aleja Zgrupowania AK „Kryska”",wikidata,,Q9390802,way
 "Aleja Zjednoczenia",wikidata,,Q9391399,way
 "Aleje Jerozolimskie",wikidata,,Q1218;Q7066014,way
 "Aleje Ujazdowskie",wikidata,,Q9364515,way
-"Alejka ""Bajki Iskierki""",wikidata,,Q9164328,way
-"Alejka ""Ele - Mele""",wikidata,,Q2518996,way
-"Alejka ""Kozucha Kłamczucha""",wikidata,,Q24949186,way
-"Alejka ""Płomyczek""",wikidata,,Q7265113,way
-"Alejka ""Szewczyk Dratewka""",wikidata,,Q11836597,way
+"Alejka „Bajki Iskierki”",wikidata,,Q9164328,way
+"Alejka „Ele - Mele”",wikidata,,Q2518996,way
+"Alejka „Kozucha Kłamczucha”",wikidata,,Q24949186,way
+"Alejka „Płomyczek”",wikidata,,Q7265113,way
+"Alejka „Szewczyk Dratewka”",wikidata,,Q11836597,way
 Alzacka,wikidata,,Q1142,way
 Ametystowa,wikidata,,Q79058,way
 Amfory,wikidata,,Q178401,way
@@ -77,10 +77,10 @@ Barokowa,wikidata,,Q37853,way
 Barska,wikidata,,Q737925,way
 Bartoszycka,wikidata,,Q809585,way
 "Batalionów Chłopskich",wikidata,,Q473844,way
-"Batalionu ""Miotła""",wikidata,,Q9166997,way
-"Batalionu AK ""Parasol""",wikidata,,Q3503873,way
-"Batalionu AK ""Pięść""",wikidata,,Q9167153,way
-"Batalionu AK ""Zośka""",wikidata,,Q646249,way
+"Batalionu AK „Parasol”",wikidata,,Q3503873,way
+"Batalionu AK „Pięść”",wikidata,,Q9167153,way
+"Batalionu AK „Zośka”",wikidata,,Q646249,way
+"Batalionu „Miotła”",wikidata,,Q9166997,way
 "Batalionu Platerówek",wikidata,,Q4028003,way
 Batuty,wikidata,,Q860256,way
 Bazaltowa,wikidata,,Q43338,way
@@ -352,6 +352,7 @@ Komputerowa,wikidata,,Q68,way
 Koncertowa,wikidata,,Q182832,way
 Konewki,wikidata,,Q50643,way
 Konotopska,wikidata,,Q576625,way
+Konstancińska,wikidata,,Q985687,way
 Koralowa,wikidata,,Q171446,way
 Kosmosu,wikidata,,Q1;Q619,way
 Kosynierów,wikidata,,Q4234899,way
@@ -523,7 +524,6 @@ Pianistów,wikidata,,Q486748;Q1268,way
 Piaskowa,wikidata,,Q11816309;Q34679,way
 "Piasta Kołodzieja",wikidata,,Q353255,way
 "Piastów Śląskich",wikidata,,Q1929625,way
-"Piastów Śląskich (w budowie)",wikidata,,Q1929625,way
 "Piechoty Wybranieckiej",wikidata,,Q276763,way
 "Piechoty Łanowej",wikidata,,Q11816467,way
 "Pieskowa Skała",wikidata,,Q1780430,way
@@ -586,7 +586,7 @@ Ptysiowa,wikidata,,Q2513811,way
 Pustułeczki,wikidata,,Q229408,way
 "Puszczy Solskiej",wikidata,,Q3411025,way
 Puławska,wikidata,,Q320007,way
-"Pułku AK ""Baszta""",wikidata,,Q9390809,way
+"Pułku AK „Baszta”",wikidata,,Q9390809,way
 Płatowcowa,wikidata,,Q222946,way
 Płocka,wikidata,,Q104725,way
 Płużańska,wikidata,,Q828430;Q2672482,way
@@ -611,7 +611,6 @@ Rogalińska,wikidata,,Q2161540,way
 Rokokowa,wikidata,,Q122960,way
 Rolna,wikidata,,Q9312021,way
 "Romea i Julii",wikidata,,Q673361;Q1092632,way
-"Rondo ""Miś""",wikidata,,Q54979,way
 "Rondo Akademii Wychowania Fizycznego",wikidata,,Q413829,way
 "Rondo Biskupów Płockich",wikidata,,Q1837334,way
 "Rondo Czterdziestolatka",wikidata,,Q5202185,way
@@ -621,6 +620,7 @@ Rolna,wikidata,,Q9312021,way
 "Rondo Liczby π",wikidata,,Q167,way
 "Rondo Ligi Morskiej i Rzecznej",wikidata,,Q6765863,way
 "Rondo Macierowe Bagno",wikidata,,Q28673335,way
+"Rondo „Miś”",wikidata,,Q54979,way
 "Rondo ONZ",wikidata,,Q1065,way
 "Rondo Ofiar Zbrodni Katyńskiej",wikidata,,Q134301,way
 "Rondo Polskich Kryptologów Enigmy",wikidata,,Q160411;Q700178;Q660251;Q2665859,way
@@ -633,7 +633,7 @@ Rolna,wikidata,,Q9312021,way
 "Rondo WOŚP",wikidata,,Q1309088,way
 "Rondo Wiatraczna",wikidata,,Q9366175,way
 "Rondo Zesłańców Syberyjskich",wikidata,,Q7659546,way
-"Rondo Zgrupowania AK ""Radosław""",wikidata,,Q7281641,way
+"Rondo Zgrupowania AK „Radosław”",wikidata,,Q7281641,way
 "Rondo im. prezesa Ochódzkiego",wikidata,,Q9324875,way
 Rotmistrzowska,wikidata,,Q640375,way
 Różana,wikidata,,Q34687,way
@@ -853,10 +853,10 @@ Zapłocie,wikidata,,Q148571,way
 Zbąszyńska,wikidata,,Q168905,way
 Zdobnicza,wikidata,,Q631931;Q14430,way
 Zerzeńska,wikidata,,Q9390198,way
-"Zgrupowania AK ""Kampinos""",wikidata,,Q9281262,way
-"Zgrupowania AK ""Żmija""",wikidata,,Q8083310,way
-"Zgrupowania AK ""Żubr""",wikidata,,Q11838435,way
-"Zgrupowania AK ""Żyrafa""",wikidata,,Q8083506,way
+"Zgrupowania AK „Kampinos”",wikidata,,Q9281262,way
+"Zgrupowania AK „Żmija”",wikidata,,Q8083310,way
+"Zgrupowania AK „Żubr”",wikidata,,Q11838435,way
+"Zgrupowania AK „Żyrafa”",wikidata,,Q8083506,way
 "Zielonej Gęsi",wikidata,,Q9356240,way
 Zielonogórska,wikidata,,Q525;Q104720,way
 Ziemska,wikidata,,Q2,way
@@ -957,7 +957,6 @@ Albatrosów,,,,way
 "Albertyny Werner z domu Norblin",,,,way
 "Aleaj Wiśniowa",,,,way
 "Aleaj Łubinów",,,,way
-"Aleja ""Psotki i Śmieszki""",,,,way
 "Aleja 1",,,,way
 "Aleja 10",,,,way
 "Aleja 100",,,,way
@@ -1102,7 +1101,7 @@ Albatrosów,,,,way
 "Aleja Fiołka",,,,way
 "Aleja Fiołków",,,,way
 "Aleja Floksów",,,,way
-"Aleja Godziny ""W""",,,,way
+"Aleja Godziny „W”",,,,way
 "Aleja Goździków",,,,way
 "Aleja Grusz",,,,way
 "Aleja Gruszkowa (174 - 187)",,,,way
@@ -1200,6 +1199,7 @@ Albatrosów,,,,way
 "Aleja Promienistych",,,,way
 "Aleja Przy Fosie",,,,way
 "Aleja Przyjaciół",,,,way
+"Aleja „Psotki i Śmieszki”",,,,way
 "Aleja Pszczółek",,,,way
 "Aleja Rabatkowa (381 - 400)",,,,way
 "Aleja Róż",,,,way
@@ -1249,7 +1249,7 @@ Albatrosów,,,,way
 "Aleja Władysława Giżyckiego",,,,way
 "Aleja Włodzimierza Strzyżewskiego",,,,way
 "Aleja Zasłużonych",,,,way
-"Aleja Załogi Samolotu ""Kościuszko""",,,,way
+"Aleja Załogi Samolotu „Kościuszko”",,,,way
 "Aleja Zieleniecka",,,,way
 "Aleja Zielona",,,,way
 "Aleja Złocieni",,,,way
@@ -1261,8 +1261,6 @@ Albatrosów,,,,way
 "Aleja Świetlicowa",,,,way
 "Aleja Żonkila",,,,way
 "Aleja Żywopłotów",,,,way
-"Alejka ""Dwie Dorotki""",,,,way
-"Alejka ""Tajemnicze Butki""",,,,way
 "Alejka 16",,,,way
 "Alejka 18",,,,way
 "Alejka 20",,,,way
@@ -1270,6 +1268,7 @@ Albatrosów,,,,way
 "Alejka 24",,,,way
 "Alejka 26",,,,way
 "Alejka 28",,,,way
+"Alejka „Dwie Dorotki”",,,,way
 "Alejka I",,,,way
 "Alejka II",,,,way
 "Alejka III",,,,way
@@ -1278,6 +1277,7 @@ Albatrosów,,,,way
 "Alejka Liliowa",,,,way
 "Alejka Lipowa",,,,way
 "Alejka Różana",,,,way
+"Alejka „Tajemnicze Butki”",,,,way
 "Alejka V",,,,way
 "Alejka VI",,,,way
 "Alejka VII",,,,way
@@ -1393,12 +1393,12 @@ Barwna,,,,way
 Barwnicza,,,,way
 Baryczków,,,,way
 Basetli,,,,way
-"Batalionu AK ""Bałtyk""",,,,way
-"Batalionu AK ""Karpaty""",,,,way
-"Batalionu AK ""Oaza""",,,,way
-"Batalionu AK ""Olza""",,,,way
-"Batalionu AK ""Ryś""",,,,way
-"Batalionu AK ""Włochy""",,,,way
+"Batalionu AK „Bałtyk”",,,,way
+"Batalionu AK „Karpaty”",,,,way
+"Batalionu AK „Oaza”",,,,way
+"Batalionu AK „Olza”",,,,way
+"Batalionu AK „Ryś”",,,,way
+"Batalionu AK „Włochy”",,,,way
 Batumi,,,,way
 Batystowa,,,,way
 Bawełniana,,,,way
@@ -1464,7 +1464,7 @@ Bogunki,,,,way
 Boguszewska,,,,way
 Bohaterów,,,,way
 "Bohaterów Warszawy",,,,way
-"Bohaterów z Kopalni ""Wujek""",,,,way
+"Bohaterów z Kopalni „Wujek”",,,,way
 Bohuna,,,,way
 Bokserska,,,,way
 Bolecha,,,,way
@@ -1507,7 +1507,7 @@ Brochowska,,,,way
 Brodnicka,,,,way
 Brodzik,,,,way
 "Bronisława Gembarzewskiego",,,,way
-"Bronisława Pietraszewicza ""Lota""",,,,way
+"Bronisława Pietraszewicza „Lota”",,,,way
 Broniwoja,,,,way
 Bronowska,,,,way
 "Brunona Kicińskiego",,,,way
@@ -1624,7 +1624,7 @@ Cierlicka,,,,way
 Ciesielska,,,,way
 Cieślewskich,,,,way
 Ciszewska,,,,way
-"Ciszewskiego Bis",,,,way
+"Ciszewskiego - bis",,,,way
 Ciżemki,,,,way
 Cmentarna,,,,way
 Codzienna,,,,way
@@ -1778,7 +1778,7 @@ Dynarska,,,,way
 Dyngus,,,,way
 Dynowska,,,,way
 Dyrekcyjna,,,,way
-"Dywizjonu AK ""Jeleń""",,,,way
+"Dywizjonu AK „Jeleń”",,,,way
 Dziatwy,,,,way
 Działkowa,,,,way
 Działowa,,,,way
@@ -1847,7 +1847,7 @@ Eskimoska,,,,way
 Eskulapów,,,,way
 Estrady,,,,way
 "Eugeniusza Ajewskiego",,,,way
-"Eugeniusza Bocheńskiego ""Dubańca""",,,,way
+"Eugeniusza Bocheńskiego „Dubańca”",,,,way
 "Eugeniusza Horbaczewskiego",,,,way
 "Eugeniusza Kwiatkowskiego",,,,way
 Eukaliptusowa,,,,way
@@ -1947,7 +1947,7 @@ Gdecka,,,,way
 Gdyńska,,,,way
 Gedymina,,,,way
 "Generała Bronisława Bohaterewicza",,,,way
-"Generała Karola Ziemskiego ""Wachnowskiego""",,,,way
+"Generała Karola Ziemskiego „Wachnowskiego”",,,,way
 "Generała Leopolda Okulickiego",,,,way
 "Generała Lucjana Żeligowskiego",,,,way
 "Generała Stanisława Skalskiego",,,,way
@@ -2033,9 +2033,9 @@ Grotowska,,,,way
 Gruchacza,,,,way
 Grudowska,,,,way
 Gruntowa,,,,way
-"Grupy AK ""Kampinos""",,,,way
-"Grupy AK ""Krybar""",,,,way
-"Grupy AK ""Północ""",,,,way
+"Grupy AK „Kampinos”",,,,way
+"Grupy AK „Krybar”",,,,way
+"Grupy AK „Północ”",,,,way
 Gruszkowa,,,,way
 Gruszy,,,,way
 Gryfitów,,,,way
@@ -2059,6 +2059,7 @@ Gwintowa,,,,way
 Gąbińska,,,,way
 Gąsienicowa,,,,way
 Gąsocińska,,,,way
+Gęsia,,,,way
 Gęsta,,,,way
 Gęślarska,,,,way
 Gładka,,,,way
@@ -2131,8 +2132,6 @@ Hutnicza,,,,way
 "IX Poprzeczna",,,,way
 Iberyjska,,,,way
 Ibisa,,,,way
-Ideowców,,,,way
-Ideowczyń,,,,way
 Iglasta,,,,way
 "Ignacego Domeyki",,,,way
 "Ignacego Kruszewskiego",,,,way
@@ -2163,6 +2162,7 @@ Izbicka,,,,way
 Izdebnicka,,,,way
 Izerska,,,,way
 Izoldy,,,,way
+Iławska,,,,way
 Jabłeczna,,,,way
 Jabłoni,,,,way
 Jabłoniowa,,,,way
@@ -2348,7 +2348,7 @@ Kazachska,,,,way
 "Kazimierza Brandysa",,,,way
 "Kazimierza Dąbrowskiego",,,,way
 "Kazimierza Pułaskiego",,,,way
-"Kazimierza Sotta ""Sokoła""",,,,way
+"Kazimierza Sotta „Sokoła”",,,,way
 "Kazimierza Szałasa",,,,way
 Kazimierzowska,,,,way
 Kazita,,,,way
@@ -2417,8 +2417,8 @@ Kominiarska,,,,way
 Kominkowa,,,,way
 Komorowska,,,,way
 Komorska,,,,way
-"Kompanii AK ""Kordian""",,,,way
 "Kompanii AK „Goplana”",,,,way
+"Kompanii AK „Kordian”",,,,way
 Kompasowa,,,,way
 Komunardów,,,,way
 Konarowa,,,,way
@@ -2430,7 +2430,6 @@ Konińska,,,,way
 Konopacka,,,,way
 Konopna,,,,way
 "Konrada Guderskiego",,,,way
-Konstancińska,,,,way
 Konstruktorska,,,,way
 Konturowa,,,,way
 Kontuszowa,,,,way
@@ -2561,7 +2560,7 @@ Książęca,,,,way
 "Księdza Sylwestra Szulczyka",,,,way
 Księgarzy,,,,way
 Księżycowa,,,,way
-"Ku Rzece",,,,way
+"Ku Rzece",,,,relation
 "Ku Skarpie",,,,way
 "Ku Wiśle",,,,way
 Kubańska,,,,way
@@ -2748,7 +2747,7 @@ Magury,,,,way
 Majdańska,,,,way
 Majerankowa,,,,way
 Majolikowa,,,,way
-"Majora Franciszka Michała Amałowicza ""Tatara""",,,,way
+"Majora Franciszka Michała Amałowicza „Tatara”",,,,way
 "Majora Jacka Decowskiego",,,,way
 Majorki,,,,way
 Makowa,,,,way
@@ -2772,7 +2771,7 @@ Marengo,,,,way
 Margerytki,,,,way
 "Mariana Pisarka",,,,way
 "Mariana Rejewskiego",,,,way
-"Mariana Sengera ""Cichego""",,,,way
+"Mariana Sengera „Cichego”",,,,way
 "Mariana Zdziechowskiego",,,,way
 Mariańska,,,,way
 Mariensztat,,,,way
@@ -2846,7 +2845,6 @@ Miejska,,,,way
 Mielecka,,,,way
 Mielnicka,,,,way
 Mieszczańska,,,,way
-"Mieszka I",,,,way
 Migdałowa,,,,way
 "Mikołaja Sępa-Szarzyńskiego",,,,way
 "Mikołaja z Długolasu",,,,way
@@ -3069,7 +3067,6 @@ Oczary,,,,way
 Odblask,,,,way
 Odeska,,,,way
 Odkryta,,,,way
-Odkrywczyń,,,,way
 Odlewnicza,,,,way
 Odmienna,,,,way
 Odrodzenia,,,,way
@@ -3082,7 +3079,6 @@ Ogniskowa,,,,way
 Ogólna,,,,way
 Ogórkowa,,,,way
 Ogrodnicza,,,,way
-Ogrodniczek,,,,way
 Ogrodowa,,,,way
 Ogrody,,,,way
 "Ogrody Przyjaciół",,,,way
@@ -3315,7 +3311,7 @@ Pińska,,,,way
 "Plac Jaśminowy Zakątek",,,,relation+way
 "Plac Kasztelański",,,,way
 "Plac Klonowego Liścia",,,,relation
-"Plac Konesera",,,,way
+"Plac Konesera",,,,relation
 "Plac Konfederacji",,,,way
 "Plac Krasińskich",,,,way
 "Plac Małachowskiego",,,,way
@@ -3349,7 +3345,7 @@ Plażowa,,,,way
 Pleciona,,,,way
 Pliszki,,,,way
 Plutonowych,,,,way
-"Plutonu AK ""Torpedy""",,,,way
+"Plutonu AK „Torpedy”",,,,way
 Pląsy,,,,way
 Poborzańska,,,,way
 Pobudki,,,,way
@@ -3359,10 +3355,15 @@ Pociskowa,,,,way
 Pocztowa,,,,way
 Początkowa,,,,way
 "Pod Brzozami",,,,way
+"Pod Dębami",,,,way
+"Pod Jesionami",,,,way
 "Pod Kopcem",,,,way
 "Pod Lipą",,,,way
+"Pod Platanami",,,,way
 "Pod Skocznią",,,,way
 "Pod Strzechą",,,,way
+"Pod Wierzbami",,,,way
+"Pod Wiązami",,,,way
 Podbiałowa,,,,way
 Podchorążych,,,,way
 Podgórna,,,,way
@@ -3571,8 +3572,8 @@ Puszkarzy,,,,way
 Puzonistów,,,,way
 Pułkowa,,,,way
 "Pułkownika Zoltána Baló",,,,way
-"Pułku AK ""Broda""",,,,way
-"Pułku AK ""Waligóra""",,,,way
+"Pułku AK „Broda”",,,,way
+"Pułku AK „Waligóra”",,,,way
 Pułtuska,,,,way
 Pyrska,,,,way
 Pęcherska,,,,way
@@ -3899,8 +3900,8 @@ Skuterowa,,,,way
 "Skwer Anny Jantar",,,,way
 "Skwer Barbary Wachowicz",,,,way
 "Skwer Barbary i Stanisława Brukalskich",,,,way
-"Skwer Batalionu AK ""Gozdawa""",,,,way
-"Skwer Batalionu AK ""Miłosz""",,,,way
+"Skwer Batalionu AK „Gozdawa”",,,,way
+"Skwer Batalionu AK „Miłosz”",,,,way
 "Skwer Bohdana Lacherta",,,,way
 "Skwer Bronisława Geremka",,,,way
 "Skwer Ewangelicki",,,,way
@@ -3933,6 +3934,7 @@ Skuterowa,,,,way
 "Skwer Reduty Kaliskiej",,,,way
 "Skwer Rodziny Kuczerów",,,,way
 "Skwer Rodziny Wolskich",,,,way
+"Skwer Rudolfa Weigla",,,,way
 "Skwer Ryski",,,,way
 "Skwer Samuela Orgelbranda",,,,way
 "Skwer Stefana Kuryłowicza",,,,way
@@ -3949,12 +3951,12 @@ Skuterowa,,,,way
 "Skwer Wolnego Słowa",,,,way
 "Skwer Wołyński",,,,way
 "Skwer Zbigniewa Wójcika",,,,way
-"Skwer Zgrupowania AK ""Róg""",,,,way
+"Skwer Zgrupowania AK „Róg”",,,,way
 "Skwer Ziemi Aniołów",,,,way
 "Skwer Zofii Kuratowskiej",,,,way
 "Skwer Zofii i Kazimierza Moczarskich",,,,way
 "Skwer księdza Jana Salamuchy",,,,way
-"Skwer majora Bolesława Kontryma ""Żmudzina""",,,,way
+"Skwer majora Bolesława Kontryma „Żmudzina”",,,,way
 "Skwer Żołnierzy Tułaczy",,,,way
 Skwierzyńska,,,,way
 Skłoby,,,,way
@@ -4039,9 +4041,10 @@ Statyczna,,,,way
 Stawiszyńska,,,,way
 Stawki,,,,way
 Stawowa,,,,way
+"Stawy Brustmana",,,,way
 "Stefana Bryły",,,,way
 "Stefana Dembego",,,,way
-"Stefana Łyszkiewicza ""Pechowca""",,,,way
+"Stefana Łyszkiewicza „Pechowca”",,,,way
 "Stefanii Wilczyńskiej",,,,way
 Stelmachów,,,,way
 Stepowa,,,,way
@@ -4181,7 +4184,6 @@ Szymbarska,,,,way
 "Szymona Askenazego",,,,way
 Szyprów,,,,way
 Szyszaków,,,,way
-Sąsiadek,,,,way
 Sążnista,,,,way
 Sęczkowa,,,,way
 Sękocińska,,,,way
@@ -4294,6 +4296,7 @@ Tużycka,,,,way
 Twardowska,,,,way
 Twórcza,,,,way
 Tylżycka,,,,way
+"Tymczasowy most",,,,way
 Tymotki,,,,way
 Tynkarska,,,,way
 Tyrolska,,,,way
@@ -4311,7 +4314,6 @@ Ukośna,,,,way
 Ukryta,,,,way
 "Ukryty Raj",,,,way
 Ulanowska,,,,way
-"Ulica Klaudyny",,,,way
 Ulubiona,,,,way
 Umowna,,,,way
 Unicka,,,,way
@@ -4337,6 +4339,7 @@ Uśmiech,,,,way
 "VI Poprzeczna",,,,way
 "VII Poprzeczna",,,,way
 "VIII Poprzeczna",,,,way
+"Via Trocina",,,,way
 Villardczyków,,,,way
 "W Brzózkach",,,,way
 "Wacława Terleckiego",,,,way
@@ -4432,8 +4435,6 @@ Witki,,,,way
 "Witolda Rychtera",,,,way
 "Witolda Zawadowskiego",,,,way
 Witolińska,,,,way
-Wizjonerek,,,,way
-Wizjonerów,,,,way
 Wiązana,,,,way
 Wiązowska,,,,way
 "Wiślana Kępa",,,,way
@@ -4520,7 +4521,7 @@ Węgrowska,,,,way
 "Władysława Bieńczaka",,,,way
 "Władysława Hermana",,,,way
 "Władysława Lercha",,,,way
-"Władysława Szeflera ""Włada""",,,,way
+"Władysława Szeflera „Włada”",,,,way
 "Władysława Szpilmana",,,,way
 "Władysława Tatarkiewicza",,,,way
 "Władysława Witwickiego",,,,way
@@ -4621,7 +4622,7 @@ Zaściankowa,,,,way
 Zbaraska,,,,way
 Zbierska,,,,way
 "Zbigniewa Burzyńskiego",,,,way
-"Zbigniewa Gęsickiego ""Juno""",,,,way
+"Zbigniewa Gęsickiego „Juno”",,,,way
 "Zbigniewa Pieniążka",,,,way
 "Zbigniewa Wasiutyńskiego",,,,way
 Zbiorowa,,,,way
