@@ -79,6 +79,7 @@ Deotymy,wikidata,F,Q274324,way
 "Rondo Elżbiety Zahorskiej",wikidata,F,Q97178986,way
 "Rondo Emilii Malessy „Marcysi”",wikidata,F,Q5371645,way
 "Rondo Haliny Szwarc",wikidata,F,Q5642381,way
+"Rondo Ireny Kwiatkowskiej",wikidata,F,Q11698061,way
 "Rondo Kamili Skolimowskiej",wikidata,F,Q236109,way
 "Rondo Krystyny Krahelskiej",wikidata,F,Q2001173,way
 "Rondo Marii Tarnowskiej",wikidata,F,Q11769193,way
@@ -274,7 +275,6 @@ Dynasy,wikidata,M,Q64055,way
 "Edwarda Józefa Abramowskiego",wikidata,M,Q552669,way
 "Edwarda Stachury",wikidata,M,Q553657,way
 "Edwarda Szymańskiego",wikidata,M,Q11696265,way
-"Edwarda Wittiga",wikidata,M,Q5345965,way
 "Efraima Schroegera",wikidata,M,Q78032,way
 "Emanuela Ringelbluma",wikidata,M,Q707554,way
 "Emila Zegadłowicza",wikidata,M,Q4190109,way
@@ -631,7 +631,7 @@ Marszałkowska,wikidata,M,Q561074,way
 "Międzymurze Piotra Biegańskiego",wikidata,M,Q2096221,way
 Moliera,wikidata,M,Q687,way
 "Mordechaja Anielewicza",wikidata,M,Q327892,way
-"Most Grota-Roweckiego",wikidata,M,Q683515,relation
+"Most Generała Stefana Grota-Roweckiego",wikidata,M,Q683515,way
 "Most Jana III Sobieskiego",wikidata,M,Q53454,way
 "Most Księcia Józefa Poniatowskiego",wikidata,M,Q154382,way
 "Most Zygmunta Krasińskiego",wikidata,M,Q245355,way
@@ -753,7 +753,6 @@ Rejonowa,wikidata,M,Q266339,way
 "Rotmistrza Witolda Pileckiego",wikidata,M,Q315691;Q320116,way
 "Samuela Bogumiła Lindego",wikidata,M,Q1349910,way
 "Samuela Twardowskiego",wikidata,M,Q4703712,way
-"Sándora Petöfiego",wikidata,M,Q81219,way
 "Seweryna Goszczyńskiego",wikidata,M,Q1254858,way
 "Seweryna Krzyżanowskiego",wikidata,M,Q9335747,way
 "Skwer Adama Mickiewicza",wikidata,M,Q79822,way
