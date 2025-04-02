@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Jana Szałka",wikidata,+,Q29246328;Q119512206,way
+"Rodziny Hiszpańskich",wikidata,+,Q65165448;Q28653974;Q11768897;Q8861722,way
 Stryjeńskich,wikidata,+,Q9146036;Q218326;Q3193544;Q3513721,way
 "Zaułek Marii i Aleksandra Żabczyńskich",wikidata,+,Q7944611;Q4715009,way
 "Aleja Aliny Szapocznikow",wikidata,F,Q466550,way
@@ -420,6 +421,7 @@ Horacego,wikidata,M,Q6197,way
 "Jana Skrzyneckiego",wikidata,M,Q705763,way
 "Jana Styki",wikidata,M,Q708238,way
 "Jana Szymczaka",wikidata,M,Q108489468,way
+"Jana Vermeera",wikidata,M,Q41264,way
 "Jana Zamoyskiego",wikidata,M,Q382439,way
 "Jana Żabińskiego",wikidata,M,Q286789,way
 "Jana Żiżki",wikidata,M,Q215968,way
@@ -697,6 +699,7 @@ Przewodowa,wikidata,M,Q855,way
 Rakietników,wikidata,M,Q478713,way
 "Raoula Wallenberga",wikidata,M,Q152850,way
 Rejonowa,wikidata,M,Q266339,way
+Rembrandta,wikidata,M,Q5598,way
 "Romana Maciejewskiego",wikidata,M,Q465132,way
 "Romana Palestera",wikidata,M,Q460721,way
 "Romana Pazińskiego",wikidata,M,Q105093269,way
@@ -753,6 +756,7 @@ Rejonowa,wikidata,M,Q266339,way
 "Rotmistrza Witolda Pileckiego",wikidata,M,Q315691;Q320116,way
 "Samuela Bogumiła Lindego",wikidata,M,Q1349910,way
 "Samuela Twardowskiego",wikidata,M,Q4703712,way
+"Sándora Petöfiego",wikidata,M,Q81219,way
 "Seweryna Goszczyńskiego",wikidata,M,Q1254858,way
 "Seweryna Krzyżanowskiego",wikidata,M,Q9335747,way
 "Skwer Adama Mickiewicza",wikidata,M,Q79822,way

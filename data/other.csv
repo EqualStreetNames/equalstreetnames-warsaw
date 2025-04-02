@@ -155,6 +155,7 @@ Cudnowska,wikidata,,Q5192538,way
 Cukrownicza,wikidata,,Q227870,way
 Cybernetyki,wikidata,,Q123637,way
 Cynamonowa,wikidata,,Q28165,way
+Cynowa,wikidata,,Q1096,way
 Cyprysowa,wikidata,,Q146911,way
 Cyraneczki,wikidata,,Q25700,way
 Cyrkonii,wikidata,,Q225666,way
@@ -376,6 +377,7 @@ Kuropatwy,wikidata,,Q26106,way
 Kwarty,wikidata,,Q1058120,way
 Kwiatowa,wikidata,,Q506,way
 Kwietniowa,wikidata,,Q118,way
+Kłodawska,wikidata,,Q988663,way
 Kłodzka,wikidata,,Q284604,way
 Kłosowa,wikidata,,Q147398,way
 Lapońska,wikidata,,Q5700,way
@@ -431,6 +433,7 @@ Moczydłowska,wikidata,,Q11784381,way
 Modlińska,wikidata,,Q995207,way
 Modrzewiowa,wikidata,,Q25618,way
 "Monte Cassino",wikidata,,Q154372,way
+"Most Gdański",wikidata,,Q1792,way
 "Most Łazienkowski",wikidata,,Q345279,way
 "Most Śląsko-Dąbrowski",wikidata,,Q81720;Q140480,way
 Mołdawska,wikidata,,Q18366588,way
@@ -645,6 +648,7 @@ Rumiankowa,wikidata,,Q27618,way
 Rybnicka,wikidata,,Q107094;Q243267,way
 Rydzowa,wikidata,,Q62138,way
 Rydzyńska,wikidata,,Q102231;Q995872,way
+Rzeczna,wikidata,,Q4022,way
 Rzymska,wikidata,,Q220,way
 Rzędziana,wikidata,,Q7385835,way
 Sadowa,wikidata,,Q236371,way
@@ -653,13 +657,12 @@ Sadurka,wikidata,,Q20032939,way
 Samochodowa,wikidata,,Q1420,way
 Samowarowa,wikidata,,Q224418,way
 Sandomierska,wikidata,,Q193177,way
-"Sándora Petöfiego",wikidata,,Q81219,way
 Sanocka,wikidata,,Q201729,way
 Sarmatów,wikidata,,Q162858,way
 Sasanki,wikidata,,Q147764,way
 Satynowa,wikidata,,Q14298,way
 Sawy,wikidata,,Q9334083,way
-"Sejmu Czteroletniego",wikidata,,Q883433,way
+"Sejmu Czteroletniego",wikidata,,Q2093859;Q883433,way
 Sekundowa,wikidata,,Q11574,way
 Sekwoi,wikidata,,Q1975652,way
 Serocka,wikidata,,Q569838,way
@@ -737,6 +740,7 @@ Tarchomińska,wikidata,,Q9355606,way
 Tarczyńska,wikidata,,Q1922330,way
 Targowa,wikidata,,Q330284,way
 Tarniny,wikidata,,Q129018,way
+Tasznikowa,wikidata,,Q157786,way
 Tatarska,wikidata,,Q35565,way
 Tczewska,wikidata,,Q474697,way
 Techników,wikidata,,Q5352191,way
@@ -926,7 +930,6 @@ Złota,wikidata,,Q897,way
 28KDW,,,,way
 29KDW,,,,way
 31KD-D,,,,way
-36KD(D),,,,way
 37KD(D),,,,way
 39KD(D),,,,way
 5KDL,,,,way
@@ -1522,7 +1525,6 @@ Brzegówki,,,,way
 Brzeska,,,,way
 Brzeziny,,,,way
 Brzezińska,,,,way
-Brzeżek,,,,way
 Brzoskwiniowa,,,,way
 Brzostowska,,,,way
 "Brzozowy Lasek",,,,way
@@ -1640,7 +1642,6 @@ Cyklamenów,,,,way
 Cyklamenowa,,,,way
 Cylichowska,,,,way
 Cymbalistów,,,,way
-Cynowa,,,,way
 Cypryjska,,,,way
 Cyrklowa,,,,way
 Cytadeli,,,,way
@@ -2194,7 +2195,6 @@ Jamki,,,,way
 "Jana Nagórskiego",,,,way
 "Jana Piekałkiewicza",,,,way
 "Jana Szczepanika",,,,way
-"Jana Vermeera",,,,way
 "Jana Wasilkowskiego",,,,way
 "Jana Zaorskiego",,,,way
 Janczarów,,,,way
@@ -2786,6 +2786,7 @@ Mariensztat,,,,way
 "Marii Bohuszewiczówny",,,,way
 "Marii Cetysówny",,,,way
 "Marii Eleonory",,,,way
+"Marka Leykama",,,,way
 Markietanki,,,,way
 Markowska,,,,way
 Marokańska,,,,way
@@ -2903,7 +2904,6 @@ Morwowa,,,,way
 Mory,,,,way
 Morąska,,,,way
 Mosiężna,,,,way
-"Most Gdański",,,,way
 "Most Rzymski",,,,way
 "Most Siekierkowski",,,,way
 "Most na Zaporze",,,,way
@@ -3647,7 +3647,6 @@ Rejsu,,,,way
 Rekrucka,,,,way
 Reksia,,,,way
 Rembielińska,,,,way
-Rembrandta,,,,way
 Remiszewska,,,,way
 Remontowa,,,,way
 Renesansowa,,,,way
@@ -3664,7 +3663,6 @@ Robinii,,,,way
 Robotnicza,,,,way
 Rodowa,,,,way
 Rodzinna,,,,way
-"Rodziny Hiszpańskich",,,,way
 "Rodziny Kluczyńskich",,,,way
 Rodzynkowa,,,,way
 Rodła,,,,way
@@ -3793,7 +3791,6 @@ Rysy,,,,way
 Rytelska,,,,way
 Rytmiczna,,,,way
 Ryżowa,,,,way
-Rzeczna,,,,way
 Rzeczycka,,,,way
 Rzekotki,,,,way
 Rzemieślników,,,,way
@@ -4227,7 +4224,6 @@ Tarasowa,,,,way
 Tarnobrzeska,,,,way
 Tarnogórska,,,,way
 Tarnowiecka,,,,way
-Tasznikowa,,,,way
 Tatrzańska,,,,way
 Tawerny,,,,way
 Tawułkowa,,,,way
@@ -4701,8 +4697,6 @@ Złotopolska,,,,way
 "plac Trynopolski",,,,relation
 "planowany łącznik",,,,way
 "stanowisko postojowe ""zapasowe""",,,,way
-"wjazd na parking",,,,way
-"wyjazd z parkingu",,,,way
 Ćmielowska,,,,way
 Łabiszyńska,,,,way
 Łabędzia,,,,way
