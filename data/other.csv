@@ -151,6 +151,7 @@ Cieszyńska,wikidata,,Q321197,way
 Cietrzewia,wikidata,,Q155878,way
 Cisowa,wikidata,,Q27355,way
 Ciupagi,wikidata,,Q1002605,way
+Cmentarna,wikidata,,Q39614,way
 Cudnowska,wikidata,,Q5192538,way
 Cukrownicza,wikidata,,Q227870,way
 Cybernetyki,wikidata,,Q123637,way
@@ -370,6 +371,7 @@ Krokwi,wikidata,,Q1154705,way
 "Króla Maciusia",wikidata,,Q2599080,way
 Królewska,wikidata,,Q12097,way
 "Królów Polskich",wikidata,,Q3273712,way
+Krzywińska,wikidata,,Q1323393,way
 Ksawerów,wikidata,,Q33525913,way
 "Kubusia Puchatka",wikidata,,Q188574,way
 Kukiełki,wikidata,,Q5690;Q168658,way
@@ -388,6 +390,7 @@ Lazurowa,wikidata,,Q373160,way
 Letnia,wikidata,,Q1313,way
 Leżajska,wikidata,,Q614145,way
 Leżakowa,wikidata,,Q1824203,way
+Lidzka,wikidata,,Q241475,way
 Limonki,wikidata,,Q13195,way
 Lipowa,wikidata,,Q127849,way
 Lipska,wikidata,,Q2079,way
@@ -649,6 +652,7 @@ Rybnicka,wikidata,,Q107094;Q243267,way
 Rydzowa,wikidata,,Q62138,way
 Rydzyńska,wikidata,,Q102231;Q995872,way
 Rzeczna,wikidata,,Q4022,way
+Rzeszowska,wikidata,,Q598,way
 Rzymska,wikidata,,Q220,way
 Rzędziana,wikidata,,Q7385835,way
 Sadowa,wikidata,,Q236371,way
@@ -679,6 +683,7 @@ Skoroszewska,wikidata,,Q9338071,way
 Skromna,wikidata,,Q11199149,way
 Skrzetuskiego,wikidata,,Q6149927,way
 Skrzydlata,wikidata,,Q161358;Q475499,way
+"Skwer Ryski",wikidata,,Q1773,way
 Składowa,wikidata,,Q9158768,way
 Sochaczewska,wikidata,,Q250485,way
 Sójki,wikidata,,Q25354,way
@@ -914,6 +919,7 @@ Złota,wikidata,,Q897,way
 12KP,,,,way
 13KD-Z,,,,way
 13KDW,,,,way
+14KDD,,,,way
 "15 Sierpnia",,,,way
 15KPJ,,,,way
 "1831 Roku",,,,way
@@ -1630,7 +1636,6 @@ Cieślewskich,,,,way
 Ciszewska,,,,way
 "Ciszewskiego - bis",,,,way
 Ciżemki,,,,way
-Cmentarna,,,,way
 Codzienna,,,,way
 Cokołowa,,,,way
 Cudna,,,,way
@@ -2549,7 +2554,6 @@ Krzesiwa,,,,way
 Krzewna,,,,way
 Krzywa,,,,way
 "Krzywe Koło",,,,way
-Krzywińska,,,,way
 Krzywopoboczna,,,,way
 Krzyżówki,,,,way
 "Ksawerego Bronikowskiego",,,,way
@@ -2673,7 +2677,6 @@ Libijska,,,,way
 Licealna,,,,way
 Liczydło,,,,way
 Lidzbarska,,,,way
-Lidzka,,,,way
 Ligocka,,,,way
 Ligustrowa,,,,way
 Liliowa,,,,way
@@ -3022,6 +3025,7 @@ Nowiny,,,,way
 Nowińska,,,,way
 Nowo-Białołęcka,,,,way
 Nowo-Jagiellońska,,,,way
+Nowo-Kowalskiego,,,,way
 Nowo-Stalowa,,,,way
 Nowo-Ziemowita,,,,way
 Nowoberestecka,,,,way
@@ -3795,7 +3799,6 @@ Rzeczycka,,,,way
 Rzekotki,,,,way
 Rzemieślników,,,,way
 Rzepichy,,,,way
-Rzeszowska,,,,way
 Rzewińska,,,,way
 Rzeźbiarska,,,,way
 Rzodkiewki,,,,way
@@ -3938,7 +3941,6 @@ Skuterowa,,,,way
 "Skwer Rodziny Kuczerów",,,,way
 "Skwer Rodziny Wolskich",,,,way
 "Skwer Rudolfa Weigla",,,,way
-"Skwer Ryski",,,,way
 "Skwer Samuela Orgelbranda",,,,way
 "Skwer Stefana Kuryłowicza",,,,way
 "Skwer Szmula Zygielbojma",,,,way
@@ -4044,7 +4046,6 @@ Statyczna,,,,way
 Stawiszyńska,,,,way
 Stawki,,,,way
 Stawowa,,,,way
-"Stawy Brustmana",,,,way
 "Stefana Bryły",,,,way
 "Stefana Dembego",,,,way
 "Stefana Łyszkiewicza „Pechowca”",,,,way
