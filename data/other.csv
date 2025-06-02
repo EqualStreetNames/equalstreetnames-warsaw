@@ -1,7 +1,7 @@
 name,source,gender,wikidata,type
 "1 Praskiego Pułku WP",wikidata,,Q11683252,way
 "1 Sierpnia",wikidata,,Q2788,way
-"11 Listopada",wikidata,,Q1342323;Q2987,way
+"11 Listopada",wikidata,,Q1342323;Q2987;Q2987;Q81745789,way
 "27 Grudnia",wikidata,,Q2800,way
 "29 Listopada",wikidata,,Q3016,way
 "3 Maja",wikidata,,Q2547,way
@@ -24,6 +24,7 @@ Alabastrowa,wikidata,,Q143447,way
 "Aleja Krakowska",wikidata,,Q31487,way
 "Aleja Niepodległości",wikidata,,Q37055,way
 "Aleja Obrońców Grodna",wikidata,,Q2630512,way
+"Aleja Polski Walczącej",wikidata,,Q656741,way
 "Aleja Polskiej Organizacji Wojskowej",wikidata,,Q1961333,way
 "Aleja Prymasa Tysiąclecia",wikidata,,Q165522;Q42976,way
 "Aleja Radiowej Trójki",wikidata,,Q633009,way
@@ -67,7 +68,7 @@ Bakalarska,wikidata,,Q1765120,way
 Bakaliowa,wikidata,,Q234901,way
 Baletowa,wikidata,,Q41425,way
 Balonowa,wikidata,,Q643435,way
-Baltazara,wikidata,,Q1073772,way
+Baltazara,wikidata,,Q945725,way
 Bambusowa,wikidata,,Q311331,way
 Banderii,wikidata,,Q1737226,way
 Bankowa,wikidata,,Q22687,way
@@ -258,6 +259,7 @@ Grafitowa,wikidata,,Q5309,way
 Granitowa,wikidata,,Q41177,way
 Grenady,wikidata,,Q769,way
 Grenlandzka,wikidata,,Q4148644,way
+Grochowska,wikidata,,Q5609975,way
 Grodzieńska,wikidata,,Q181376,way
 Grójecka,wikidata,,Q391461,way
 Gronowa,wikidata,,Q10978,way
@@ -334,6 +336,7 @@ Karuzela,wikidata,,Q208322,way
 Karwińska,wikidata,,Q191793,way
 Kaszubska,wikidata,,Q147804,way
 Katarynki,wikidata,,Q752638,way
+Katowicka,wikidata,,Q588,way
 Kawalerii,wikidata,,Q47315,way
 Kibiców,wikidata,,Q16678266,way
 Kielecka,wikidata,,Q102317,way
@@ -595,6 +598,7 @@ Puławska,wikidata,,Q320007,way
 "Pułku AK „Baszta”",wikidata,,Q9390809,way
 Płatowcowa,wikidata,,Q222946,way
 Płocka,wikidata,,Q104725,way
+Płowiecka,wikidata,,Q5609975,way
 Płużańska,wikidata,,Q828430;Q2672482,way
 Płużnicka,wikidata,,Q548,way
 "Quo Vadis",wikidata,,Q335315,way
@@ -607,6 +611,7 @@ Radomska,wikidata,,Q104740,way
 Radomszczańska,wikidata,,Q158796,way
 Radzymińska,wikidata,,Q609246,way
 Rakowska,wikidata,,Q11833730,way
+Raszyńska,wikidata,,Q989813,way
 Rebusowa,wikidata,,Q816260,way
 Regulska,wikidata,,Q2042544,way
 Relaksowa,wikidata,,Q3935810,way
@@ -648,6 +653,7 @@ Ruczaj,wikidata,,Q15842515,way
 Rukoli,wikidata,,Q156884,way
 Rumiana,wikidata,,Q847930,way
 Rumiankowa,wikidata,,Q27618,way
+Rybałtów,wikidata,,Q9324259,way
 Rybnicka,wikidata,,Q107094;Q243267,way
 Rydzowa,wikidata,,Q62138,way
 Rydzyńska,wikidata,,Q102231;Q995872,way
@@ -797,6 +803,7 @@ Wawelska,wikidata,,Q18820;Q743704,way
 Wawerska,wikidata,,Q7089,way
 Wawrzyszewska,wikidata,,Q9371651,way
 Wczasowa,wikidata,,Q130610067,way
+Wenedów,wikidata,,Q1416201,way
 Wernyhory,wikidata,,Q35007,way
 Wersalska,wikidata,,Q621,way
 Weterynaryjna,wikidata,,Q33529525,way
@@ -877,7 +884,9 @@ Złocienia,wikidata,,Q59882,way
 Złota,wikidata,,Q897,way
 "Złotego Smoka",wikidata,,Q847544,way
 "Złotej Rybki",wikidata,,Q2390738,way
+Ćmielowska,wikidata,,Q336448,way
 Łacińska,wikidata,,Q397,way
+Łazienkowska,wikidata,,Q345279,way
 Łańcucka,wikidata,,Q345331,way
 Łobeska,wikidata,,Q196163,way
 Łodygowa,wikidata,,Q134267,way
@@ -1200,7 +1209,6 @@ Albatrosów,,,,way
 "Aleja Paproci",,,,way
 "Aleja Peonii",,,,way
 "Aleja Pigwy",,,,way
-"Aleja Polski Walczącej",,,,way
 "Aleja Polskiej Akademii Nauk",,,,way
 "Aleja Porzeczkowa",,,,way
 "Aleja Porzeczkowa (10 - 27)",,,,way
@@ -1405,6 +1413,7 @@ Barwnicza,,,,way
 Baryczków,,,,way
 Basetli,,,,way
 "Batalionu AK „Bałtyk”",,,,way
+"Batalionu AK „Bończa”",,,,way
 "Batalionu AK „Karpaty”",,,,way
 "Batalionu AK „Oaza”",,,,way
 "Batalionu AK „Olza”",,,,way
@@ -1708,7 +1717,6 @@ Dawna,,,,way
 Dedala,,,,way
 Dekarska,,,,way
 Delfina,,,,way
-Dembego,,,,way
 Denarowa,,,,way
 Deptak,,,,way
 Derby,,,,way
@@ -1814,6 +1822,7 @@ Dzika,,,,way
 "Dzikiej Kaczki",,,,way
 "Dzikiej Róży",,,,way
 Dziwna,,,,way
+Dziwożony,,,,way
 Dzięcieliny,,,,way
 Dzięcioła,,,,way
 Dzięgielowa,,,,way
@@ -2033,7 +2042,6 @@ Grejpfrutowa,,,,way
 Grenadierów,,,,way
 Grobelska,,,,way
 Grocholicka,,,,way
-Grochowska,,,,way
 Grodkowska,,,,way
 Grodziska,,,,way
 Grodzka,,,,way
@@ -2045,7 +2053,6 @@ Grotowska,,,,way
 Gruchacza,,,,way
 Grudowska,,,,way
 Gruntowa,,,,way
-"Grupy AK „Kampinos”",,,,way
 "Grupy AK „Krybar”",,,,way
 "Grupy AK „Północ”",,,,way
 Gruszkowa,,,,way
@@ -2131,6 +2138,7 @@ Hucisko,,,,way
 Huculska,,,,way
 Huczna,,,,way
 Hufcowa,,,,way
+"Hugona Steinhausa",,,,way
 Humanistów,,,,way
 Humańska,,,,way
 Hutnicza,,,,way
@@ -2143,6 +2151,8 @@ Hutnicza,,,,way
 "IX Poprzeczna",,,,way
 Iberyjska,,,,way
 Ibisa,,,,way
+Ideowców,,,,way
+Ideowczyń,,,,way
 Iglasta,,,,way
 "Ignacego Domeyki",,,,way
 "Ignacego Kruszewskiego",,,,way
@@ -2187,7 +2197,6 @@ Jagny,,,,way
 Jagodna,,,,way
 Jagody,,,,way
 Jakobinów,,,,way
-"Jakuba Jasińskiego",,,,way
 "Jakuba Mortkowicza",,,,way
 Jakubowska,,,,way
 Jamki,,,,way
@@ -2309,6 +2318,7 @@ Kamykowa,,,,way
 Kanadyjska,,,,way
 Kanarkowa,,,,way
 Kanałowa,,,,way
+Kani,,,,way
 Kaniowska,,,,way
 Kanonia,,,,way
 Kanonierska,,,,way
@@ -2350,7 +2360,6 @@ Kasztanowa,,,,way
 Katalogowa,,,,way
 Katalońska,,,,way
 Katiuszy,,,,way
-Katowicka,,,,way
 Kaukaska,,,,way
 Kawcza,,,,way
 Kawki,,,,way
@@ -2359,6 +2368,7 @@ Kawęczyńska,,,,way
 Kazachska,,,,way
 "Kazimierza Brandysa",,,,way
 "Kazimierza Dąbrowskiego",,,,way
+"Kazimierza Kuratowskiego",,,,way
 "Kazimierza Pułaskiego",,,,way
 "Kazimierza Sotta „Sokoła”",,,,way
 "Kazimierza Szałasa",,,,way
@@ -2378,6 +2388,7 @@ Kiprów,,,,way
 Kircholmska,,,,way
 Kisielicka,,,,way
 Kiwerska,,,,way
+Kiwi,,,,way
 Klamrowa,,,,way
 Klarnecistów,,,,way
 Klarysewska,,,,way
@@ -2489,6 +2500,7 @@ Kowieńska,,,,way
 Kozia,,,,way
 "Kozia Górka",,,,way
 Kozielska,,,,way
+Kozienicka,,,,way
 Kozieradki,,,,way
 Koziorożca,,,,way
 Koziołka,,,,way
@@ -2709,6 +2721,7 @@ Liwska,,,,way
 Liściasta,,,,way
 Liścienia,,,,way
 Lniana,,,,way
+Logarytmiczna,,,,way
 Lokalna,,,,way
 Londyńska,,,,way
 Loteryjki,,,,way
@@ -3079,6 +3092,7 @@ Oczary,,,,way
 Odblask,,,,way
 Odeska,,,,way
 Odkryta,,,,way
+Odkrywczyń,,,,way
 Odlewnicza,,,,way
 Odmienna,,,,way
 Odrodzenia,,,,way
@@ -3091,6 +3105,7 @@ Ogniskowa,,,,way
 Ogólna,,,,way
 Ogórkowa,,,,way
 Ogrodnicza,,,,way
+Ogrodniczek,,,,way
 Ogrodowa,,,,way
 Ogrody,,,,way
 "Ogrody Przyjaciół",,,,way
@@ -3433,6 +3448,7 @@ Pomologiczna,,,,way
 Ponarska,,,,way
 Pontonierów,,,,way
 Popas,,,,way
+Popiela,,,,way
 Popiołów,,,,way
 Poprawna,,,,way
 Poprzeczna,,,,way
@@ -3544,7 +3560,6 @@ Przodowników,,,,way
 "Przy Bażantarni",,,,way
 "Przy Bernardyńskiej Wodzie",,,,way
 "Przy Fosie",,,,way
-"Przy Grobli",,,,way
 "Przy Grodzisku",,,,way
 "Przy Kanale",,,,way
 "Przy Stawie",,,,way
@@ -3600,7 +3615,6 @@ Płochocińska,,,,way
 Płomyka,,,,way
 Płosa,,,,way
 Płowce,,,,way
-Płowiecka,,,,way
 Płońska,,,,way
 Płudowska,,,,way
 "Płyta Desantu Czerniakowskiego",,,,relation
@@ -3635,7 +3649,6 @@ Ramowa,,,,way
 Raniuszka,,,,way
 Rapperswilska,,,,way
 Rasztowska,,,,way
-Raszyńska,,,,way
 Ratuszowa,,,,way
 Ratyniecka,,,,way
 Rawicka,,,,way
@@ -3775,7 +3788,6 @@ Rusznikarska,,,,way
 Ruty,,,,way
 Rybacka,,,,way
 Rybaki,,,,way
-Rybałtów,,,,way
 Rybieńska,,,,way
 Rybitwy,,,,way
 Rybna,,,,way
@@ -3959,6 +3971,7 @@ Skuterowa,,,,way
 "Skwer Zgrupowania AK „Róg”",,,,way
 "Skwer Ziemi Aniołów",,,,way
 "Skwer Zofii Kuratowskiej",,,,way
+"Skwer Zofii Szydłowskiej",,,,relation
 "Skwer Zofii i Kazimierza Moczarskich",,,,way
 "Skwer księdza Jana Salamuchy",,,,way
 "Skwer majora Bolesława Kontryma „Żmudzina”",,,,way
@@ -4188,6 +4201,7 @@ Szymbarska,,,,way
 "Szymona Askenazego",,,,way
 Szyprów,,,,way
 Szyszaków,,,,way
+Sąsiadek,,,,way
 Sążnista,,,,way
 Sęczkowa,,,,way
 Sękocińska,,,,way
@@ -4260,6 +4274,7 @@ Traktorzystki,,,,way
 Traktorzystów,,,,way
 Tramblanki,,,,way
 Transportowców,,,,way
+"Trasa Mostu Marii Skłodowskiej-Curie (Północnego)",,,,way
 "Trasa Mostu na Zaporze",,,,way
 "Trasa N-S",,,,way
 "Trasa N-S (plan.)",,,,way
@@ -4356,6 +4371,7 @@ Walewska,,,,way
 Waligóry,,,,way
 Wallenroda,,,,way
 Wandy,,,,way
+"Wandy Landowskiej",,,,way
 Waniliowa,,,,way
 Wapienna,,,,way
 Warneńska,,,,way
@@ -4379,14 +4395,12 @@ Wczele,,,,way
 Wejherowska,,,,way
 Welurowa,,,,way
 Wenecka,,,,way
-Wenedów,,,,way
 Werandowa,,,,way
 Werbeny,,,,way
 Weselna,,,,way
 Wesoła,,,,way
 Westerplatte,,,,way
 Weteranów,,,,way
-"Wiadukt Stanisława Markiewicza",,,,way
 Wiarusów,,,,way
 Wiatraczna,,,,way
 Wichrowa,,,,way
@@ -4436,6 +4450,8 @@ Witki,,,,way
 "Witolda Rychtera",,,,way
 "Witolda Zawadowskiego",,,,way
 Witolińska,,,,way
+Wizjonerek,,,,way
+Wizjonerów,,,,way
 Wiązana,,,,way
 Wiązowska,,,,way
 "Wiślana Kępa",,,,way
@@ -4522,6 +4538,7 @@ Węgrowska,,,,way
 "Władysława Bieńczaka",,,,way
 "Władysława Hermana",,,,way
 "Władysława Lercha",,,,way
+"Władysława Matlakowskiego",,,,way
 "Władysława Szeflera „Włada”",,,,way
 "Władysława Szpilmana",,,,way
 "Władysława Tatarkiewicza",,,,way
@@ -4698,7 +4715,6 @@ Złotopolska,,,,way
 "plac Trynopolski",,,,relation
 "planowany łącznik",,,,way
 "stanowisko postojowe ""zapasowe""",,,,way
-Ćmielowska,,,,way
 Łabiszyńska,,,,way
 Łabędzia,,,,way
 Ładna,,,,way
@@ -4713,7 +4729,6 @@ Złotopolska,,,,way
 Ławnicza,,,,way
 Łazanowicka,,,,way
 Łaziebna,,,,way
-Łazienkowska,,,,way
 Łazy,,,,way
 Łochowska,,,,way
 Łojewska,,,,way
