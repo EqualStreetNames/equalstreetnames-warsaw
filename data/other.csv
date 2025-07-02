@@ -34,7 +34,7 @@ Alabastrowa,wikidata,,Q143447,way
 "Aleja Szpitala Ujazdowskiego",wikidata,,Q30904078,way
 "Aleja Słowiańska",wikidata,,Q40477,way
 "Aleja Tysiąclecia",wikidata,,Q9363732,way
-"Aleja Wielkopolski",wikidata,,Q211371,relation
+"Aleja Wielkopolski",wikidata,,Q211371,way
 "Aleja Wilanowska",wikidata,,Q1634585;Q1887504,way
 "Aleja Wojska Polskiego",wikidata,,Q9377431,way
 "Aleja Zgrupowania AK „Kryska”",wikidata,,Q9390802,way
@@ -416,7 +416,9 @@ Malborska,wikidata,,Q146820,way
 Malinowa,wikidata,,Q13179,way
 Mango,wikidata,,Q169,way
 Marcepanowa,wikidata,,Q106252,way
+Markowska,wikidata,,Q1615800,way
 Marmurowa,wikidata,,Q40861,way
+Marymoncka,wikidata,,Q2047098,way
 Maszynowa,wikidata,,Q11019;Q188570,way
 Matematyczna,wikidata,,Q395,way
 Materii,wikidata,,Q35758;Q525,way
@@ -1186,6 +1188,7 @@ Albatrosów,,,,way
 "Aleja Marii Ilnickiej",,,,way
 "Aleja Marii Jaremy",,,,way
 "Aleja Marii Skłodowskiej-Curie",,,,way
+"Aleja Marka Nowakowskiego",,,,way
 "Aleja Matyldy i Antoniego Haczyńskich",,,,way
 "Aleja Melomanów",,,,way
 "Aleja Mieczyków",,,,way
@@ -1261,6 +1264,7 @@ Albatrosów,,,,way
 "Aleja Wiśni",,,,way
 "Aleja Wiśniowa",,,,way
 "Aleja Wiśniowa (137 - 152)",,,,way
+"Aleja Wojciecha Albińskiego",,,,way
 "Aleja Wrzosu",,,,way
 "Aleja Wyzwolenia",,,,way
 "Aleja Wyścigowa",,,,way
@@ -2804,13 +2808,11 @@ Mariensztat,,,,way
 "Marii Eleonory",,,,way
 "Marka Leykama",,,,way
 Markietanki,,,,way
-Markowska,,,,way
 Marokańska,,,,way
 Marsa,,,,way
 Marsylska,,,,way
 Marty,,,,way
 Maryli,,,,way
-Marymoncka,,,,way
 Marynarska,,,,way
 Marynin,,,,way
 Marysińska,,,,way
@@ -3320,12 +3322,12 @@ Piłkarska,,,,way
 Pińczowska,,,,way
 Pińska,,,,way
 "Plac 1831 Roku",,,,way
-"Plac 1905 Roku",,,,way
 "Plac Aleksandra Rembowskiego",,,,way
 "Plac Bankowy",,,,way
 "Plac Bernardyński",,,,way
 "Plac Bohaterów Getta Warszawskiego",,,,way
 "Plac Brama Browarów",,,,way
+"Plac Centralny",,,,way
 "Plac Czerwca 1976 roku",,,,way
 "Plac Defilad",,,,way
 "Plac Emila Młynarskiego",,,,way
@@ -3355,7 +3357,6 @@ Pińska,,,,way
 "Plac Służewski",,,,way
 "Plac Teatralny",,,,way
 "Plac Trzech Krzyży",,,,way
-"Plac Tulipanów",,,,way
 "Plac Weteranów 1863 roku",,,,way
 "Plac Wielopole",,,,way
 "Plac Wileński",,,,way
@@ -3723,6 +3724,7 @@ Romańska,,,,way
 "Rondo Małej Brzozy",,,,way
 "Rondo Miasta Ogrodu Włochy",,,,way
 "Rondo Miłosna",,,,way
+"Rondo Niedźwiadka",,,,way
 "Rondo Ochrony Przyrody",,,,way
 "Rondo Pohulanka",,,,way
 "Rondo Polskich Maratończyków",,,,way
@@ -4331,6 +4333,7 @@ Ukośna,,,,way
 Ukryta,,,,way
 "Ukryty Raj",,,,way
 Ulanowska,,,,way
+"Ulica Szwankowskiego",,,,way
 Ulubiona,,,,way
 Umowna,,,,way
 Unicka,,,,way
@@ -4463,6 +4466,7 @@ Wodyńska,,,,way
 Wodzirejów,,,,way
 Wodzisławska,,,,way
 Wójcicka,,,,way
+"Wojciecha Fangora",,,,way
 "Wojciecha Opackiego",,,,way
 "Wojciecha Żywnego",,,,way
 Wojdyńska,,,,way
