@@ -9,7 +9,6 @@ name,source,gender,wikidata,type
 12KP,,,,way
 13KD-Z,,,,way
 13KDW,,,,way
-14KDD,,,,way
 "15 Sierpnia",,,,way
 15KPJ,,,,way
 "1831 Roku",,,,way
@@ -26,7 +25,6 @@ name,source,gender,wikidata,type
 28KDW,,,,way
 29KDW,,,,way
 31KD-D,,,,way
-3KDL,,,,way
 5KDL,,,,way
 "6 Sierpnia",,,,way
 6KDL,,,,way
@@ -511,7 +509,6 @@ Bednarska,,,,way
 Begonii,,,,way
 Bellony,,,,way
 Benedykta,,,,way
-Berezyńska,,,,way
 Bernardyńska,,,,way
 Beskidzka,,,,way
 Betonowa,,,,way
@@ -1768,6 +1765,7 @@ Ligocka,,,,way
 Ligustrowa,,,,way
 Liliowa,,,,way
 Limby,,,,way
+Limonki,,,,way
 "Linia Klasztorna",,,,way
 "Linia Nieprzecięta",,,,way
 "Linia Parkingowa",,,,way
@@ -2114,6 +2112,7 @@ Nowodworska,,,,way
 Nowogrodzka,,,,way
 Nowolipie,,,,way
 Nowomiejska,,,,way
+Noworacławicka,,,,way
 Noworegulska,,,,way
 Nowosielecka,,,,way
 Nowosądecka,,,,way
@@ -2426,7 +2425,6 @@ Pińska,,,,way
 "Plac Trzech Krzyży",,,,way
 "Plac Weteranów 1863 roku",,,,way
 "Plac Wielopole",,,,way
-"Plac Wileński",,,,way
 "Plac Zamkowy",,,,relation+way
 "Plac apelowy",,,,way
 "Plac Żelaznej Bramy",,,,way
@@ -2810,7 +2808,6 @@ Rotundy,,,,way
 Roty,,,,way
 Rowerowa,,,,way
 Równa,,,,way
-Rownoleg,,,,way
 Równoległa,,,,way
 Rowowa,,,,way
 Rozalińska,,,,way
@@ -2824,7 +2821,6 @@ Roztocka,,,,way
 Rozwadowska,,,,way
 Rozłogi,,,,way
 Rozłucka,,,,way
-Rozłączna,,,,way
 Rozłączona,,,,way
 Rościszewska,,,,way
 Roślinna,,,,way
@@ -3361,6 +3357,7 @@ Tulipanów,,,,way
 Tulipanowa,,,,way
 Tumska,,,,way
 "Tunel Wisłostrady",,,,way
+"Tunel śmierci",,,,way
 Turbinowa,,,,way
 Turecka,,,,way
 Turkawki,,,,way
@@ -3766,8 +3763,10 @@ Złotopolska,,,,way
 "Złotych Piasków",,,,way
 "dojazd pożarowy 49",,,,way
 "dojazd pożarowy 51",,,,way
+"dojazd pożarowy W37",,,,way
 "droga pożarowa 49",,,,way
 "generała Leopolda Okulickiego",,,,way
+"likwiadacja przejazdu od 3.11.2025",,,,way
 "plac Ostrej Bramy",,,,relation
 "plac Ratuszowy",,,,relation
 "plac Trynopolski",,,,relation
@@ -3805,6 +3804,7 @@ Złotopolska,,,,way
 "Łuki Małe",,,,way
 "Łuki Wielkie",,,,way
 Łukiska,,,,way
+Łukowa,,,,way
 Łysakowska,,,,way
 Łysogórska,,,,way
 Łyszkowicka,,,,way
@@ -3818,9 +3818,9 @@ Złotopolska,,,,way
 Łęgi,,,,way
 Łęgowa,,,,way
 Ścieżka,,,,way
-"Ścieżka Rekreacyjna",,,,way
 "Ścieżka księdza Bronka Bozowskiego",,,,way
 "Ścieżka nad Kanałkiem",,,,way
+"Ścieżka straży",,,,way
 Ślazowa,,,,way
 Ślepa,,,,way
 Ślimaka,,,,way
