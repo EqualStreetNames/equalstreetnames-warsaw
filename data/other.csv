@@ -251,7 +251,6 @@ Albatrosów,,,,way
 "Aleja Lipowa",,,,way
 "Aleja Lipowa (28 - 45)",,,,way
 "Aleja Longina Majdeckiego",,,,way
-"Aleja Lotników",,,,way
 "Aleja Ludwiki Nitschowej",,,,way
 "Aleja Magnolii",,,,way
 "Aleja Malaw",,,,way
@@ -703,6 +702,7 @@ Chryzantemy,,,,way
 Chylicka,,,,way
 Chyrowska,,,,way
 Chłodnicza,,,,way
+"Chłopiec z latarnią",,,,way
 Ciasna,,,,way
 "Cicha Dolina",,,,way
 "Cichej Wody",,,,way
@@ -890,6 +890,7 @@ Dzierzgońska,,,,way
 Dzierżoniowska,,,,way
 Dziewanny,,,,way
 Dziewanowska,,,,way
+"Dziewczynka z latarnią",,,,way
 Dziewiarska,,,,way
 Dziewierza,,,,way
 Dziewosłęby,,,,way
@@ -949,7 +950,9 @@ Estrady,,,,way
 "Eugeniusza Kwiatkowskiego",,,,way
 Eukaliptusowa,,,,way
 Ewy,,,,way
+"Ewy Pohoskiej",,,,way
 Fabiańska,,,,way
+"Fabryki „Tewa”",,,,way
 Fajna,,,,way
 Falenicka,,,,way
 Falentyńska,,,,way
@@ -1552,7 +1555,6 @@ Korowodu,,,,way
 Korsarska,,,,way
 Korsuńska,,,,way
 Korsykańska,,,,way
-Koryncka,,,,way
 Korytnicka,,,,way
 Korzeniowa,,,,way
 Korzenna,,,,way
@@ -1687,7 +1689,6 @@ Kwarciana,,,,way
 "Kwiatowa Polana",,,,way
 "Kwiatu Paproci",,,,way
 "Kwiatu Pomarańczy",,,,way
-Kwidzyńska,,,,way
 Kwitnąca,,,,way
 "Kwitnącego Sadu",,,,way
 "Kwitnącej Akacji",,,,way
@@ -1706,7 +1707,6 @@ Kątowa,,,,way
 Kędzierzyńska,,,,way
 "Kępa Tarchomińska",,,,way
 Kępna,,,,way
-"Kładka (w budowie)",,,,way
 "Kładka Żerańska",,,,way
 Kłobucka,,,,way
 Kłopot,,,,way
@@ -1933,7 +1933,6 @@ Miechowska,,,,way
 Miedza,,,,way
 Miedzianogórska,,,,way
 Miejska,,,,way
-Mielecka,,,,way
 Mielnicka,,,,way
 Mieszczańska,,,,way
 Migdałowa,,,,way
@@ -2170,7 +2169,6 @@ Ogniowa,,,,way
 Ogniskowa,,,,way
 Ogólna,,,,way
 Ogórkowa,,,,way
-"Ogródek Belvedere",,,,way
 Ogrodnicza,,,,way
 Ogrodniczek,,,,way
 Ogrodowa,,,,way
@@ -2337,6 +2335,7 @@ Pańska,,,,way
 Paśników,,,,way
 Pejzażowa,,,,way
 Pelargonii,,,,way
+Pelcowizna,,,,way
 Pelikanów,,,,way
 Pelplińska,,,,way
 Penelopy,,,,way
@@ -2363,7 +2362,6 @@ Piecuszka,,,,way
 Piegży,,,,way
 Piekarska,,,,way
 Pielgrzymów,,,,way
-Pielęgniarek,,,,way
 Pierwiosnków,,,,way
 Piesza,,,,way
 "Pieta Mondriana",,,,way
@@ -2767,6 +2765,7 @@ Romańska,,,,way
 "Rondo Budowniczych Ursynowa",,,,way
 "Rondo Henryka Linowskiego",,,,way
 "Rondo Hutników Warszawskich",,,,way
+"Rondo Jadwigi Szczawińskiej-Dawidowej",,,,way
 "Rondo Jana Cierlińskiego",,,,way
 "Rondo Jana Kazimierczaka",,,,way
 "Rondo Jana Webera",,,,way
@@ -2884,7 +2883,6 @@ Rękopis,,,,way
 "S7 (planowana)",,,,way
 Sabały,,,,way
 Sadkowska,,,,way
-Sadulska,,,,way
 "Sady Zawadowskie",,,,way
 Safony,,,,way
 Sagalli,,,,way
@@ -2967,6 +2965,7 @@ Skrzatów,,,,way
 Skrzypcowa,,,,way
 Skrzypów,,,,way
 Skuterowa,,,,way
+"Skwer 7 Pułku Piechoty Armii Krajowej ""Garłuch""",,,,way
 "Skwer Adolfa Marii Bocheńskiego",,,,way
 "Skwer Alfonsa Grotowskiego",,,,way
 "Skwer Aliny Scholtz",,,,way
@@ -2976,6 +2975,7 @@ Skuterowa,,,,way
 "Skwer Barbary i Stanisława Brukalskich",,,,way
 "Skwer Batalionu AK „Gozdawa”",,,,way
 "Skwer Batalionu AK „Miłosz”",,,,way
+"Skwer Bazy Lotniczej Armii Krajowej ""Łużyce""",,,,way
 "Skwer Bohdana Lacherta",,,,way
 "Skwer Bronisława Geremka",,,,way
 "Skwer Ewangelicki",,,,way
@@ -3006,6 +3006,7 @@ Skuterowa,,,,way
 "Skwer Pamięci",,,,way
 "Skwer Pokolenia Kolumbów",,,,way
 "Skwer Polskich Olimpijczyków",,,,way
+"Skwer Prymasowski",,,,way
 "Skwer Reduty Kaliskiej",,,,way
 "Skwer Rodziny Kuczerów",,,,way
 "Skwer Rudolfa Weigla",,,,way
@@ -3764,9 +3765,9 @@ Złotopolska,,,,way
 "dojazd pożarowy 49",,,,way
 "dojazd pożarowy 51",,,,way
 "dojazd pożarowy W37",,,,way
+"droga leśna W21",,,,way
 "droga pożarowa 49",,,,way
 "generała Leopolda Okulickiego",,,,way
-"likwiadacja przejazdu od 3.11.2025",,,,way
 "plac Ostrej Bramy",,,,relation
 "plac Ratuszowy",,,,relation
 "plac Trynopolski",,,,relation
