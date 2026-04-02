@@ -331,7 +331,7 @@ Albatrosów,,,,way
 "Aleja Tulipanowa",,,,way
 "Aleja Tulipanowa (207 - 215)",,,,way
 "Aleja Urocza",,,,way
-"Aleja Uśmiechów",,,,way
+"Aleja Uśmiechu",,,,way
 "Aleja Wesoła",,,,way
 "Aleja Wesoła (82 - 98)",,,,way
 "Aleja Wierzbowa",,,,way
@@ -700,7 +700,6 @@ Chryzantemy,,,,way
 Chylicka,,,,way
 Chyrowska,,,,way
 Chłodnicza,,,,way
-"Chłopiec z latarnią",,,,way
 Ciasna,,,,way
 "Cicha Dolina",,,,way
 "Cichej Wody",,,,way
@@ -887,7 +886,6 @@ Dzierzgońska,,,,way
 Dzierżoniowska,,,,way
 Dziewanny,,,,way
 Dziewanowska,,,,way
-"Dziewczynka z latarnią",,,,way
 Dziewiarska,,,,way
 Dziewierza,,,,way
 Dziewosłęby,,,,way
@@ -1122,6 +1120,7 @@ Grodziska,,,,way
 Grodzka,,,,way
 Gromowładna,,,,way
 Gronostaja,,,,way
+Groszkowa,,,,way
 Groszowicka,,,,way
 Groteski,,,,way
 Grotowska,,,,way
@@ -1133,6 +1132,8 @@ Gruntowa,,,,way
 Gruszkowa,,,,way
 Gruszy,,,,way
 Gryfitów,,,,way
+Grymaly-Siedleckiego,,,,way
+Grymały-Siedleckiego,,,,way
 "Grzegorza Piramowicza",,,,way
 "Grzegorza Przemyka",,,,way
 Grzybowa,,,,way
@@ -1258,6 +1259,7 @@ Iławska,,,,way
 Jabłeczna,,,,way
 Jabłoni,,,,way
 Jabłoniowa,,,,way
+Jabłonowska,,,,way
 Jachtowa,,,,way
 Jadowska,,,,way
 "Jadwigi i Witolda Kokoszków",,,,way
@@ -1437,7 +1439,6 @@ Kazachska,,,,way
 "Kazimierza Brandysa",,,,way
 "Kazimierza Dąbrowskiego",,,,way
 "Kazimierza Kuratowskiego",,,,way
-"Kazimierza Pułaskiego",,,,way
 "Kazimierza Sotta „Sokoła”",,,,way
 "Kazimierza Szałasa",,,,way
 Kazimierzowska,,,,way
@@ -1483,7 +1484,6 @@ Kobryńska,,,,way
 Kobuza,,,,way
 Kobylańska,,,,way
 Kobzy,,,,way
-Kocia,,,,way
 "Kociego Wąsa",,,,way
 Kociszewskich,,,,way
 Kocka,,,,way
@@ -2379,6 +2379,7 @@ Piłkarska,,,,way
 Pińczowska,,,,way
 Pińska,,,,way
 "Plac 1831 Roku",,,,way
+"Plac Adama Małysza",,,,way
 "Plac Aleksandra Rembowskiego",,,,way
 "Plac Bankowy",,,,way
 "Plac Bernardyński",,,,way
@@ -2404,6 +2405,7 @@ Pińska,,,,way
 "Plac Małachowskiego",,,,way
 "Plac Na Rozdrożu",,,,way
 "Plac Narodzenia Pańskiego",,,,way
+"Plac Ostrej Bramy",,,,way
 "Plac Piotra Szembeka",,,,way
 "Plac Pięciu Rogów",,,,way
 "Plac Pole Elekcyjne",,,,way
@@ -2413,6 +2415,7 @@ Pińska,,,,way
 "Plac Słoneczny",,,,way
 "Plac Służewski",,,,way
 "Plac Teatralny",,,,way
+"Plac Trynopolski",,,,way
 "Plac Trzech Krzyży",,,,way
 "Plac Weteranów 1863 roku",,,,way
 "Plac Wielopole",,,,way
@@ -2789,7 +2792,6 @@ Romańska,,,,way
 "Rondo mjr. Zygmunta Szendzielarza „Łupaszki”",,,,relation
 "Rondo podporucznika Feliksa Zaremby",,,,way
 "Rondo Żaba",,,,way
-Ropczycka,,,,way
 Rosiczki,,,,way
 Rosnąca,,,,way
 Rosochata,,,,way
@@ -3762,9 +3764,7 @@ Złotopolska,,,,way
 "droga leśna W21",,,,way
 "droga pożarowa 49",,,,way
 "generała Leopolda Okulickiego",,,,way
-"plac Ostrej Bramy",,,,relation
 "plac Ratuszowy",,,,relation
-"plac Trynopolski",,,,relation
 "planowany łącznik",,,,way
 "stanowisko postojowe ""zapasowe""",,,,way
 Łabiszyńska,,,,way
