@@ -523,6 +523,7 @@ Okaryny,wikidata,-,Q187780,way
 Okocimska,wikidata,-,Q2017377,way
 Okopowa,wikidata,-,Q91764,way
 Oleandrów,wikidata,-,Q155833;Q11797715,way
+Olimpijska,wikidata,-,Q5389,way
 Olkuska,wikidata,-,Q764943,way
 Olszowa,wikidata,-,Q25239,way
 Olsztyńska,wikidata,-,Q82765,way
@@ -654,7 +655,6 @@ Radomszczańska,wikidata,-,Q158796,way
 Radzymińska,wikidata,-,Q609246,way
 Rakowska,wikidata,-,Q11833730,way
 Raszyńska,wikidata,-,Q989813,way
-Rebusowa,wikidata,-,Q816260,way
 Regulska,wikidata,-,Q2042544,way
 Relaksowa,wikidata,-,Q3935810,way
 Rembertowska,wikidata,-,Q1494474,way
@@ -745,6 +745,7 @@ Solińska,wikidata,-,Q3183559,way
 Sosnowa,wikidata,-,Q12024,way
 Sowia,wikidata,-,Q25222,way
 Spalinowa,wikidata,-,Q6018565,way
+Spartańska,wikidata,-,Q5690,way
 Spiska,wikidata,-,Q205530,way
 Sportowa,wikidata,-,Q349,way
 Srebrna,wikidata,-,Q1090,way
@@ -786,7 +787,7 @@ Szturmowa,wikidata,-,Q2001676,way
 Szwedzka,wikidata,-,Q34,way
 Szwoleżerów,wikidata,-,Q1936719,way
 Szynowa,wikidata,-,Q633423,way
-Szyszkowa,wikidata,-,Q22710,way
+Szyszkowa,wikidata,-,Q22710;Q816260,way
 Sąchocka,wikidata,-,Q3078177,way
 Sągi,wikidata,-,Q9352929,way
 Sąsiedzka,wikidata,-,Q6699453;Q1986893,way
@@ -1450,6 +1451,7 @@ Horacego,wikidata,M,Q6197,way
 "Józefa Szujskiego",wikidata,M,Q649552,way
 "Józefa i Jana Rostafińskich",wikidata,M,Q506075;Q60837679,way
 "Józsefa Antalla",wikidata,M,Q481442,way
+"Julian Ursyn Niemcewicz",wikidata,M,Q458241,way
 "Juliana Bartoszewicza",wikidata,M,Q3207595,way
 "Juliana Ejsmonda",wikidata,M,Q4530093,way
 "Juliana Fałata",wikidata,M,Q1349858,way
