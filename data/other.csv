@@ -1735,7 +1735,6 @@ Leonidasa,,,,way
 Leszczynowa,,,,way
 Leszczyny,,,,way
 Leszczyńska,,,,way
-Leszno,,,,way
 Lesznowolska,,,,way
 Lewandów,,,,way
 Lewicka,,,,way
@@ -2019,6 +2018,7 @@ Myśliborska,,,,way
 Myśliwska,,,,way
 Mątwicka,,,,way
 Męcińska,,,,way
+Młoda,,,,way
 Młodnicka,,,,way
 Młodzieży,,,,way
 Młyńska,,,,way
@@ -2398,6 +2398,7 @@ Pińska,,,,way
 "Plac Ireneusza Gugulskiego",,,,way
 "Plac Jaśminowy Zakątek",,,,relation+way
 "Plac Kasztelański",,,,way
+"Plac Katedry Kartografii",,,,relation
 "Plac Klonowego Liścia",,,,relation
 "Plac Konesera",,,,relation
 "Plac Konfederacji",,,,way
@@ -2416,7 +2417,7 @@ Pińska,,,,way
 "Plac Służewski",,,,way
 "Plac Teatralny",,,,way
 "Plac Trynopolski",,,,way
-"Plac Trzech Krzyży",,,,way
+"Plac Trzech Krzyży",,,,relation+way
 "Plac Weteranów 1863 roku",,,,way
 "Plac Wielopole",,,,way
 "Plac Zamkowy",,,,relation+way
@@ -2566,7 +2567,6 @@ Precyzyjna,,,,way
 Prezydencka,,,,way
 Prochowa,,,,way
 Produkcyjna,,,,way
-Profesorska,,,,way
 Progi,,,,way
 Projektowana,,,,way
 Proletariatczyków,,,,way
@@ -2766,6 +2766,7 @@ Romańska,,,,way
 "Rondo Jana Webera",,,,way
 "Rondo Janusza A. Zajdla",,,,way
 "Rondo Jazdy Polskiej",,,,way
+"Rondo Jerzego Jednaszewskiego",,,,way
 "Rondo Józefa Maroszka",,,,way
 "Rondo Karola Edmunda Wolframa",,,,way
 "Rondo Kazimierza Pelczara",,,,way
@@ -2981,6 +2982,7 @@ Skuterowa,,,,way
 "Skwer Jacka Decowskiego",,,,way
 "Skwer Jacka Kaczmarskiego",,,,way
 "Skwer Janusza Grabiańskiego",,,,way
+"Skwer Jerzego Franciszka Kulczyckiego",,,,way
 "Skwer Jerzego Kastrioty Skanderbega",,,,way
 "Skwer Jerzego Wasowskiego",,,,way
 "Skwer Karaimski",,,,way
