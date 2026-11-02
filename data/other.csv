@@ -2,7 +2,6 @@ name,source,gender,wikidata,type
 "(290 - 294)",,,,way
 "(330 - 331)",,,,way
 "(332 - 338)",,,,way
-"1 Maja",,,,way
 "11KDL Leszczyny",,,,way
 11KDW,,,,way
 12KDW,,,,way
@@ -155,6 +154,7 @@ Albatrosów,,,,way
 "Aleja 97",,,,way
 "Aleja 98",,,,way
 "Aleja 99",,,,way
+"Aleja A",,,,way
 "Aleja Agrestowa",,,,way
 "Aleja Agrestowa (20 - 32)",,,,way
 "Aleja Akaciowa",,,,way
@@ -165,6 +165,7 @@ Albatrosów,,,,way
 "Aleja Astrów",,,,way
 "Aleja Azalii",,,,way
 "Aleja Azalii (66 - 75)",,,,way
+"Aleja B",,,,way
 "Aleja Begonii",,,,way
 "Aleja Bemówny",,,,way
 "Aleja Berberysów",,,,way
@@ -179,22 +180,27 @@ Albatrosów,,,,way
 "Aleja Brzozy",,,,way
 "Aleja Bzów",,,,way
 "Aleja Bzu",,,,way
+"Aleja C",,,,way
 "Aleja Cisuca",,,,way
 "Aleja Cynii",,,,way
 "Aleja Czeremchy",,,,way
 "Aleja Czereśni",,,,way
 "Aleja Czereśniowa",,,,way
 "Aleja Czereśniowa (119 - 134)",,,,way
+"Aleja D",,,,way
 "Aleja Dalii",,,,way
 "Aleja Dwudziestolatków",,,,way
 "Aleja Dzieci Polskich",,,,way
 "Aleja Dębu",,,,way
 "Aleja Długa",,,,way
+"Aleja E",,,,way
 "Aleja Emila Wedla",,,,way
+"Aleja F",,,,way
 "Aleja Fikusa",,,,way
 "Aleja Fiołka",,,,way
 "Aleja Fiołków",,,,way
 "Aleja Floksów",,,,way
+"Aleja G",,,,way
 "Aleja Godziny „W”",,,,way
 "Aleja Goździków",,,,way
 "Aleja Grusz",,,,way
@@ -202,11 +208,14 @@ Albatrosów,,,,way
 "Aleja Grzecznych Dzieci",,,,way
 "Aleja Głogów",,,,way
 "Aleja Główna",,,,way
+"Aleja Główna A",,,,way
 "Aleja Główna nr 3",,,,way
+"Aleja H",,,,way
 "Aleja Haliny Kifer-Pomykalskiej „Kropelki”",,,,way
 "Aleja Hanny Szwankowskiej",,,,way
 "Aleja Henryka Jordana",,,,way
 "Aleja Hortensji",,,,way
+"Aleja I",,,,way
 "Aleja Inspektowa",,,,way
 "Aleja Irgi",,,,way
 "Aleja Irysa",,,,way
@@ -226,6 +235,7 @@ Albatrosów,,,,way
 "Aleja Jodłowa (52 - 55)",,,,way
 "Aleja Jodły",,,,way
 "Aleja Józefy Gudzińskiej",,,,way
+"Aleja K",,,,way
 "Aleja Kaczek (111 - 117)",,,,way
 "Aleja Kaczek (95 - 99, 118 - 126)",,,,way
 "Aleja Kalinowa",,,,way
@@ -242,11 +252,13 @@ Albatrosów,,,,way
 "Aleja Kwiatów",,,,way
 "Aleja Kwiatowa",,,,way
 "Aleja Kwiatowa (101 - 116)",,,,way
+"Aleja L",,,,way
 "Aleja Lewkonii",,,,way
 "Aleja Lilii",,,,way
 "Aleja Liliowa",,,,way
-"Aleja Lipowa",,,,way
 "Aleja Lipowa (28 - 45)",,,,way
+"Aleja Lipowa (L)",,,,way
+"Aleja M",,,,way
 "Aleja Magnolii",,,,way
 "Aleja Malaw",,,,way
 "Aleja Malinowa",,,,way
@@ -267,17 +279,20 @@ Albatrosów,,,,way
 "Aleja Morelowa",,,,way
 "Aleja Morelowa (156 - 169)",,,,way
 "Aleja Młodzieży",,,,way
+"Aleja N",,,,way
 "Aleja Na Skarpie",,,,way
 "Aleja Nadziei",,,,way
 "Aleja Narcyza",,,,way
 "Aleja Narcyzowa",,,,way
 "Aleja Niezapominajek (33 - 41)",,,,way
+"Aleja O",,,,way
 "Aleja Obrońców Warszawy",,,,way
 "Aleja Ofiar Rosyjskiej Agresji",,,,way
 "Aleja Okrężna",,,,way
 "Aleja Orzecha",,,,way
 "Aleja Orzechowa",,,,way
 "Aleja Owocowa",,,,way
+"Aleja P",,,,way
 "Aleja Paproci",,,,way
 "Aleja Peonii",,,,way
 "Aleja Pigwy",,,,way
@@ -286,16 +301,19 @@ Albatrosów,,,,way
 "Aleja Porzeczkowa (10 - 27)",,,,way
 "Aleja Poziomkowa",,,,way
 "Aleja Poziomkowa (219 - 225) / (372 - 378)",,,,way
+"Aleja Profesorska",,,,way
 "Aleja Przy Fosie",,,,way
 "Aleja Przyjaciół",,,,way
 "Aleja „Psotki i Śmieszki”",,,,way
 "Aleja Pszczółek",,,,way
+"Aleja R",,,,way
 "Aleja Rabatkowa (381 - 400)",,,,way
 "Aleja Róż",,,,way
 "Aleja Różana",,,,way
 "Aleja Różana (1-10) / (85 - 95)",,,,way
 "Aleja Róży",,,,way
 "Aleja Rumiankowa",,,,way
+"Aleja S",,,,way
 "Aleja Sasanki",,,,way
 "Aleja Sikorek",,,,way
 "Aleja Skowronków",,,,way
@@ -314,6 +332,7 @@ Albatrosów,,,,way
 "Aleja Słoneczna",,,,way
 "Aleja Słoneczników",,,,way
 "Aleja Słowików",,,,way
+"Aleja T",,,,way
 "Aleja Topoli",,,,way
 "Aleja Tramwajowa",,,,way
 "Aleja Truskawkowa",,,,way
@@ -323,6 +342,7 @@ Albatrosów,,,,way
 "Aleja Tulipanów",,,,way
 "Aleja Tulipanowa",,,,way
 "Aleja Tulipanowa (207 - 215)",,,,way
+"Aleja U",,,,way
 "Aleja Urocza",,,,way
 "Aleja Uśmiechu",,,,way
 "Aleja Wesoła",,,,way
@@ -1281,7 +1301,6 @@ Jowisza,,,,way
 "Józefa Węgrzyna",,,,way
 "Józefa Zaliwskiego",,,,way
 Józefowska,,,,way
-Jubilerska,,,,way
 Jugosłowiańska,,,,way
 Juhasów,,,,way
 Julianowska,,,,way
@@ -1365,6 +1384,7 @@ Kawkowizna,,,,way
 Kawęczyńska,,,,way
 "Kazimierza Brandysa",,,,way
 "Kazimierza Dąbrowskiego",,,,way
+"Kazimierza Meyera",,,,way
 "Kazimierza Szałasa",,,,way
 Kazimierzowska,,,,way
 Kazita,,,,way
@@ -1441,7 +1461,6 @@ Konfitury,,,,way
 Koniczynowa,,,,way
 Koniecpolska,,,,way
 "Konik Polny",,,,way
-Konińska,,,,way
 Konopacka,,,,way
 Konopna,,,,way
 "Konrada Guderskiego",,,,way
@@ -2134,6 +2153,7 @@ Oszmiańska,,,,way
 Otawska,,,,way
 Otomańska,,,,way
 Otrębuska,,,,way
+Otulinowa,,,,way
 Otwarta,,,,way
 Owczarska,,,,way
 "Owoców Leśnych",,,,way
@@ -2195,6 +2215,7 @@ Pasymska,,,,way
 Patriotów,,,,way
 Patrolowa,,,,way
 Pawia,,,,way
+Pawimenta,,,,way
 Pałuków,,,,way
 Pańska,,,,way
 Paśników,,,,way
@@ -2700,7 +2721,7 @@ Rymarska,,,,way
 "Rynek Mariensztacki",,,,way
 "Rynek Nowego Miasta",,,,way
 "Rynek Solecki",,,,way
-"Rynek Starego Miasta",,,,relation
+"Rynek Starego Miasta",,,,relation+way
 "Rynek Warzelni",,,,way
 Rynkowa,,,,way
 Rysia,,,,way
@@ -3040,7 +3061,7 @@ Szeligowska,,,,way
 Szepietowska,,,,way
 Szermiercza,,,,way
 Szeroka,,,,way
-"Szeroki Dunaj",,,,way
+"Szeroki Dunaj",,,,relation+way
 Szewska,,,,way
 Szklana,,,,way
 "Szklanych Domów",,,,way

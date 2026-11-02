@@ -4,6 +4,7 @@ name,source,gender,wikidata,type
 "Rodziny Hiszpańskich",wikidata,+,Q65165448;Q28653974;Q11768897;Q8861722,way
 Stryjeńskich,wikidata,+,Q218326;Q9146036;Q3193544;Q3513721,way
 "Zaułek Marii i Aleksandra Żabczyńskich",wikidata,+,Q7944611;Q4715009,way
+"1 Maja",wikidata,-,Q47499,way
 "1 Praskiego Pułku WP",wikidata,-,Q11683252,way
 "1 Sierpnia",wikidata,-,Q2788,way
 "11 Listopada",wikidata,-,Q1342323;Q2987;Q2987;Q81745789,way
@@ -384,6 +385,7 @@ Jerzyka,wikidata,-,Q25377,way
 Jesionowa,wikidata,-,Q128887,way
 Jezuicka,wikidata,-,Q36380,way
 Jodłowa,wikidata,-,Q25350,way
+Jubilerska,wikidata,-,Q336221,way
 "Juranda ze Spychowa",wikidata,-,Q11729480,way
 Kaczeńca,wikidata,-,Q147192,way
 Kadryla,wikidata,-,Q394084,way
@@ -432,6 +434,7 @@ Kolneńska,wikidata,-,Q1614791,way
 Komputerowa,wikidata,-,Q68,way
 Koncertowa,wikidata,-,Q182832,way
 Konewki,wikidata,-,Q50643,way
+Konińska,wikidata,-,Q52845,way
 Konotopska,wikidata,-,Q576625,way
 Konstancińska,wikidata,-,Q985687,way
 Koralowa,wikidata,-,Q171446,way
@@ -687,7 +690,7 @@ Piłkarska,wikidata,-,Q2736,way
 Platanów,wikidata,-,Q163025,way
 Platynowa,wikidata,-,Q880,way
 "Plutonu AK „Torpedy”",wikidata,-,Q212948;Q2972184,way
-"Poczty Gdańskiej",wikidata,-,Q564399;Q385,way
+"Poczty Gdańskiej",wikidata,-,Q564388,way
 Podbipięty,wikidata,-,Q221317,way
 Podgrzybków,wikidata,-,Q578471,way
 Podróżnicza,wikidata,-,Q53436;Q12356615,way
@@ -1071,7 +1074,7 @@ Zerzeńska,wikidata,-,Q9390198,way
 "Zgrupowania AK „Żubr”",wikidata,-,Q11838435,way
 "Zgrupowania AK „Żyrafa”",wikidata,-,Q8083506,way
 "Zielonej Gęsi",wikidata,-,Q9356240,way
-Zielonogórska,wikidata,-,Q525;Q104720,way
+Zielonogórska,wikidata,-,Q104720,way
 Ziemska,wikidata,-,Q2,way
 Zimna,wikidata,-,Q270952,way
 Zięby,wikidata,-,Q25383,way
